@@ -1,0 +1,2001 @@
+Student ID,Age,Gender,Department,Social Media Platform,Daily Social Media Hours,Study Hours Per Day,Sleep Hours Per Day,Social Media Purpose,GPA
+STU10001,24,Male,Business Administration,TikTok,3.2,5.7,5.0,Entertainment,3.48
+STU10002,24,Male,Mass Communication,TikTok,2.9,4.6,7.1,Communication,2.72
+STU10003,23,Female,Education,Instagram,2.4,2.1,6.1,Entertainment,3.62
+STU10004,29,Female,Political Science,TikTok,3.8,1.0,5.5,Communication,2.02
+STU10005,26,Female,Biochemistry,TikTok,1.2,5.0,8.8,Business,3.65
+STU10006,19,Male,Microbiology,TikTok,2.6,4.3,7.3,Communication,4.02
+STU10007,21,Male,Accounting,Instagram,3.5,4.6,5.6,News,3.22
+STU10008,21,Female,Education,WhatsApp,2.9,4.9,7.3,Entertainment,2.79
+STU10009,26,Female,Economics,X,0.9,4.1,5.8,Education,3.48
+STU10010,19,Female,Economics,TikTok,5.4,3.3,6.4,Entertainment,3.47
+STU10011,21,Male,Microbiology,TikTok,3.6,4.6,6.4,News,4.11
+STU10012,18,Female,Accounting,WhatsApp,6.2,2.0,6.8,News,3.15
+STU10013,21,Male,Microbiology,Facebook,3.1,3.8,8.9,Communication,1.89
+STU10014,21,Female,Business Administration,X,3.1,2.9,7.7,Business,2.99
+STU10015,20,Female,Engineering,TikTok,5.7,3.8,7.6,Entertainment,2.76
+STU10016,18,Female,Engineering,TikTok,3.7,3.2,7.0,Communication,3.42
+STU10017,24,Female,Business Administration,WhatsApp,6.2,2.9,7.1,Business,3.28
+STU10018,22,Male,Business Administration,Facebook,3.3,5.9,8.2,Communication,3.57
+STU10019,19,Female,Biochemistry,TikTok,4.4,3.9,8.1,Entertainment,3.39
+STU10020,25,Female,Accounting,X,4.2,2.8,6.5,News,2.99
+STU10021,22,Male,Engineering,TikTok,3.4,6.2,5.4,Entertainment,4.74
+STU10022,21,Female,Microbiology,WhatsApp,3.7,3.9,6.8,Entertainment,4.11
+STU10023,23,Male,Computer Science,Instagram,4.3,5.5,6.7,Communication,3.86
+STU10024,28,Male,Education,TikTok,6.6,2.9,6.2,Entertainment,1.31
+STU10025,21,Female,Economics,X,4.5,3.6,7.0,Entertainment,1.28
+STU10026,18,Male,Education,TikTok,1.2,2.9,8.0,Communication,2.8
+STU10027,23,Male,Political Science,WhatsApp,4.4,2.2,5.3,Entertainment,2.57
+STU10028,23,Male,Education,Instagram,2.0,3.7,7.2,News,3.4
+STU10029,18,Male,Mass Communication,TikTok,2.4,4.3,5.6,Business,3.81
+STU10030,23,Female,Economics,Instagram,2.7,2.5,6.0,Communication,2.95
+STU10031,21,Female,Engineering,Facebook,4.9,4.4,6.7,News,3.54
+STU10032,21,Female,Microbiology,X,4.7,4.0,7.0,Entertainment,2.62
+STU10033,24,Male,Economics,TikTok,6.1,2.0,7.8,Communication,2.02
+STU10034,28,Male,Microbiology,Facebook,4.2,3.2,7.8,Entertainment,2.17
+STU10035,26,Female,Engineering,WhatsApp,1.3,2.9,7.4,News,3.39
+STU10036,23,Female,Mass Communication,TikTok,6.6,2.6,5.6,Business,2.27
+STU10037,26,Male,Microbiology,WhatsApp,3.2,2.7,7.6,News,2.72
+STU10038,24,Female,Economics,Facebook,4.3,5.7,6.2,Communication,4.3
+STU10039,23,Male,Mass Communication,Instagram,4.7,6.9,7.0,Communication,3.5
+STU10040,23,Female,Political Science,X,1.7,4.7,7.8,Entertainment,3.95
+STU10041,25,Male,Mass Communication,WhatsApp,4.6,2.2,5.3,Communication,3.63
+STU10042,22,Male,Biochemistry,WhatsApp,3.8,3.1,6.9,Entertainment,3.35
+STU10043,21,Male,Computer Science,Instagram,3.5,3.3,4.8,Entertainment,1.94
+STU10044,22,Female,Microbiology,Instagram,3.2,5.5,8.1,News,3.57
+STU10045,20,Female,Education,WhatsApp,5.8,3.1,5.2,Business,2.88
+STU10046,25,Male,Engineering,Facebook,4.6,3.0,8.1,Entertainment,3.53
+STU10047,21,Female,Mass Communication,TikTok,6.3,3.3,6.4,Business,3.21
+STU10048,23,Male,Political Science,X,3.5,4.6,6.2,Entertainment,3.43
+STU10049,25,Male,Political Science,Instagram,2.5,4.5,6.9,Communication,3.87
+STU10050,23,Female,Economics,Instagram,5.5,2.7,6.6,Communication,2.67
+STU10051,20,Female,Education,Instagram,5.6,3.7,6.8,Communication,3.32
+STU10052,23,Male,Computer Science,Instagram,5.7,4.8,6.7,Communication,3.18
+STU10053,21,Female,Accounting,TikTok,4.2,3.0,6.3,Entertainment,3.55
+STU10054,21,Female,Education,WhatsApp,6.0,3.1,4.5,Entertainment,2.75
+STU10055,26,Female,Computer Science,Facebook,3.8,4.3,7.7,Communication,2.36
+STU10056,27,Male,Mass Communication,WhatsApp,1.6,4.6,7.7,Entertainment,3.83
+STU10057,23,Male,Microbiology,TikTok,3.2,4.1,6.1,Entertainment,4.12
+STU10058,23,Female,Computer Science,WhatsApp,4.7,3.1,6.8,Business,3.24
+STU10059,20,Female,Business Administration,TikTok,4.3,2.3,6.5,News,2.88
+STU10060,20,Female,Education,Facebook,3.7,4.8,6.3,News,3.23
+STU10061,21,Female,Engineering,TikTok,1.0,3.7,8.0,Education,3.23
+STU10062,25,Female,Economics,Instagram,5.3,2.9,7.7,Entertainment,2.73
+STU10063,18,Male,Economics,WhatsApp,0.5,3.0,6.5,Communication,3.04
+STU10064,22,Female,Economics,WhatsApp,4.0,4.9,6.3,Entertainment,4.64
+STU10065,21,Male,Biochemistry,WhatsApp,5.1,3.6,7.0,News,2.94
+STU10066,20,Female,Education,WhatsApp,7.4,5.3,6.3,Education,3.27
+STU10067,20,Female,Business Administration,TikTok,2.3,5.5,7.0,Entertainment,3.74
+STU10068,25,Female,Computer Science,X,5.7,3.9,6.6,Entertainment,3.46
+STU10069,24,Female,Economics,WhatsApp,7.0,5.1,6.7,Communication,3.41
+STU10070,22,Female,Education,WhatsApp,5.4,2.8,7.0,Entertainment,3.54
+STU10071,23,Male,Engineering,WhatsApp,2.4,2.7,6.8,Communication,3.17
+STU10072,25,Female,Engineering,WhatsApp,0.6,4.2,7.1,News,4.34
+STU10073,30,Male,Engineering,TikTok,6.5,5.5,6.4,Entertainment,3.68
+STU10074,24,Female,Economics,X,1.7,4.2,8.5,Education,4.13
+STU10075,20,Female,Accounting,TikTok,8.3,4.5,6.7,News,2.18
+STU10076,24,Male,Mass Communication,Instagram,2.5,5.2,7.1,Education,3.2
+STU10077,20,Male,Political Science,TikTok,0.7,5.7,5.7,Education,3.51
+STU10078,23,Female,Mass Communication,Instagram,3.1,2.4,7.7,Entertainment,2.13
+STU10079,24,Male,Accounting,Facebook,4.6,4.8,7.7,Communication,4.13
+STU10080,22,Female,Economics,WhatsApp,5.1,3.8,6.2,News,2.68
+STU10081,25,Male,Accounting,Facebook,4.3,4.8,7.3,Business,3.27
+STU10082,25,Male,Microbiology,X,5.7,5.3,6.1,Business,2.31
+STU10083,23,Female,Economics,TikTok,3.7,3.9,5.6,Business,3.4
+STU10084,21,Female,Biochemistry,TikTok,3.8,4.7,6.6,Communication,4.23
+STU10085,21,Male,Business Administration,WhatsApp,4.8,3.3,6.4,Education,3.09
+STU10086,22,Female,Education,X,1.7,3.3,6.8,Business,3.21
+STU10087,18,Female,Education,TikTok,3.9,5.6,8.2,Business,4.58
+STU10088,24,Male,Engineering,WhatsApp,0.5,3.4,7.7,Entertainment,3.61
+STU10089,27,Female,Economics,Facebook,7.8,4.3,6.0,Communication,3.5
+STU10090,22,Male,Microbiology,Instagram,2.8,4.3,6.6,Entertainment,4.74
+STU10091,18,Male,Economics,TikTok,3.5,2.6,8.5,Communication,3.61
+STU10092,30,Male,Education,Instagram,3.8,4.7,8.2,Education,3.13
+STU10093,23,Male,Business Administration,WhatsApp,3.6,5.0,6.4,Entertainment,3.02
+STU10094,28,Male,Business Administration,Instagram,2.3,3.7,6.0,Entertainment,3.22
+STU10095,26,Female,Business Administration,Facebook,4.4,5.5,4.5,Entertainment,3.53
+STU10096,23,Male,Computer Science,TikTok,3.4,2.7,6.4,Education,2.34
+STU10097,26,Male,Engineering,WhatsApp,5.9,2.9,6.5,Entertainment,2.75
+STU10098,24,Female,Engineering,TikTok,3.5,5.3,7.4,Communication,4.47
+STU10099,19,Male,Mass Communication,Instagram,6.3,3.5,7.3,Entertainment,3.09
+STU10100,22,Male,Education,Instagram,1.5,2.1,4.9,Communication,2.29
+STU10101,21,Male,Political Science,X,4.2,2.4,7.3,Entertainment,2.84
+STU10102,21,Male,Microbiology,TikTok,3.3,5.0,6.6,Entertainment,3.51
+STU10103,23,Male,Economics,X,4.9,1.7,7.6,Business,2.22
+STU10104,24,Female,Education,WhatsApp,3.4,3.6,5.5,Communication,3.11
+STU10105,22,Male,Engineering,WhatsApp,7.2,2.6,6.9,Communication,2.75
+STU10106,22,Male,Biochemistry,TikTok,5.0,2.2,6.9,Communication,2.74
+STU10107,24,Male,Economics,Facebook,3.3,3.7,6.0,Entertainment,2.91
+STU10108,20,Male,Education,Instagram,3.2,3.4,8.6,Entertainment,3.28
+STU10109,24,Male,Biochemistry,Facebook,3.4,5.1,6.6,Communication,2.9
+STU10110,26,Female,Accounting,WhatsApp,6.6,3.6,6.5,Business,3.05
+STU10111,24,Male,Business Administration,Facebook,4.0,3.2,7.0,Education,3.56
+STU10112,29,Male,Accounting,X,8.9,2.8,6.1,Entertainment,1.62
+STU10113,22,Male,Biochemistry,Instagram,4.3,3.0,6.2,Communication,2.58
+STU10114,21,Male,Political Science,Facebook,5.4,5.2,5.9,Communication,3.98
+STU10115,21,Female,Business Administration,WhatsApp,6.1,3.3,7.0,Entertainment,3.7
+STU10116,22,Female,Business Administration,WhatsApp,6.1,2.1,7.0,Entertainment,2.03
+STU10117,24,Male,Microbiology,WhatsApp,4.4,5.2,8.4,News,3.31
+STU10118,26,Male,Biochemistry,X,2.3,4.5,7.9,Education,3.34
+STU10119,25,Male,Biochemistry,WhatsApp,4.0,1.3,6.4,Entertainment,2.64
+STU10120,22,Female,Microbiology,WhatsApp,0.5,3.0,6.1,Education,3.45
+STU10121,21,Male,Business Administration,WhatsApp,6.0,2.9,7.6,Education,2.2
+STU10122,18,Female,Political Science,Instagram,5.8,3.1,6.7,Business,3.57
+STU10123,23,Female,Engineering,Instagram,5.5,3.0,6.6,Communication,3.06
+STU10124,27,Female,Engineering,Instagram,2.2,4.9,6.1,Education,3.67
+STU10125,23,Female,Political Science,Instagram,2.9,5.3,7.1,Entertainment,3.4
+STU10126,20,Female,Economics,Facebook,5.8,3.8,7.1,Communication,2.28
+STU10127,25,Male,Education,TikTok,2.3,3.6,6.8,Communication,3.03
+STU10128,19,Male,Political Science,Instagram,1.6,6.1,6.3,Communication,4.08
+STU10129,28,Male,Microbiology,Facebook,4.6,2.0,6.3,Entertainment,2.77
+STU10130,26,Male,Engineering,Facebook,3.5,1.9,6.0,Communication,2.75
+STU10131,21,Female,Political Science,TikTok,3.2,5.6,7.3,Entertainment,4.35
+STU10132,20,Female,Microbiology,Instagram,2.4,3.3,6.9,Entertainment,2.4
+STU10133,21,Female,Business Administration,TikTok,3.9,2.6,6.3,News,2.13
+STU10134,25,Female,Business Administration,WhatsApp,4.1,4.5,6.8,Communication,3.35
+STU10135,24,Male,Engineering,X,4.9,4.0,7.6,Entertainment,3.19
+STU10136,21,Male,Accounting,Facebook,2.9,4.2,7.9,Entertainment,3.99
+STU10137,25,Female,Economics,WhatsApp,4.9,3.4,7.5,Communication,3.4
+STU10138,23,Female,Mass Communication,Instagram,4.1,1.6,7.4,Business,2.52
+STU10139,18,Female,Accounting,TikTok,3.9,2.2,7.2,Business,2.52
+STU10140,24,Male,Mass Communication,Instagram,4.3,3.6,7.6,Communication,2.62
+STU10141,20,Male,Political Science,TikTok,4.0,4.0,5.9,Education,2.99
+STU10142,24,Male,Microbiology,Facebook,4.0,4.9,6.5,Education,3.87
+STU10143,25,Male,Political Science,TikTok,6.7,2.7,7.7,Education,3.16
+STU10144,24,Male,Engineering,TikTok,4.5,3.5,7.1,Communication,3.19
+STU10145,21,Male,Business Administration,TikTok,1.7,5.5,7.2,Communication,4.61
+STU10146,22,Male,Political Science,TikTok,3.6,2.0,7.4,Education,3.41
+STU10147,26,Male,Economics,TikTok,4.9,1.4,8.0,Education,3.25
+STU10148,22,Female,Economics,Instagram,4.3,3.2,6.5,Entertainment,3.73
+STU10149,20,Female,Computer Science,TikTok,3.8,3.6,7.9,Entertainment,2.55
+STU10150,23,Female,Mass Communication,WhatsApp,2.8,3.7,7.6,Communication,2.58
+STU10151,20,Male,Political Science,Instagram,2.3,4.7,6.6,Entertainment,2.34
+STU10152,26,Female,Education,TikTok,4.8,4.7,6.4,Entertainment,3.05
+STU10153,23,Female,Mass Communication,Instagram,5.6,4.4,6.6,Entertainment,3.28
+STU10154,29,Male,Computer Science,WhatsApp,5.1,3.3,6.8,Communication,2.91
+STU10155,20,Female,Accounting,Facebook,3.2,4.4,6.2,Communication,3.28
+STU10156,26,Female,Computer Science,Facebook,2.6,3.7,7.2,Entertainment,2.8
+STU10157,21,Female,Education,WhatsApp,6.6,3.6,6.1,Entertainment,2.25
+STU10158,21,Female,Biochemistry,TikTok,6.7,4.9,7.7,Entertainment,3.58
+STU10159,25,Female,Biochemistry,WhatsApp,5.9,3.2,7.4,Entertainment,2.81
+STU10160,23,Male,Engineering,Instagram,4.8,2.8,6.1,Business,2.74
+STU10161,24,Female,Political Science,TikTok,4.4,2.6,6.5,Entertainment,4.03
+STU10162,19,Female,Business Administration,WhatsApp,2.9,2.8,4.9,Entertainment,2.55
+STU10163,23,Male,Business Administration,WhatsApp,5.7,2.5,7.1,Education,2.21
+STU10164,22,Male,Accounting,TikTok,5.6,4.4,7.5,Business,3.47
+STU10165,20,Female,Accounting,TikTok,5.6,3.3,6.5,Education,2.35
+STU10166,20,Female,Political Science,WhatsApp,6.1,3.8,7.0,Entertainment,3.16
+STU10167,24,Male,Accounting,WhatsApp,6.9,3.2,6.6,News,2.27
+STU10168,19,Male,Economics,Facebook,4.5,2.1,8.0,Entertainment,1.72
+STU10169,24,Male,Education,WhatsApp,3.6,5.7,5.6,Communication,3.65
+STU10170,19,Male,Mass Communication,WhatsApp,3.8,4.5,7.6,Business,2.43
+STU10171,19,Female,Microbiology,X,3.5,4.3,7.4,News,3.46
+STU10172,20,Male,Economics,Instagram,3.5,3.4,8.7,News,2.33
+STU10173,27,Male,Engineering,TikTok,3.6,3.0,6.7,Entertainment,3.36
+STU10174,23,Female,Business Administration,Facebook,3.5,5.2,7.2,Entertainment,3.74
+STU10175,19,Male,Business Administration,TikTok,2.5,5.8,7.5,News,4.07
+STU10176,23,Female,Accounting,X,2.0,4.3,8.5,Communication,3.77
+STU10177,27,Female,Accounting,Instagram,3.9,4.0,5.8,Education,2.99
+STU10178,22,Male,Political Science,TikTok,3.8,4.6,6.5,Business,3.64
+STU10179,21,Female,Mass Communication,Instagram,5.0,3.2,8.2,Entertainment,3.0
+STU10180,22,Male,Economics,WhatsApp,2.5,4.5,7.7,News,2.8
+STU10181,27,Male,Biochemistry,Instagram,0.5,5.2,8.1,Entertainment,4.36
+STU10182,21,Female,Accounting,WhatsApp,5.6,4.3,7.1,Entertainment,3.05
+STU10183,20,Male,Accounting,WhatsApp,3.0,4.9,6.1,Communication,3.52
+STU10184,23,Male,Accounting,WhatsApp,0.5,5.0,6.9,News,2.97
+STU10185,20,Male,Computer Science,Facebook,2.7,3.0,6.9,Entertainment,3.01
+STU10186,24,Female,Business Administration,WhatsApp,3.2,4.7,8.0,Education,3.75
+STU10187,22,Female,Biochemistry,Instagram,5.6,2.3,7.2,Entertainment,2.92
+STU10188,25,Male,Accounting,TikTok,3.4,6.2,7.5,Entertainment,4.16
+STU10189,24,Male,Biochemistry,WhatsApp,2.8,3.8,7.3,Entertainment,2.04
+STU10190,25,Male,Computer Science,WhatsApp,4.8,5.5,5.9,Communication,4.11
+STU10191,26,Male,Accounting,X,4.2,3.3,6.7,Communication,2.96
+STU10192,22,Male,Economics,WhatsApp,3.5,3.8,6.7,Education,2.58
+STU10193,25,Male,Engineering,WhatsApp,7.0,2.8,7.6,Communication,3.15
+STU10194,27,Male,Mass Communication,WhatsApp,3.7,2.8,7.7,Entertainment,2.12
+STU10195,24,Female,Accounting,TikTok,4.4,3.8,6.8,Education,2.23
+STU10196,23,Female,Mass Communication,Instagram,3.1,3.9,6.7,Entertainment,4.37
+STU10197,20,Female,Engineering,Instagram,7.8,4.4,5.2,Entertainment,3.49
+STU10198,22,Male,Microbiology,Facebook,4.3,3.7,7.7,Business,2.36
+STU10199,23,Female,Accounting,TikTok,1.9,4.8,7.3,Entertainment,3.82
+STU10200,19,Male,Economics,Instagram,6.2,3.3,7.6,Communication,3.18
+STU10201,23,Female,Microbiology,Instagram,2.6,4.7,6.3,Education,4.01
+STU10202,19,Male,Accounting,Facebook,4.1,4.5,6.5,Communication,2.23
+STU10203,20,Female,Education,WhatsApp,6.1,1.9,7.8,Communication,2.76
+STU10204,24,Male,Business Administration,WhatsApp,6.4,4.5,6.1,Entertainment,3.22
+STU10205,24,Male,Computer Science,WhatsApp,3.9,3.2,6.0,Communication,3.59
+STU10206,22,Female,Engineering,TikTok,3.7,3.9,7.2,Communication,1.9
+STU10207,25,Female,Microbiology,TikTok,2.9,3.3,7.3,News,3.06
+STU10208,23,Female,Political Science,X,4.9,3.2,7.2,Education,3.34
+STU10209,22,Male,Biochemistry,Instagram,4.7,3.8,7.1,Education,3.66
+STU10210,21,Male,Biochemistry,WhatsApp,4.2,3.3,6.5,Education,3.56
+STU10211,25,Female,Microbiology,TikTok,2.3,3.9,6.0,News,3.09
+STU10212,23,Female,Economics,X,1.4,3.2,7.6,Entertainment,3.67
+STU10213,24,Female,Microbiology,TikTok,4.9,2.3,7.1,Education,1.93
+STU10214,28,Male,Business Administration,TikTok,5.3,3.1,8.2,News,2.52
+STU10215,21,Female,Engineering,TikTok,4.5,3.6,6.5,Communication,3.34
+STU10216,23,Male,Political Science,WhatsApp,1.4,1.6,7.1,Communication,1.89
+STU10217,24,Female,Economics,X,5.5,3.1,7.6,Entertainment,3.83
+STU10218,25,Female,Computer Science,TikTok,2.6,3.5,6.5,News,3.69
+STU10219,23,Female,Biochemistry,TikTok,0.5,5.5,9.0,Education,2.98
+STU10220,19,Male,Microbiology,Instagram,4.1,3.3,6.9,Entertainment,3.72
+STU10221,26,Female,Political Science,WhatsApp,7.2,3.4,5.9,Education,2.66
+STU10222,22,Male,Education,WhatsApp,5.0,1.0,6.7,Communication,3.15
+STU10223,24,Male,Business Administration,TikTok,3.9,3.3,6.8,Entertainment,3.56
+STU10224,21,Female,Accounting,TikTok,1.5,3.6,6.7,Entertainment,2.96
+STU10225,27,Female,Economics,WhatsApp,6.7,2.8,6.9,Entertainment,1.7
+STU10226,28,Male,Microbiology,WhatsApp,4.8,3.6,7.1,Entertainment,2.93
+STU10227,22,Female,Economics,X,1.9,6.1,7.3,Entertainment,4.76
+STU10228,20,Male,Political Science,X,2.3,4.8,6.5,Communication,3.42
+STU10229,18,Female,Mass Communication,WhatsApp,0.9,3.8,7.1,Communication,3.28
+STU10230,19,Female,Education,TikTok,3.5,5.9,7.2,Entertainment,3.42
+STU10231,22,Male,Business Administration,Facebook,1.2,4.0,6.0,Entertainment,4.15
+STU10232,25,Female,Biochemistry,TikTok,3.6,2.1,5.8,Education,2.38
+STU10233,21,Female,Computer Science,WhatsApp,3.3,2.3,7.8,Education,3.48
+STU10234,26,Male,Computer Science,WhatsApp,6.2,1.3,6.8,Communication,2.94
+STU10235,27,Male,Business Administration,WhatsApp,6.2,2.7,6.4,News,2.35
+STU10236,20,Male,Engineering,WhatsApp,5.9,4.2,7.5,Entertainment,3.32
+STU10237,18,Male,Computer Science,Facebook,9.0,3.1,7.7,Communication,3.29
+STU10238,19,Male,Mass Communication,X,3.9,4.7,6.1,Communication,4.08
+STU10239,20,Female,Computer Science,Instagram,3.4,2.9,5.7,Communication,2.17
+STU10240,24,Male,Microbiology,WhatsApp,4.1,4.1,6.6,Communication,4.25
+STU10241,24,Female,Computer Science,TikTok,6.0,2.3,5.1,Entertainment,2.63
+STU10242,24,Female,Business Administration,WhatsApp,4.6,1.7,8.0,Communication,1.75
+STU10243,30,Female,Biochemistry,WhatsApp,3.3,4.5,7.3,Business,3.03
+STU10244,20,Male,Engineering,WhatsApp,2.9,5.1,7.5,Business,3.24
+STU10245,21,Male,Economics,Instagram,5.1,3.1,7.3,Entertainment,2.96
+STU10246,27,Female,Biochemistry,Facebook,3.8,3.2,7.2,Communication,3.69
+STU10247,27,Male,Mass Communication,TikTok,7.8,3.0,6.4,Education,3.22
+STU10248,23,Male,Biochemistry,WhatsApp,4.6,2.6,7.8,Education,2.43
+STU10249,23,Female,Political Science,TikTok,7.4,1.0,6.2,Entertainment,2.53
+STU10250,19,Female,Political Science,Facebook,5.5,3.7,7.5,Education,1.79
+STU10251,22,Female,Microbiology,Instagram,0.9,5.8,6.4,Entertainment,4.14
+STU10252,28,Female,Biochemistry,X,4.9,4.5,6.5,Entertainment,2.34
+STU10253,18,Female,Computer Science,Instagram,3.6,4.5,5.7,Communication,3.1
+STU10254,23,Male,Business Administration,TikTok,4.6,4.1,7.4,Entertainment,2.61
+STU10255,21,Male,Education,TikTok,4.5,4.6,7.9,Entertainment,2.51
+STU10256,25,Male,Mass Communication,WhatsApp,3.3,3.5,8.5,Entertainment,2.98
+STU10257,23,Male,Business Administration,TikTok,5.0,3.0,7.7,Communication,2.43
+STU10258,23,Male,Accounting,WhatsApp,8.4,3.1,5.8,Business,2.59
+STU10259,20,Female,Political Science,WhatsApp,4.8,5.0,6.7,News,3.42
+STU10260,18,Female,Economics,Facebook,4.4,2.5,6.9,Entertainment,2.51
+STU10261,25,Male,Biochemistry,Instagram,3.9,4.5,6.2,Education,3.85
+STU10262,24,Male,Business Administration,WhatsApp,1.2,3.0,8.1,Communication,3.6
+STU10263,20,Female,Political Science,Instagram,4.4,3.2,6.9,Education,2.83
+STU10264,22,Female,Biochemistry,Instagram,5.1,2.2,5.4,Education,3.6
+STU10265,25,Female,Education,WhatsApp,3.7,2.4,7.1,Entertainment,1.85
+STU10266,20,Female,Computer Science,TikTok,4.9,3.9,6.1,Education,3.81
+STU10267,18,Male,Computer Science,Instagram,4.3,3.3,7.6,Education,2.71
+STU10268,22,Male,Mass Communication,TikTok,7.3,4.0,6.6,Communication,3.0
+STU10269,20,Female,Economics,TikTok,8.0,4.1,6.2,Education,3.87
+STU10270,22,Male,Education,X,7.1,1.5,6.8,Education,3.25
+STU10271,19,Male,Business Administration,Instagram,3.6,2.6,8.6,Education,2.84
+STU10272,24,Female,Accounting,TikTok,4.2,3.4,7.9,Education,2.35
+STU10273,23,Male,Business Administration,WhatsApp,3.0,4.7,6.6,Communication,3.26
+STU10274,22,Male,Education,TikTok,3.8,2.9,6.6,Entertainment,2.83
+STU10275,26,Female,Economics,TikTok,3.0,3.1,8.2,Communication,3.75
+STU10276,18,Female,Biochemistry,Facebook,1.2,2.9,7.3,Entertainment,3.18
+STU10277,22,Female,Accounting,Facebook,3.5,3.8,7.2,Education,2.93
+STU10278,23,Female,Biochemistry,TikTok,4.4,3.2,7.6,Education,1.93
+STU10279,18,Male,Education,TikTok,4.0,4.5,7.3,Entertainment,2.65
+STU10280,20,Female,Microbiology,Facebook,5.5,3.6,6.3,Entertainment,3.51
+STU10281,23,Male,Computer Science,WhatsApp,2.0,3.6,7.7,News,3.96
+STU10282,23,Male,Engineering,Instagram,4.5,4.0,8.0,Entertainment,4.19
+STU10283,23,Male,Mass Communication,WhatsApp,2.2,4.6,7.9,Communication,3.49
+STU10284,25,Male,Economics,Instagram,3.2,6.5,6.6,Entertainment,4.86
+STU10285,26,Male,Computer Science,TikTok,3.7,2.2,7.5,Communication,2.73
+STU10286,26,Male,Engineering,Instagram,6.9,3.3,6.8,Entertainment,2.19
+STU10287,24,Male,Engineering,Instagram,3.3,5.9,7.5,Entertainment,3.81
+STU10288,24,Female,Education,TikTok,4.7,3.1,5.0,Entertainment,2.07
+STU10289,20,Female,Economics,WhatsApp,6.2,3.2,6.3,Entertainment,2.42
+STU10290,22,Male,Engineering,Facebook,7.1,3.6,5.7,Entertainment,2.24
+STU10291,25,Male,Engineering,WhatsApp,3.9,4.1,7.1,Business,3.71
+STU10292,25,Male,Computer Science,Facebook,5.2,4.6,5.0,Entertainment,2.92
+STU10293,21,Female,Education,WhatsApp,4.1,2.1,6.5,Entertainment,2.65
+STU10294,28,Male,Biochemistry,Facebook,3.9,2.8,6.1,Entertainment,2.25
+STU10295,23,Female,Computer Science,Instagram,4.8,2.1,7.8,Education,3.01
+STU10296,21,Male,Computer Science,WhatsApp,4.0,2.7,7.6,Entertainment,2.77
+STU10297,24,Female,Economics,TikTok,5.0,3.4,6.0,Communication,3.17
+STU10298,21,Male,Education,WhatsApp,7.1,4.0,7.2,News,1.83
+STU10299,20,Male,Economics,Instagram,3.9,4.5,6.1,Entertainment,3.35
+STU10300,20,Female,Economics,TikTok,5.4,2.9,6.7,Entertainment,3.25
+STU10301,28,Female,Accounting,Instagram,3.4,4.0,7.3,Education,3.37
+STU10302,23,Female,Political Science,WhatsApp,3.0,4.4,7.7,Communication,2.82
+STU10303,20,Female,Mass Communication,WhatsApp,6.9,4.8,6.9,Communication,2.44
+STU10304,28,Female,Biochemistry,Instagram,5.2,3.3,5.5,Communication,2.76
+STU10305,20,Female,Economics,WhatsApp,5.1,2.2,6.1,Business,2.27
+STU10306,22,Female,Education,WhatsApp,5.6,3.3,6.7,News,3.28
+STU10307,22,Female,Biochemistry,WhatsApp,5.4,3.8,8.5,Entertainment,4.38
+STU10308,22,Female,Business Administration,WhatsApp,5.6,2.9,5.8,Entertainment,2.43
+STU10309,18,Male,Political Science,WhatsApp,0.5,6.1,8.2,Business,3.33
+STU10310,26,Male,Mass Communication,Instagram,6.0,4.0,6.8,Communication,3.3
+STU10311,24,Male,Computer Science,WhatsApp,4.9,4.5,6.5,News,2.77
+STU10312,24,Male,Education,WhatsApp,5.4,3.6,8.2,Education,1.9
+STU10313,20,Male,Accounting,Instagram,6.1,4.0,6.8,Entertainment,3.07
+STU10314,24,Male,Mass Communication,TikTok,5.1,5.0,6.5,News,3.94
+STU10315,23,Female,Economics,Facebook,3.6,3.8,5.7,Communication,3.35
+STU10316,20,Female,Economics,WhatsApp,2.5,4.9,7.8,Entertainment,4.19
+STU10317,19,Female,Business Administration,TikTok,4.0,3.3,5.6,News,2.48
+STU10318,22,Male,Education,Instagram,4.4,5.1,7.4,Entertainment,3.47
+STU10319,25,Male,Business Administration,TikTok,6.8,1.6,7.6,Business,2.4
+STU10320,21,Male,Engineering,TikTok,3.5,2.1,7.6,News,2.0
+STU10321,23,Male,Engineering,TikTok,4.7,4.0,6.6,Entertainment,4.02
+STU10322,18,Male,Biochemistry,WhatsApp,7.4,4.4,6.6,Education,2.71
+STU10323,22,Male,Economics,X,6.2,2.6,6.4,Entertainment,3.03
+STU10324,21,Female,Engineering,TikTok,4.0,3.4,8.2,Education,2.75
+STU10325,21,Male,Accounting,TikTok,1.7,4.9,7.2,Education,3.44
+STU10326,19,Male,Microbiology,WhatsApp,5.0,3.2,8.3,Business,2.45
+STU10327,22,Female,Business Administration,TikTok,3.6,2.9,6.4,Entertainment,3.22
+STU10328,25,Male,Economics,TikTok,4.9,2.7,7.2,Business,4.08
+STU10329,21,Male,Education,Facebook,5.9,3.4,6.3,Business,3.38
+STU10330,22,Female,Accounting,TikTok,7.0,3.5,7.0,Communication,3.02
+STU10331,23,Female,Education,TikTok,3.8,4.9,5.6,Communication,2.72
+STU10332,23,Male,Accounting,TikTok,5.1,4.3,7.1,Education,2.59
+STU10333,20,Male,Engineering,WhatsApp,7.0,2.8,5.6,Entertainment,3.13
+STU10334,24,Male,Political Science,TikTok,3.2,4.8,8.3,Communication,3.02
+STU10335,27,Female,Accounting,X,4.6,4.2,7.6,Communication,3.9
+STU10336,23,Male,Political Science,Facebook,4.4,2.3,7.0,Business,2.81
+STU10337,25,Female,Biochemistry,Instagram,3.9,3.1,7.4,Entertainment,2.83
+STU10338,26,Male,Mass Communication,Instagram,3.1,3.1,5.9,Communication,2.72
+STU10339,23,Female,Engineering,Instagram,3.6,5.3,6.6,Education,3.99
+STU10340,24,Female,Economics,TikTok,5.3,5.4,6.8,Entertainment,3.53
+STU10341,23,Female,Computer Science,X,4.4,3.6,6.3,Entertainment,3.12
+STU10342,23,Male,Biochemistry,X,7.6,3.7,6.6,Entertainment,2.08
+STU10343,20,Female,Biochemistry,Facebook,2.9,2.0,7.9,Education,3.06
+STU10344,25,Male,Economics,WhatsApp,4.3,2.3,6.9,Entertainment,2.19
+STU10345,22,Female,Computer Science,Facebook,3.3,3.8,8.1,Entertainment,2.91
+STU10346,25,Male,Computer Science,Instagram,5.3,4.2,7.5,News,2.57
+STU10347,25,Female,Microbiology,WhatsApp,5.8,5.4,6.6,Education,2.75
+STU10348,23,Male,Computer Science,WhatsApp,3.4,5.7,5.7,Entertainment,3.28
+STU10349,19,Male,Political Science,WhatsApp,1.6,1.4,7.9,Business,3.65
+STU10350,22,Female,Accounting,TikTok,5.3,3.1,7.7,Entertainment,2.79
+STU10351,19,Male,Biochemistry,Instagram,5.9,3.5,7.9,News,3.44
+STU10352,26,Male,Economics,WhatsApp,3.3,2.8,6.3,Entertainment,3.78
+STU10353,26,Male,Economics,Facebook,3.1,4.1,7.1,Business,3.45
+STU10354,20,Male,Engineering,TikTok,6.3,4.0,5.9,Communication,3.26
+STU10355,22,Female,Business Administration,WhatsApp,5.0,2.7,5.9,Entertainment,3.03
+STU10356,25,Female,Mass Communication,WhatsApp,5.0,4.6,7.5,Entertainment,2.77
+STU10357,20,Female,Engineering,WhatsApp,4.5,3.4,6.5,Business,3.02
+STU10358,22,Male,Computer Science,WhatsApp,7.2,4.5,6.2,Communication,3.4
+STU10359,22,Male,Education,WhatsApp,2.8,4.9,7.9,Entertainment,3.09
+STU10360,22,Female,Education,WhatsApp,4.9,4.7,8.3,Entertainment,3.41
+STU10361,28,Male,Engineering,WhatsApp,5.0,1.2,5.0,Communication,2.07
+STU10362,22,Female,Accounting,TikTok,1.9,2.5,5.5,Education,2.99
+STU10363,18,Female,Microbiology,TikTok,0.5,1.7,5.7,Communication,3.52
+STU10364,22,Female,Business Administration,TikTok,1.7,5.6,6.4,Entertainment,3.33
+STU10365,23,Female,Engineering,TikTok,5.5,3.7,6.8,Entertainment,3.37
+STU10366,21,Male,Biochemistry,Instagram,6.4,4.2,6.3,Business,2.33
+STU10367,19,Female,Education,Facebook,2.9,2.0,6.5,Communication,2.59
+STU10368,21,Male,Microbiology,TikTok,4.2,3.6,6.1,Entertainment,3.24
+STU10369,24,Female,Accounting,X,5.4,3.6,7.3,Communication,1.89
+STU10370,18,Male,Education,TikTok,1.0,5.8,5.6,Communication,4.96
+STU10371,24,Female,Education,TikTok,4.7,1.9,7.3,Entertainment,2.47
+STU10372,23,Male,Political Science,Facebook,4.1,1.7,7.9,Entertainment,1.87
+STU10373,21,Female,Biochemistry,Instagram,6.0,3.9,7.3,Entertainment,3.02
+STU10374,22,Male,Political Science,TikTok,4.1,5.0,5.7,Education,3.96
+STU10375,19,Female,Microbiology,Facebook,4.0,3.5,5.6,Communication,3.44
+STU10376,23,Female,Business Administration,Facebook,2.5,5.1,7.7,Entertainment,4.6
+STU10377,20,Female,Education,WhatsApp,4.1,2.9,7.6,Communication,2.46
+STU10378,18,Female,Mass Communication,Instagram,3.9,4.3,7.0,Communication,4.15
+STU10379,21,Female,Economics,Facebook,6.3,2.6,6.2,Communication,2.8
+STU10380,25,Male,Computer Science,WhatsApp,0.5,6.7,8.8,Entertainment,4.29
+STU10381,24,Male,Microbiology,WhatsApp,4.6,3.6,6.9,Education,2.98
+STU10382,20,Female,Economics,Instagram,4.8,4.4,5.1,Entertainment,2.96
+STU10383,20,Male,Accounting,Instagram,5.0,1.0,6.9,Entertainment,2.98
+STU10384,23,Female,Mass Communication,TikTok,4.9,1.8,7.5,Communication,1.83
+STU10385,26,Male,Education,X,4.8,2.7,6.9,Communication,3.0
+STU10386,22,Female,Engineering,TikTok,4.2,4.0,7.4,Entertainment,2.32
+STU10387,20,Male,Education,X,4.5,3.4,7.7,Communication,2.5
+STU10388,29,Male,Accounting,X,6.1,2.2,7.3,Business,2.13
+STU10389,22,Female,Economics,WhatsApp,7.4,3.3,7.6,Communication,2.14
+STU10390,26,Female,Computer Science,Instagram,4.7,4.0,6.8,News,3.33
+STU10391,26,Female,Computer Science,TikTok,4.7,3.6,6.2,Entertainment,3.46
+STU10392,25,Female,Biochemistry,WhatsApp,5.3,3.4,7.3,Communication,2.45
+STU10393,23,Female,Microbiology,WhatsApp,4.1,1.9,5.1,Entertainment,2.3
+STU10394,24,Female,Microbiology,TikTok,5.8,4.3,6.6,Entertainment,2.87
+STU10395,20,Male,Engineering,Instagram,0.8,3.6,7.7,Communication,2.46
+STU10396,20,Female,Political Science,WhatsApp,7.5,2.9,6.5,Entertainment,2.43
+STU10397,19,Female,Business Administration,Instagram,6.5,2.5,7.1,Business,2.02
+STU10398,22,Male,Computer Science,WhatsApp,5.0,6.6,8.3,Entertainment,4.12
+STU10399,19,Male,Engineering,WhatsApp,5.4,4.3,7.8,Entertainment,2.78
+STU10400,22,Female,Microbiology,WhatsApp,3.9,3.6,7.5,Education,1.74
+STU10401,19,Female,Business Administration,WhatsApp,3.9,4.1,6.5,Entertainment,2.78
+STU10402,18,Male,Mass Communication,WhatsApp,3.5,2.3,7.2,Education,2.64
+STU10403,24,Female,Computer Science,Facebook,5.0,3.5,8.0,Entertainment,3.07
+STU10404,19,Female,Education,WhatsApp,3.4,3.9,8.7,Education,4.25
+STU10405,26,Male,Mass Communication,WhatsApp,4.4,4.1,7.2,Entertainment,2.94
+STU10406,21,Female,Microbiology,Facebook,5.7,4.5,8.1,Entertainment,2.86
+STU10407,21,Female,Business Administration,TikTok,2.5,3.7,6.4,News,3.55
+STU10408,27,Male,Biochemistry,Instagram,1.2,5.3,8.3,Communication,4.39
+STU10409,26,Female,Political Science,WhatsApp,5.0,3.2,6.9,Education,2.12
+STU10410,23,Female,Mass Communication,TikTok,3.4,3.4,6.7,Business,3.58
+STU10411,25,Female,Education,WhatsApp,4.6,4.9,6.5,News,3.78
+STU10412,20,Male,Business Administration,WhatsApp,4.3,2.7,6.0,Business,3.19
+STU10413,19,Male,Business Administration,Instagram,5.9,2.4,7.4,Communication,2.99
+STU10414,23,Male,Education,WhatsApp,4.1,4.8,6.6,Communication,4.14
+STU10415,22,Male,Mass Communication,TikTok,4.7,4.4,8.0,Communication,3.84
+STU10416,20,Male,Accounting,WhatsApp,3.0,4.6,6.5,Entertainment,4.24
+STU10417,19,Male,Biochemistry,Instagram,6.0,4.4,5.7,Entertainment,2.62
+STU10418,23,Female,Accounting,WhatsApp,5.9,3.0,6.9,News,2.36
+STU10419,19,Female,Political Science,Instagram,5.4,4.3,6.9,Business,3.09
+STU10420,21,Male,Biochemistry,X,2.5,3.9,6.1,Communication,2.56
+STU10421,20,Male,Microbiology,WhatsApp,4.7,4.1,7.2,Entertainment,3.96
+STU10422,25,Female,Education,Instagram,4.6,2.2,7.4,Education,1.95
+STU10423,18,Male,Education,Instagram,2.4,3.2,7.6,Education,3.03
+STU10424,30,Female,Engineering,WhatsApp,7.8,3.7,5.6,Entertainment,2.88
+STU10425,25,Male,Microbiology,Instagram,5.6,3.5,6.3,News,3.1
+STU10426,22,Female,Accounting,TikTok,3.0,3.2,9.2,Education,2.98
+STU10427,21,Male,Political Science,Instagram,6.5,3.4,7.8,Entertainment,2.8
+STU10428,22,Male,Education,Instagram,5.0,3.8,6.9,Communication,3.06
+STU10429,21,Male,Microbiology,TikTok,2.6,4.6,6.9,Entertainment,3.16
+STU10430,25,Female,Business Administration,TikTok,5.5,4.4,4.9,Entertainment,3.2
+STU10431,20,Male,Mass Communication,TikTok,0.5,3.8,7.6,Communication,3.17
+STU10432,18,Male,Engineering,Instagram,2.3,5.3,5.1,Communication,3.99
+STU10433,23,Female,Microbiology,Instagram,5.0,2.6,7.0,Entertainment,2.59
+STU10434,19,Male,Accounting,WhatsApp,3.9,2.9,6.4,News,2.84
+STU10435,23,Male,Microbiology,WhatsApp,3.5,5.0,8.1,Entertainment,2.87
+STU10436,21,Male,Business Administration,WhatsApp,8.3,3.3,6.8,News,2.57
+STU10437,25,Male,Education,TikTok,2.7,3.2,7.0,Entertainment,3.58
+STU10438,19,Male,Economics,WhatsApp,3.7,3.1,7.3,Entertainment,2.72
+STU10439,22,Female,Education,TikTok,4.4,2.1,5.6,Communication,4.28
+STU10440,23,Male,Business Administration,TikTok,7.2,4.7,7.2,Entertainment,2.47
+STU10441,19,Male,Engineering,Facebook,4.1,4.5,6.8,Entertainment,3.42
+STU10442,23,Male,Business Administration,TikTok,3.3,3.3,5.7,Communication,2.41
+STU10443,23,Female,Political Science,Facebook,3.0,2.7,6.4,News,3.07
+STU10444,25,Male,Economics,WhatsApp,5.8,1.8,5.4,Business,2.3
+STU10445,22,Male,Biochemistry,Instagram,3.5,5.4,6.7,Communication,3.23
+STU10446,23,Male,Biochemistry,TikTok,5.5,5.0,6.4,Entertainment,3.52
+STU10447,26,Female,Computer Science,WhatsApp,2.0,4.0,8.2,Education,3.73
+STU10448,26,Male,Biochemistry,WhatsApp,2.7,4.5,6.7,Communication,3.07
+STU10449,19,Female,Political Science,Instagram,6.5,2.8,6.6,Communication,2.54
+STU10450,20,Male,Economics,Instagram,4.5,2.1,6.4,Entertainment,3.25
+STU10451,18,Female,Engineering,TikTok,4.2,3.5,6.0,Communication,3.36
+STU10452,27,Male,Accounting,Instagram,4.5,2.7,6.7,Communication,3.3
+STU10453,23,Female,Political Science,TikTok,6.3,3.7,7.4,News,2.86
+STU10454,23,Male,Education,WhatsApp,2.2,4.8,8.3,News,4.12
+STU10455,22,Female,Computer Science,Instagram,4.1,3.0,7.4,Education,4.17
+STU10456,20,Female,Political Science,TikTok,4.7,2.4,7.0,Entertainment,2.4
+STU10457,25,Female,Biochemistry,WhatsApp,6.0,2.8,6.8,News,2.86
+STU10458,23,Female,Political Science,X,6.3,1.7,6.8,Communication,2.1
+STU10459,24,Male,Mass Communication,WhatsApp,3.5,3.9,5.8,Communication,3.27
+STU10460,19,Female,Accounting,Instagram,4.3,3.2,6.6,Education,3.46
+STU10461,22,Female,Mass Communication,Instagram,5.2,5.5,5.4,Education,3.31
+STU10462,21,Female,Political Science,TikTok,4.9,2.6,5.2,Business,2.3
+STU10463,21,Male,Microbiology,TikTok,4.8,4.1,6.6,Communication,2.93
+STU10464,20,Female,Economics,WhatsApp,2.5,3.0,7.0,Communication,3.13
+STU10465,28,Female,Business Administration,TikTok,1.7,3.9,6.8,Entertainment,3.64
+STU10466,21,Female,Accounting,WhatsApp,5.9,3.1,8.1,Communication,2.94
+STU10467,23,Female,Microbiology,WhatsApp,5.1,4.7,6.2,Communication,3.48
+STU10468,26,Male,Microbiology,Facebook,4.1,5.1,5.8,Business,3.8
+STU10469,23,Female,Business Administration,Instagram,5.4,3.8,7.1,Business,2.59
+STU10470,23,Female,Mass Communication,TikTok,3.2,4.0,8.4,News,3.73
+STU10471,23,Male,Accounting,Instagram,1.6,5.0,6.5,Business,4.22
+STU10472,23,Female,Political Science,Instagram,2.6,3.7,7.4,Communication,3.21
+STU10473,28,Male,Microbiology,WhatsApp,3.8,3.8,7.6,Education,2.66
+STU10474,22,Male,Economics,Instagram,3.7,4.4,6.9,Education,3.05
+STU10475,22,Female,Microbiology,TikTok,6.3,5.8,6.0,Entertainment,4.16
+STU10476,24,Male,Accounting,TikTok,4.0,4.6,6.9,Education,2.9
+STU10477,20,Female,Political Science,WhatsApp,0.6,3.8,8.4,Business,3.46
+STU10478,21,Female,Biochemistry,WhatsApp,4.0,5.4,6.9,Education,2.72
+STU10479,19,Female,Engineering,Instagram,3.7,5.4,6.5,Communication,3.75
+STU10480,19,Male,Biochemistry,WhatsApp,4.5,3.8,7.4,Entertainment,3.35
+STU10481,22,Male,Business Administration,Instagram,4.8,3.5,6.7,Communication,2.28
+STU10482,19,Female,Political Science,WhatsApp,6.4,2.7,6.0,Entertainment,3.02
+STU10483,19,Female,Biochemistry,TikTok,2.7,3.2,7.5,Business,3.72
+STU10484,27,Male,Biochemistry,WhatsApp,0.5,4.5,6.8,Entertainment,3.9
+STU10485,23,Male,Education,WhatsApp,1.5,3.0,5.7,News,2.24
+STU10486,25,Female,Computer Science,X,4.7,4.1,6.4,Education,2.81
+STU10487,20,Female,Mass Communication,X,5.0,2.4,5.3,Entertainment,2.27
+STU10488,21,Male,Microbiology,Instagram,5.5,4.6,5.9,Communication,3.92
+STU10489,26,Female,Biochemistry,TikTok,3.1,4.9,7.4,Business,4.08
+STU10490,19,Female,Mass Communication,Facebook,5.8,4.1,7.6,Business,4.5
+STU10491,22,Female,Biochemistry,Instagram,4.7,2.4,5.8,News,3.11
+STU10492,25,Male,Political Science,TikTok,7.0,3.7,5.8,Entertainment,2.27
+STU10493,24,Male,Engineering,Facebook,7.3,3.4,6.2,Entertainment,3.2
+STU10494,20,Female,Business Administration,X,2.2,3.3,7.8,Entertainment,3.86
+STU10495,23,Female,Mass Communication,WhatsApp,5.9,3.6,6.3,News,3.01
+STU10496,18,Male,Economics,WhatsApp,3.5,4.2,7.5,News,3.86
+STU10497,22,Female,Engineering,WhatsApp,3.9,4.7,7.8,Education,3.66
+STU10498,23,Female,Accounting,TikTok,2.0,2.8,6.8,News,2.82
+STU10499,24,Male,Education,TikTok,5.4,3.4,7.5,Communication,2.13
+STU10500,30,Female,Microbiology,WhatsApp,6.1,3.1,7.5,Business,3.57
+STU10501,26,Male,Mass Communication,WhatsApp,4.7,3.8,5.9,Communication,3.05
+STU10502,19,Female,Economics,TikTok,1.9,5.2,7.1,Entertainment,4.2
+STU10503,26,Female,Political Science,X,5.2,4.3,6.8,Education,3.74
+STU10504,20,Male,Business Administration,Facebook,5.0,3.6,6.6,News,2.93
+STU10505,22,Male,Political Science,WhatsApp,5.8,3.3,7.8,Communication,2.52
+STU10506,19,Female,Business Administration,TikTok,4.9,5.0,7.0,Entertainment,4.02
+STU10507,24,Female,Computer Science,Instagram,4.0,4.9,6.8,Education,4.03
+STU10508,22,Female,Engineering,Instagram,6.0,3.2,6.8,Entertainment,3.53
+STU10509,21,Female,Mass Communication,TikTok,3.7,3.0,7.4,Education,1.7
+STU10510,18,Male,Economics,WhatsApp,3.0,3.0,7.7,Education,2.85
+STU10511,21,Female,Mass Communication,Instagram,4.6,4.4,7.0,Entertainment,2.99
+STU10512,27,Male,Business Administration,Instagram,3.5,3.5,7.4,Communication,3.63
+STU10513,20,Female,Political Science,TikTok,5.5,3.1,6.0,Education,3.47
+STU10514,22,Female,Mass Communication,TikTok,3.9,3.6,6.9,Entertainment,4.14
+STU10515,19,Male,Computer Science,Facebook,8.1,2.1,6.5,Communication,2.66
+STU10516,22,Female,Mass Communication,Facebook,7.3,2.8,6.2,Entertainment,3.24
+STU10517,20,Female,Biochemistry,X,1.6,3.9,5.8,Communication,3.41
+STU10518,25,Male,Engineering,Facebook,7.5,5.5,6.3,Communication,3.05
+STU10519,20,Male,Political Science,WhatsApp,1.2,4.8,5.1,Entertainment,3.51
+STU10520,20,Male,Mass Communication,WhatsApp,5.4,3.8,5.5,Education,3.21
+STU10521,26,Female,Economics,WhatsApp,5.8,2.6,7.2,Education,4.0
+STU10522,25,Male,Accounting,TikTok,5.0,2.5,7.5,Entertainment,2.64
+STU10523,30,Male,Computer Science,Instagram,4.5,3.0,6.9,Entertainment,3.92
+STU10524,25,Female,Business Administration,TikTok,4.7,5.1,6.2,Entertainment,3.95
+STU10525,22,Male,Computer Science,WhatsApp,2.3,5.7,7.3,Entertainment,3.65
+STU10526,23,Male,Mass Communication,TikTok,7.1,4.3,5.2,Entertainment,3.08
+STU10527,25,Female,Computer Science,Instagram,4.6,3.0,5.8,Communication,2.79
+STU10528,19,Female,Political Science,Instagram,4.7,3.9,5.9,Entertainment,3.01
+STU10529,21,Female,Education,X,3.5,5.5,6.8,Entertainment,4.05
+STU10530,20,Female,Mass Communication,Instagram,5.0,3.6,6.5,News,3.2
+STU10531,26,Male,Engineering,Instagram,1.4,4.4,7.5,Education,3.59
+STU10532,25,Female,Economics,Facebook,2.7,2.6,7.6,Education,3.32
+STU10533,25,Female,Education,TikTok,4.8,3.0,5.8,Education,2.62
+STU10534,22,Male,Microbiology,X,4.4,2.6,7.4,Communication,3.31
+STU10535,18,Female,Microbiology,TikTok,0.8,4.8,8.3,Business,3.47
+STU10536,23,Male,Business Administration,X,1.7,4.6,5.8,Entertainment,3.68
+STU10537,18,Female,Accounting,WhatsApp,6.4,3.7,7.1,Communication,2.43
+STU10538,22,Female,Economics,Instagram,5.4,4.1,5.9,News,3.67
+STU10539,23,Male,Engineering,WhatsApp,6.4,2.7,6.9,Education,3.85
+STU10540,25,Female,Political Science,Facebook,6.8,3.7,6.5,Entertainment,3.16
+STU10541,19,Female,Computer Science,Instagram,3.9,5.0,7.7,Business,3.62
+STU10542,24,Female,Biochemistry,X,1.5,2.4,8.0,Communication,2.79
+STU10543,22,Male,Computer Science,WhatsApp,6.0,4.0,6.3,Entertainment,2.98
+STU10544,24,Male,Engineering,WhatsApp,3.5,4.4,7.1,Entertainment,2.48
+STU10545,25,Female,Economics,TikTok,3.8,4.3,6.1,Education,1.96
+STU10546,25,Female,Business Administration,X,3.5,3.6,7.4,Entertainment,3.42
+STU10547,22,Female,Engineering,TikTok,1.2,4.6,7.6,Business,3.43
+STU10548,26,Female,Accounting,WhatsApp,2.4,4.8,7.0,News,3.18
+STU10549,20,Female,Biochemistry,TikTok,5.5,2.1,8.0,News,2.48
+STU10550,23,Female,Political Science,WhatsApp,4.3,2.4,6.1,Communication,3.26
+STU10551,24,Male,Accounting,Facebook,3.9,3.4,6.9,Entertainment,3.0
+STU10552,28,Female,Mass Communication,Instagram,3.8,3.0,7.7,Entertainment,3.13
+STU10553,22,Female,Business Administration,WhatsApp,6.4,2.9,6.0,Communication,2.66
+STU10554,24,Male,Mass Communication,WhatsApp,3.3,4.3,7.5,Entertainment,2.64
+STU10555,19,Male,Accounting,WhatsApp,6.0,5.0,6.9,Entertainment,2.63
+STU10556,19,Male,Computer Science,Facebook,2.6,4.8,6.0,Education,2.93
+STU10557,22,Male,Education,TikTok,3.4,3.8,7.6,Education,2.49
+STU10558,21,Male,Accounting,Facebook,6.3,3.5,6.1,Entertainment,2.33
+STU10559,22,Female,Biochemistry,TikTok,5.1,2.7,8.1,Communication,2.83
+STU10560,23,Female,Microbiology,TikTok,3.5,3.0,7.0,Education,1.64
+STU10561,22,Female,Engineering,Instagram,1.7,3.7,7.5,Education,3.61
+STU10562,23,Female,Computer Science,X,5.6,5.1,7.6,News,3.5
+STU10563,24,Male,Mass Communication,WhatsApp,3.1,3.4,7.3,Communication,3.98
+STU10564,26,Male,Microbiology,WhatsApp,5.8,1.3,6.3,Communication,1.81
+STU10565,23,Female,Engineering,Instagram,2.3,3.8,6.2,News,3.36
+STU10566,23,Male,Engineering,TikTok,4.6,4.0,7.5,Communication,3.47
+STU10567,23,Male,Microbiology,TikTok,1.1,2.0,7.8,Communication,3.11
+STU10568,27,Male,Business Administration,X,3.5,3.9,7.8,News,3.31
+STU10569,21,Male,Engineering,TikTok,0.5,4.7,5.5,Entertainment,4.23
+STU10570,20,Female,Accounting,WhatsApp,6.0,4.6,8.5,Communication,2.38
+STU10571,22,Male,Mass Communication,Instagram,5.0,2.8,7.0,Entertainment,3.07
+STU10572,21,Male,Economics,WhatsApp,5.5,1.8,6.5,Entertainment,1.91
+STU10573,20,Female,Mass Communication,WhatsApp,5.6,4.1,6.0,Communication,2.94
+STU10574,23,Female,Economics,Instagram,3.1,4.8,7.7,Entertainment,3.28
+STU10575,24,Female,Education,Facebook,4.2,4.2,6.5,News,2.89
+STU10576,22,Female,Mass Communication,WhatsApp,4.8,3.7,6.8,Communication,3.95
+STU10577,23,Female,Economics,Instagram,3.0,3.2,5.5,Entertainment,2.82
+STU10578,28,Female,Economics,Facebook,2.2,4.8,5.5,Business,3.31
+STU10579,22,Female,Engineering,Facebook,4.7,3.8,6.2,News,2.47
+STU10580,18,Male,Education,Facebook,8.2,2.4,5.5,News,3.02
+STU10581,24,Male,Economics,WhatsApp,3.7,3.8,7.2,Communication,3.08
+STU10582,24,Male,Accounting,TikTok,5.0,3.8,7.7,Entertainment,2.88
+STU10583,25,Male,Microbiology,Instagram,3.1,4.0,7.3,Education,3.51
+STU10584,20,Male,Computer Science,WhatsApp,3.1,5.2,6.6,Entertainment,3.18
+STU10585,21,Female,Mass Communication,TikTok,3.8,3.2,6.9,Communication,2.57
+STU10586,20,Male,Mass Communication,X,4.3,2.5,6.5,Entertainment,4.3
+STU10587,23,Female,Engineering,X,4.0,3.6,6.6,Entertainment,2.52
+STU10588,22,Female,Computer Science,Facebook,5.4,5.6,5.9,Communication,3.88
+STU10589,25,Female,Computer Science,Instagram,5.6,2.3,5.5,Entertainment,2.83
+STU10590,22,Male,Education,X,5.2,3.2,8.4,Communication,1.84
+STU10591,25,Female,Biochemistry,Instagram,2.5,4.7,6.5,Entertainment,3.47
+STU10592,19,Male,Education,Instagram,1.8,5.4,7.2,Communication,3.83
+STU10593,20,Male,Education,WhatsApp,2.5,4.5,7.2,News,3.17
+STU10594,19,Female,Computer Science,Instagram,7.1,4.4,7.0,Entertainment,3.23
+STU10595,25,Female,Business Administration,Facebook,3.8,3.6,6.6,Communication,3.53
+STU10596,21,Female,Mass Communication,TikTok,5.7,3.8,6.1,Education,2.33
+STU10597,26,Female,Biochemistry,WhatsApp,8.4,6.0,5.6,Education,3.35
+STU10598,21,Male,Engineering,Instagram,5.7,4.3,9.1,Communication,2.98
+STU10599,25,Female,Biochemistry,TikTok,5.6,4.8,7.3,Entertainment,4.17
+STU10600,21,Male,Microbiology,X,3.8,3.2,8.0,Entertainment,3.5
+STU10601,24,Female,Accounting,TikTok,3.5,4.6,5.8,Business,3.42
+STU10602,20,Female,Economics,TikTok,5.2,4.0,6.6,Entertainment,2.05
+STU10603,23,Male,Biochemistry,X,4.8,2.8,6.9,Education,2.59
+STU10604,19,Male,Microbiology,WhatsApp,2.9,5.3,6.6,News,3.64
+STU10605,18,Female,Engineering,Instagram,1.5,3.9,8.5,News,2.97
+STU10606,26,Male,Biochemistry,Instagram,2.2,4.2,7.6,News,3.66
+STU10607,25,Female,Biochemistry,TikTok,1.6,3.4,7.8,Communication,2.65
+STU10608,30,Female,Microbiology,WhatsApp,2.0,3.2,6.5,Communication,2.63
+STU10609,20,Female,Mass Communication,Instagram,7.9,1.0,6.0,Entertainment,1.28
+STU10610,25,Male,Mass Communication,Instagram,0.8,4.1,7.5,Entertainment,3.05
+STU10611,22,Male,Accounting,TikTok,1.9,5.5,7.7,Education,3.25
+STU10612,20,Female,Biochemistry,WhatsApp,5.8,3.6,7.5,Communication,3.74
+STU10613,26,Male,Computer Science,WhatsApp,2.2,5.5,6.4,Communication,3.41
+STU10614,18,Female,Biochemistry,WhatsApp,1.5,3.8,7.0,Communication,3.72
+STU10615,22,Female,Engineering,TikTok,5.7,3.4,8.1,News,3.57
+STU10616,19,Male,Business Administration,TikTok,5.5,3.1,6.0,Business,3.1
+STU10617,25,Male,Education,TikTok,5.7,3.5,6.6,Education,3.05
+STU10618,27,Female,Mass Communication,X,5.3,2.7,6.8,Education,2.73
+STU10619,24,Female,Education,Facebook,4.7,2.4,5.9,Communication,1.88
+STU10620,24,Male,Education,WhatsApp,4.7,3.9,7.3,Communication,3.11
+STU10621,20,Male,Engineering,TikTok,4.9,4.3,6.2,Entertainment,2.64
+STU10622,24,Female,Business Administration,TikTok,6.6,2.1,6.2,Entertainment,1.68
+STU10623,23,Female,Microbiology,X,5.5,2.0,7.2,Communication,2.18
+STU10624,27,Female,Economics,WhatsApp,3.3,3.1,7.2,Entertainment,3.18
+STU10625,23,Female,Business Administration,Instagram,5.8,4.5,7.8,Business,3.02
+STU10626,30,Male,Accounting,TikTok,2.0,4.1,7.3,Communication,3.13
+STU10627,20,Male,Mass Communication,X,3.1,5.8,7.2,Communication,4.22
+STU10628,23,Female,Business Administration,WhatsApp,5.6,3.4,8.0,Communication,3.29
+STU10629,27,Female,Economics,TikTok,2.7,2.3,6.5,Business,2.9
+STU10630,28,Female,Biochemistry,Instagram,5.8,3.2,6.3,Entertainment,2.89
+STU10631,24,Female,Mass Communication,Instagram,3.6,5.4,6.6,Communication,3.2
+STU10632,24,Male,Education,TikTok,6.2,2.2,7.6,News,2.63
+STU10633,23,Female,Accounting,TikTok,2.4,5.7,7.1,Education,3.83
+STU10634,20,Male,Microbiology,Instagram,4.9,2.1,7.6,Entertainment,3.48
+STU10635,18,Female,Accounting,Instagram,2.3,4.1,7.8,Entertainment,3.41
+STU10636,22,Male,Biochemistry,WhatsApp,3.4,5.6,6.2,News,3.91
+STU10637,23,Female,Political Science,WhatsApp,5.0,2.0,7.1,Communication,2.06
+STU10638,23,Male,Business Administration,Instagram,4.5,5.6,6.8,Entertainment,3.53
+STU10639,24,Male,Political Science,X,3.0,3.2,5.7,Education,3.26
+STU10640,25,Male,Economics,TikTok,7.5,2.4,7.0,Communication,3.0
+STU10641,25,Female,Computer Science,WhatsApp,1.8,3.1,7.6,Entertainment,4.03
+STU10642,26,Female,Mass Communication,WhatsApp,2.7,2.2,5.7,Education,2.47
+STU10643,24,Female,Computer Science,WhatsApp,3.1,4.2,7.8,Entertainment,3.24
+STU10644,19,Male,Computer Science,WhatsApp,3.4,5.1,5.9,Communication,2.73
+STU10645,20,Female,Computer Science,WhatsApp,3.6,3.5,6.7,News,3.08
+STU10646,28,Male,Microbiology,WhatsApp,6.9,3.3,6.1,Entertainment,2.13
+STU10647,22,Female,Engineering,WhatsApp,4.4,2.5,8.0,News,2.32
+STU10648,19,Female,Mass Communication,WhatsApp,2.9,3.5,6.1,Education,3.25
+STU10649,23,Female,Political Science,TikTok,4.1,2.0,7.5,Education,3.15
+STU10650,20,Female,Business Administration,Instagram,4.3,3.0,7.1,Entertainment,4.06
+STU10651,23,Female,Education,Facebook,7.6,3.3,5.8,Entertainment,1.91
+STU10652,23,Female,Accounting,X,3.7,3.5,8.4,Communication,3.51
+STU10653,22,Female,Mass Communication,WhatsApp,4.8,3.0,6.4,Communication,2.76
+STU10654,19,Male,Microbiology,X,4.5,6.2,6.6,Education,2.19
+STU10655,23,Male,Political Science,WhatsApp,6.6,2.3,7.3,Business,2.67
+STU10656,22,Male,Computer Science,Instagram,4.8,4.2,6.0,Communication,4.12
+STU10657,24,Female,Business Administration,X,4.7,3.5,8.0,Communication,2.59
+STU10658,20,Female,Mass Communication,Instagram,7.1,3.8,7.9,Entertainment,1.4
+STU10659,21,Female,Engineering,TikTok,1.2,4.2,6.7,Entertainment,3.62
+STU10660,18,Female,Engineering,Instagram,3.8,4.3,7.5,Communication,2.52
+STU10661,20,Male,Microbiology,Facebook,2.6,2.2,7.1,Communication,3.39
+STU10662,19,Male,Microbiology,Facebook,3.4,5.0,6.7,Entertainment,3.36
+STU10663,24,Male,Education,Instagram,1.7,4.2,7.5,Business,4.36
+STU10664,22,Female,Political Science,WhatsApp,6.9,3.8,6.5,Business,3.41
+STU10665,21,Female,Accounting,X,3.3,5.6,7.6,Entertainment,4.12
+STU10666,23,Male,Mass Communication,Instagram,4.7,4.6,5.3,Entertainment,3.99
+STU10667,21,Female,Education,WhatsApp,4.1,3.4,7.0,Communication,1.77
+STU10668,27,Male,Economics,WhatsApp,5.5,3.9,6.2,Communication,2.12
+STU10669,24,Female,Mass Communication,TikTok,5.9,4.0,6.5,News,3.3
+STU10670,19,Female,Accounting,Facebook,3.5,4.3,6.0,Communication,3.45
+STU10671,23,Male,Business Administration,X,4.2,4.5,6.6,News,3.3
+STU10672,23,Female,Microbiology,WhatsApp,4.0,3.0,6.7,Entertainment,3.04
+STU10673,24,Male,Computer Science,X,3.5,4.0,6.3,News,3.12
+STU10674,23,Female,Education,Facebook,4.5,1.2,6.9,Entertainment,2.62
+STU10675,21,Male,Political Science,TikTok,3.8,2.7,7.8,Entertainment,3.65
+STU10676,23,Male,Mass Communication,Instagram,5.0,1.8,5.8,Education,2.29
+STU10677,22,Male,Microbiology,WhatsApp,3.0,2.8,6.2,News,2.03
+STU10678,21,Female,Economics,WhatsApp,3.6,5.5,6.0,Communication,3.07
+STU10679,18,Male,Microbiology,WhatsApp,3.6,3.4,6.3,Communication,3.69
+STU10680,23,Male,Accounting,TikTok,4.8,4.3,7.7,Communication,3.77
+STU10681,25,Male,Mass Communication,TikTok,5.2,3.1,6.5,Entertainment,4.11
+STU10682,23,Female,Engineering,WhatsApp,4.9,3.9,4.5,Entertainment,3.9
+STU10683,20,Male,Business Administration,WhatsApp,3.8,3.6,7.3,Entertainment,3.5
+STU10684,26,Female,Political Science,Instagram,8.0,3.4,7.8,Communication,2.95
+STU10685,23,Female,Accounting,WhatsApp,6.0,3.3,6.7,News,2.65
+STU10686,21,Female,Computer Science,Facebook,2.1,4.2,7.6,Education,3.47
+STU10687,25,Female,Business Administration,WhatsApp,1.5,6.2,6.6,Education,3.92
+STU10688,23,Male,Economics,WhatsApp,8.4,3.2,6.5,Entertainment,2.43
+STU10689,21,Male,Education,TikTok,6.3,4.1,7.4,Entertainment,3.28
+STU10690,23,Female,Mass Communication,TikTok,5.6,3.0,7.5,Business,2.97
+STU10691,23,Male,Computer Science,Instagram,5.2,1.8,6.4,Communication,2.69
+STU10692,18,Female,Economics,X,4.8,4.7,5.7,Entertainment,4.26
+STU10693,23,Male,Business Administration,TikTok,4.3,2.7,7.7,Education,2.01
+STU10694,25,Female,Microbiology,TikTok,6.6,3.5,5.1,Entertainment,2.68
+STU10695,20,Female,Mass Communication,TikTok,2.0,4.2,6.6,Education,3.12
+STU10696,19,Male,Mass Communication,X,5.0,3.3,7.5,Communication,2.7
+STU10697,23,Male,Education,WhatsApp,0.8,4.2,8.7,Communication,4.31
+STU10698,27,Female,Economics,TikTok,2.2,3.6,7.0,Entertainment,4.06
+STU10699,24,Male,Business Administration,WhatsApp,6.1,4.0,6.2,Communication,3.29
+STU10700,20,Male,Mass Communication,TikTok,3.7,4.8,5.1,Education,3.85
+STU10701,22,Female,Computer Science,TikTok,5.1,3.2,7.0,Entertainment,2.97
+STU10702,24,Male,Business Administration,Instagram,1.7,4.3,5.5,Education,3.5
+STU10703,25,Male,Accounting,TikTok,7.0,3.7,6.2,Communication,2.37
+STU10704,23,Female,Computer Science,WhatsApp,6.0,1.9,6.0,Entertainment,2.1
+STU10705,22,Male,Computer Science,Facebook,4.1,3.1,6.3,Entertainment,2.13
+STU10706,19,Female,Business Administration,Instagram,2.9,1.7,6.3,News,3.19
+STU10707,25,Male,Microbiology,X,4.0,3.2,6.8,Entertainment,2.78
+STU10708,23,Female,Biochemistry,TikTok,2.6,2.8,6.9,Entertainment,2.77
+STU10709,23,Male,Education,X,4.3,3.9,6.0,Education,3.24
+STU10710,25,Male,Computer Science,WhatsApp,5.9,4.4,7.5,Business,3.6
+STU10711,22,Male,Mass Communication,WhatsApp,2.5,3.9,7.0,News,4.0
+STU10712,23,Female,Education,Facebook,7.7,2.2,6.2,Communication,2.78
+STU10713,28,Male,Microbiology,TikTok,1.1,3.4,7.0,Entertainment,3.42
+STU10714,22,Female,Economics,Instagram,7.6,3.3,5.6,Entertainment,3.38
+STU10715,18,Male,Economics,X,3.5,4.3,6.7,Entertainment,2.98
+STU10716,22,Female,Business Administration,Instagram,2.2,5.2,5.8,Communication,2.6
+STU10717,20,Male,Economics,WhatsApp,3.1,4.7,8.0,Entertainment,2.94
+STU10718,19,Female,Computer Science,WhatsApp,5.1,4.5,5.9,Entertainment,2.55
+STU10719,24,Male,Political Science,Instagram,5.0,2.5,7.5,Communication,2.44
+STU10720,25,Male,Engineering,TikTok,3.1,6.2,8.1,Education,3.49
+STU10721,19,Male,Computer Science,WhatsApp,4.9,6.3,5.4,Entertainment,3.23
+STU10722,22,Female,Business Administration,TikTok,3.8,1.6,7.2,Education,1.19
+STU10723,19,Male,Political Science,Instagram,4.9,4.1,6.0,Communication,2.73
+STU10724,26,Male,Mass Communication,Facebook,4.4,1.8,6.9,Education,2.06
+STU10725,21,Male,Business Administration,WhatsApp,4.5,3.0,7.7,News,3.65
+STU10726,20,Male,Microbiology,Facebook,5.3,5.3,6.9,Entertainment,3.15
+STU10727,22,Male,Economics,WhatsApp,4.4,2.5,7.1,Communication,2.69
+STU10728,20,Male,Computer Science,WhatsApp,7.6,2.9,7.7,Communication,2.24
+STU10729,25,Female,Education,TikTok,5.5,2.5,6.4,Entertainment,1.46
+STU10730,23,Female,Political Science,X,3.1,2.9,7.6,Education,3.39
+STU10731,19,Male,Mass Communication,Facebook,5.0,4.5,5.3,Education,3.75
+STU10732,21,Female,Microbiology,WhatsApp,3.6,1.7,5.9,Communication,2.78
+STU10733,23,Male,Engineering,TikTok,4.4,3.4,6.0,Entertainment,2.7
+STU10734,22,Male,Economics,TikTok,5.2,3.8,6.7,Entertainment,2.97
+STU10735,18,Female,Engineering,WhatsApp,2.1,4.5,5.8,Entertainment,3.07
+STU10736,21,Female,Economics,WhatsApp,1.5,4.4,7.4,Entertainment,3.58
+STU10737,20,Male,Biochemistry,TikTok,3.2,4.1,8.3,Communication,3.18
+STU10738,21,Female,Engineering,WhatsApp,5.2,4.3,6.2,Business,2.71
+STU10739,24,Female,Biochemistry,WhatsApp,5.9,5.2,6.5,Entertainment,3.44
+STU10740,23,Male,Political Science,X,6.1,1.8,7.9,Communication,2.17
+STU10741,23,Male,Economics,TikTok,5.8,2.9,7.1,Entertainment,2.26
+STU10742,21,Male,Engineering,Facebook,1.4,5.1,8.1,Entertainment,3.59
+STU10743,22,Male,Business Administration,TikTok,7.3,4.7,6.4,Business,2.87
+STU10744,18,Female,Mass Communication,WhatsApp,2.3,3.3,6.0,Entertainment,2.93
+STU10745,25,Female,Political Science,Instagram,5.8,5.4,7.5,Communication,3.55
+STU10746,20,Female,Political Science,Instagram,5.1,2.4,6.0,Business,2.9
+STU10747,19,Female,Computer Science,Instagram,4.8,4.2,6.5,News,3.38
+STU10748,20,Male,Mass Communication,WhatsApp,3.2,3.8,7.8,Education,3.4
+STU10749,23,Male,Business Administration,Facebook,5.2,3.5,5.8,Communication,3.04
+STU10750,25,Female,Economics,TikTok,5.9,3.9,6.6,Education,2.23
+STU10751,22,Male,Economics,TikTok,4.9,3.5,7.0,Education,3.35
+STU10752,21,Male,Biochemistry,TikTok,6.8,3.9,7.0,News,2.36
+STU10753,20,Female,Economics,Instagram,4.4,4.9,5.9,Education,3.21
+STU10754,19,Male,Mass Communication,WhatsApp,2.4,6.3,6.4,Entertainment,3.42
+STU10755,23,Female,Political Science,WhatsApp,2.8,4.7,6.4,Education,3.61
+STU10756,24,Female,Political Science,X,3.0,3.8,7.7,Communication,3.18
+STU10757,21,Male,Accounting,WhatsApp,1.1,3.7,7.5,Education,3.54
+STU10758,21,Male,Engineering,X,3.7,3.6,6.4,Entertainment,2.3
+STU10759,22,Female,Biochemistry,WhatsApp,2.7,4.9,7.0,Communication,3.84
+STU10760,29,Female,Political Science,Instagram,3.6,4.9,7.1,News,4.52
+STU10761,20,Female,Economics,TikTok,2.0,6.1,7.4,Education,4.85
+STU10762,25,Male,Biochemistry,WhatsApp,4.0,3.1,6.7,Entertainment,2.17
+STU10763,22,Female,Economics,TikTok,6.8,4.7,6.7,Communication,2.92
+STU10764,19,Female,Biochemistry,X,5.1,5.2,8.7,Communication,2.27
+STU10765,25,Male,Biochemistry,WhatsApp,2.3,4.4,7.5,Education,4.25
+STU10766,24,Female,Biochemistry,WhatsApp,8.8,2.7,6.3,Education,1.0
+STU10767,21,Female,Political Science,WhatsApp,5.4,3.4,7.8,Communication,3.74
+STU10768,26,Female,Economics,TikTok,5.0,3.2,5.8,Communication,3.16
+STU10769,24,Female,Computer Science,WhatsApp,6.6,4.3,4.5,Education,2.66
+STU10770,25,Male,Mass Communication,Facebook,4.0,4.6,6.1,Entertainment,3.42
+STU10771,24,Male,Biochemistry,Instagram,1.2,3.1,9.2,Entertainment,3.51
+STU10772,21,Female,Computer Science,WhatsApp,6.3,1.6,6.8,Communication,2.32
+STU10773,21,Male,Engineering,WhatsApp,4.5,4.3,7.5,Entertainment,4.0
+STU10774,23,Male,Education,WhatsApp,6.6,4.7,6.5,Communication,2.74
+STU10775,27,Female,Accounting,WhatsApp,3.1,2.7,7.3,Communication,3.39
+STU10776,21,Male,Microbiology,TikTok,6.9,3.7,5.2,Communication,3.6
+STU10777,24,Female,Microbiology,WhatsApp,4.0,4.2,7.1,News,2.58
+STU10778,23,Female,Microbiology,Facebook,2.3,4.1,6.4,News,3.02
+STU10779,24,Male,Business Administration,TikTok,1.0,5.7,6.2,Communication,3.61
+STU10780,26,Female,Mass Communication,Facebook,2.7,4.9,6.2,Entertainment,3.8
+STU10781,23,Male,Business Administration,WhatsApp,4.5,2.7,6.9,Entertainment,3.14
+STU10782,21,Male,Computer Science,WhatsApp,3.9,4.8,7.6,Entertainment,2.91
+STU10783,26,Male,Mass Communication,Facebook,4.8,5.3,6.2,News,3.81
+STU10784,23,Female,Economics,WhatsApp,4.9,4.4,6.5,Communication,2.98
+STU10785,23,Female,Business Administration,TikTok,7.0,2.4,7.7,Communication,1.97
+STU10786,20,Male,Accounting,X,3.8,4.9,6.6,Entertainment,2.77
+STU10787,27,Female,Business Administration,X,5.0,3.5,5.8,Entertainment,2.83
+STU10788,23,Male,Mass Communication,TikTok,2.2,2.1,7.0,Communication,2.72
+STU10789,21,Male,Mass Communication,WhatsApp,5.0,1.8,5.3,Education,1.4
+STU10790,20,Female,Microbiology,WhatsApp,3.9,5.0,7.8,Communication,2.77
+STU10791,23,Male,Economics,TikTok,1.9,3.1,8.5,Entertainment,3.03
+STU10792,22,Female,Microbiology,WhatsApp,3.1,3.2,8.6,Entertainment,4.68
+STU10793,24,Female,Accounting,Instagram,4.9,3.2,5.6,Business,2.87
+STU10794,19,Female,Computer Science,TikTok,2.7,5.4,7.3,Entertainment,3.03
+STU10795,21,Female,Biochemistry,WhatsApp,1.8,4.8,7.7,Entertainment,3.66
+STU10796,24,Male,Microbiology,WhatsApp,5.8,1.6,6.3,Entertainment,2.36
+STU10797,19,Male,Accounting,X,6.6,3.5,8.1,News,2.25
+STU10798,21,Female,Biochemistry,Facebook,4.4,3.1,6.3,Education,2.54
+STU10799,25,Male,Microbiology,WhatsApp,3.1,4.0,7.2,Entertainment,4.15
+STU10800,22,Male,Economics,WhatsApp,5.5,4.4,6.8,Business,3.26
+STU10801,24,Male,Mass Communication,WhatsApp,4.2,3.8,7.9,Entertainment,3.14
+STU10802,20,Male,Accounting,Instagram,5.0,3.0,6.3,Entertainment,3.08
+STU10803,22,Female,Economics,Instagram,6.2,3.2,6.9,Entertainment,1.95
+STU10804,22,Male,Computer Science,X,4.4,6.2,5.8,Communication,3.36
+STU10805,19,Female,Business Administration,TikTok,2.4,4.8,6.4,Entertainment,3.54
+STU10806,23,Female,Political Science,Instagram,2.7,4.2,5.6,Communication,3.04
+STU10807,21,Female,Biochemistry,X,7.1,3.2,8.0,News,2.05
+STU10808,26,Female,Political Science,TikTok,5.5,3.8,5.8,Communication,3.91
+STU10809,27,Male,Education,TikTok,1.8,1.3,7.6,Entertainment,1.88
+STU10810,23,Male,Political Science,WhatsApp,7.6,2.9,6.4,Entertainment,3.1
+STU10811,22,Male,Computer Science,TikTok,3.2,3.3,6.4,Entertainment,2.41
+STU10812,18,Female,Political Science,Facebook,6.7,2.0,6.6,Entertainment,1.61
+STU10813,20,Male,Economics,WhatsApp,0.9,2.4,8.0,Communication,1.58
+STU10814,20,Male,Biochemistry,TikTok,1.1,4.5,7.9,Education,3.67
+STU10815,18,Male,Engineering,X,6.9,2.9,7.1,Entertainment,3.27
+STU10816,27,Female,Economics,Instagram,0.5,3.9,7.3,Education,3.38
+STU10817,25,Male,Mass Communication,Instagram,6.4,3.2,7.0,Entertainment,2.56
+STU10818,19,Female,Business Administration,WhatsApp,3.6,3.0,7.3,Entertainment,4.26
+STU10819,23,Female,Business Administration,X,6.2,3.2,6.3,Entertainment,2.12
+STU10820,25,Female,Education,Facebook,8.6,4.8,6.8,Education,2.81
+STU10821,20,Female,Business Administration,WhatsApp,6.8,4.9,6.8,Entertainment,3.03
+STU10822,20,Female,Business Administration,Instagram,5.5,2.5,8.4,Communication,1.75
+STU10823,24,Female,Economics,TikTok,4.1,4.0,6.4,Education,3.66
+STU10824,20,Female,Political Science,WhatsApp,1.8,3.7,7.7,Communication,3.62
+STU10825,18,Female,Accounting,WhatsApp,3.9,4.7,6.2,Education,3.05
+STU10826,19,Male,Economics,Facebook,1.5,5.3,7.9,Communication,4.07
+STU10827,21,Female,Political Science,WhatsApp,2.2,5.2,6.5,Education,2.77
+STU10828,19,Female,Political Science,Facebook,3.0,4.5,7.0,Business,4.24
+STU10829,20,Female,Computer Science,Instagram,3.1,1.9,6.7,News,2.21
+STU10830,25,Male,Economics,TikTok,5.3,3.5,6.4,Entertainment,3.3
+STU10831,22,Female,Computer Science,Instagram,3.1,4.5,5.9,Education,4.3
+STU10832,25,Male,Business Administration,TikTok,2.9,4.0,6.9,News,3.14
+STU10833,23,Female,Political Science,TikTok,3.3,4.3,6.9,Entertainment,3.12
+STU10834,26,Male,Education,Instagram,2.9,4.1,7.0,Communication,2.97
+STU10835,19,Female,Accounting,WhatsApp,4.7,2.2,5.6,Business,2.72
+STU10836,24,Female,Business Administration,X,3.3,4.6,5.5,News,3.19
+STU10837,23,Female,Engineering,X,4.6,3.8,5.7,News,2.92
+STU10838,18,Female,Microbiology,TikTok,6.2,1.2,8.1,News,2.04
+STU10839,22,Male,Computer Science,Facebook,3.2,5.2,8.1,Business,3.87
+STU10840,25,Female,Computer Science,Facebook,5.1,3.8,6.9,News,3.43
+STU10841,23,Female,Business Administration,X,3.5,4.2,5.9,Communication,2.99
+STU10842,20,Female,Biochemistry,Instagram,3.9,3.7,6.5,Entertainment,3.05
+STU10843,23,Male,Economics,WhatsApp,3.9,2.6,5.9,Entertainment,2.67
+STU10844,19,Male,Computer Science,TikTok,2.4,4.9,7.4,Communication,3.37
+STU10845,20,Male,Biochemistry,Instagram,5.0,3.2,6.9,Communication,2.47
+STU10846,25,Female,Education,TikTok,3.4,3.0,7.6,Entertainment,1.46
+STU10847,27,Female,Political Science,WhatsApp,5.6,3.5,6.3,Entertainment,2.42
+STU10848,27,Female,Economics,Facebook,8.0,4.2,6.3,Entertainment,3.34
+STU10849,21,Female,Business Administration,TikTok,2.0,2.5,8.1,Education,3.93
+STU10850,28,Female,Economics,TikTok,5.8,2.9,5.8,News,2.88
+STU10851,25,Male,Economics,TikTok,4.9,2.1,7.0,Education,2.39
+STU10852,22,Male,Economics,TikTok,5.0,3.0,7.9,Entertainment,3.66
+STU10853,22,Male,Mass Communication,TikTok,4.8,3.8,7.9,Education,2.88
+STU10854,20,Male,Computer Science,TikTok,2.6,7.2,6.0,Entertainment,4.74
+STU10855,20,Female,Accounting,TikTok,3.9,3.6,7.6,News,3.39
+STU10856,22,Female,Computer Science,Instagram,8.2,4.2,7.8,Entertainment,2.21
+STU10857,21,Female,Engineering,WhatsApp,2.5,4.0,7.4,Communication,3.27
+STU10858,24,Male,Biochemistry,Instagram,3.8,2.6,7.0,Education,3.18
+STU10859,25,Female,Economics,Instagram,3.2,5.0,8.5,Business,3.87
+STU10860,23,Female,Political Science,TikTok,5.1,3.9,6.8,Education,2.42
+STU10861,26,Male,Biochemistry,Facebook,3.4,3.5,6.8,Education,2.34
+STU10862,19,Female,Accounting,TikTok,2.9,3.7,6.6,Education,2.82
+STU10863,21,Male,Political Science,TikTok,3.7,4.2,6.4,Entertainment,3.81
+STU10864,21,Male,Engineering,Instagram,6.2,3.5,5.0,Entertainment,2.93
+STU10865,26,Male,Education,X,7.0,2.7,5.8,Entertainment,1.92
+STU10866,18,Male,Engineering,WhatsApp,2.9,5.6,7.3,Communication,2.65
+STU10867,24,Male,Computer Science,WhatsApp,5.2,1.0,7.3,Entertainment,2.41
+STU10868,25,Male,Computer Science,X,6.7,1.8,6.2,Entertainment,1.84
+STU10869,20,Female,Microbiology,Facebook,3.6,3.2,6.7,Communication,3.65
+STU10870,19,Female,Engineering,Instagram,3.7,4.2,6.6,Entertainment,3.3
+STU10871,23,Male,Mass Communication,WhatsApp,5.7,3.2,7.4,Entertainment,3.28
+STU10872,25,Male,Engineering,WhatsApp,5.7,2.5,8.1,Entertainment,3.26
+STU10873,20,Female,Engineering,TikTok,5.2,4.2,7.6,Communication,2.91
+STU10874,27,Male,Business Administration,Instagram,4.8,3.0,7.2,Communication,2.26
+STU10875,25,Male,Business Administration,X,4.0,3.5,7.5,News,2.58
+STU10876,21,Female,Engineering,WhatsApp,4.4,3.6,8.0,Entertainment,3.04
+STU10877,26,Male,Political Science,Instagram,3.2,4.1,7.4,Entertainment,3.0
+STU10878,20,Female,Business Administration,TikTok,3.4,5.2,7.3,Communication,3.33
+STU10879,21,Male,Economics,WhatsApp,4.2,3.0,9.0,Communication,2.72
+STU10880,20,Male,Biochemistry,TikTok,2.9,5.1,7.0,Business,3.26
+STU10881,23,Female,Accounting,Facebook,3.6,4.0,6.9,Entertainment,2.95
+STU10882,24,Male,Engineering,WhatsApp,5.1,1.0,7.6,Entertainment,3.27
+STU10883,22,Male,Microbiology,WhatsApp,4.7,3.3,7.5,Communication,3.53
+STU10884,23,Female,Education,WhatsApp,5.0,3.2,6.6,Entertainment,2.45
+STU10885,22,Female,Accounting,Facebook,2.0,3.1,7.1,Entertainment,2.56
+STU10886,23,Female,Engineering,Instagram,7.5,3.4,6.3,Business,3.64
+STU10887,23,Female,Education,WhatsApp,3.3,3.9,7.2,News,3.59
+STU10888,19,Male,Biochemistry,WhatsApp,4.7,3.9,7.3,Entertainment,3.33
+STU10889,24,Female,Computer Science,TikTok,4.2,2.6,8.2,Education,3.1
+STU10890,19,Male,Mass Communication,WhatsApp,4.1,2.9,7.7,Entertainment,3.74
+STU10891,20,Male,Economics,X,6.3,2.7,6.2,Entertainment,1.88
+STU10892,18,Female,Mass Communication,X,6.0,4.0,6.2,Communication,3.0
+STU10893,23,Male,Education,TikTok,1.5,4.7,7.3,Entertainment,4.63
+STU10894,21,Male,Accounting,WhatsApp,5.3,2.9,6.1,Communication,3.27
+STU10895,29,Male,Engineering,X,4.1,4.8,6.1,Communication,3.18
+STU10896,23,Female,Mass Communication,WhatsApp,6.1,2.7,7.0,Entertainment,2.64
+STU10897,20,Female,Computer Science,X,4.3,4.0,6.1,Communication,2.71
+STU10898,19,Male,Computer Science,Facebook,6.8,2.5,5.2,Education,2.75
+STU10899,23,Male,Biochemistry,Instagram,4.7,2.4,6.6,Communication,2.9
+STU10900,22,Female,Computer Science,Facebook,2.1,3.3,8.6,Entertainment,3.82
+STU10901,25,Female,Mass Communication,Instagram,6.1,3.3,7.7,Entertainment,2.04
+STU10902,20,Male,Engineering,Instagram,1.9,4.1,6.6,Communication,3.54
+STU10903,24,Female,Accounting,WhatsApp,4.6,5.0,7.8,News,3.6
+STU10904,23,Female,Education,Instagram,5.0,2.4,6.4,Entertainment,2.73
+STU10905,21,Female,Biochemistry,X,3.2,4.2,6.4,Communication,3.68
+STU10906,27,Male,Economics,TikTok,3.1,3.4,6.9,Entertainment,1.96
+STU10907,19,Male,Economics,WhatsApp,4.3,5.6,6.4,Communication,2.63
+STU10908,24,Female,Mass Communication,Instagram,5.3,3.5,7.9,Entertainment,3.03
+STU10909,28,Female,Economics,Instagram,3.5,2.5,7.2,Communication,2.9
+STU10910,20,Male,Microbiology,X,1.8,4.2,6.4,Entertainment,2.66
+STU10911,21,Male,Engineering,TikTok,4.5,5.6,6.6,Entertainment,3.03
+STU10912,24,Male,Business Administration,Instagram,4.6,4.4,7.2,News,3.64
+STU10913,20,Male,Education,TikTok,4.0,2.4,6.6,Entertainment,2.15
+STU10914,24,Male,Economics,WhatsApp,3.9,4.4,8.7,Business,2.86
+STU10915,29,Male,Economics,Facebook,4.7,3.0,5.6,News,2.69
+STU10916,26,Female,Business Administration,WhatsApp,3.4,3.8,7.2,News,2.96
+STU10917,22,Male,Biochemistry,Instagram,4.1,6.2,6.5,Business,3.75
+STU10918,20,Male,Accounting,TikTok,6.8,5.4,6.6,Entertainment,3.87
+STU10919,21,Male,Microbiology,Instagram,1.8,4.4,7.4,Entertainment,2.94
+STU10920,25,Female,Accounting,WhatsApp,4.4,4.2,8.3,Entertainment,3.03
+STU10921,26,Female,Microbiology,TikTok,3.5,4.4,7.9,Communication,2.66
+STU10922,28,Male,Computer Science,Facebook,5.4,3.5,6.9,Education,2.99
+STU10923,18,Male,Computer Science,Instagram,0.5,4.5,6.9,Communication,3.0
+STU10924,22,Female,Computer Science,Instagram,2.3,2.1,7.6,Entertainment,2.07
+STU10925,24,Female,Political Science,WhatsApp,5.8,2.2,6.1,Entertainment,2.34
+STU10926,28,Female,Mass Communication,TikTok,6.0,4.2,6.3,Business,4.09
+STU10927,23,Male,Business Administration,WhatsApp,6.0,3.0,6.9,Communication,2.88
+STU10928,19,Female,Business Administration,Facebook,3.6,3.8,6.7,Entertainment,3.57
+STU10929,20,Female,Microbiology,WhatsApp,6.1,4.8,7.9,News,3.18
+STU10930,21,Male,Microbiology,X,3.6,3.5,5.7,Education,3.88
+STU10931,24,Female,Biochemistry,TikTok,5.4,4.3,6.6,Communication,3.37
+STU10932,23,Female,Accounting,TikTok,5.0,1.7,7.0,News,3.47
+STU10933,21,Female,Education,X,4.1,6.3,5.9,Education,3.76
+STU10934,21,Female,Accounting,Instagram,3.6,4.6,6.9,Business,3.59
+STU10935,19,Male,Accounting,WhatsApp,4.5,4.3,6.7,News,4.24
+STU10936,22,Female,Economics,TikTok,3.7,4.6,7.8,Entertainment,4.04
+STU10937,25,Female,Accounting,Instagram,1.9,3.9,7.4,Education,2.6
+STU10938,20,Female,Business Administration,TikTok,2.3,3.6,9.3,Communication,3.42
+STU10939,27,Male,Accounting,X,5.1,4.7,6.3,Communication,3.97
+STU10940,26,Female,Education,WhatsApp,5.0,6.1,6.5,Entertainment,3.5
+STU10941,22,Female,Biochemistry,WhatsApp,4.4,5.8,8.1,Communication,4.14
+STU10942,20,Female,Education,WhatsApp,2.7,3.2,6.0,Communication,2.91
+STU10943,23,Male,Education,WhatsApp,5.9,4.5,6.8,Communication,3.28
+STU10944,19,Female,Biochemistry,TikTok,3.3,4.8,9.1,Entertainment,3.32
+STU10945,21,Female,Microbiology,X,4.2,3.1,7.4,Communication,3.22
+STU10946,24,Female,Microbiology,Facebook,5.7,3.1,7.3,Communication,3.45
+STU10947,19,Female,Accounting,Instagram,3.4,5.7,6.8,Entertainment,3.14
+STU10948,21,Male,Mass Communication,X,6.0,2.6,6.3,Entertainment,2.68
+STU10949,21,Male,Mass Communication,WhatsApp,5.9,3.3,5.9,Entertainment,2.88
+STU10950,21,Male,Education,Instagram,4.9,3.1,7.0,Education,1.58
+STU10951,21,Male,Economics,Instagram,3.2,4.7,7.3,Education,2.88
+STU10952,21,Female,Microbiology,WhatsApp,5.3,2.7,7.2,Entertainment,2.59
+STU10953,21,Male,Computer Science,WhatsApp,6.1,2.8,6.4,Education,2.43
+STU10954,18,Female,Business Administration,Instagram,5.5,4.2,7.2,Entertainment,2.73
+STU10955,28,Male,Economics,WhatsApp,4.5,5.5,7.6,Education,3.25
+STU10956,24,Female,Engineering,TikTok,2.4,4.0,5.6,Entertainment,2.82
+STU10957,19,Male,Computer Science,TikTok,3.1,4.2,7.9,Communication,3.04
+STU10958,19,Male,Biochemistry,TikTok,5.3,5.7,6.2,News,3.83
+STU10959,25,Male,Education,Instagram,2.6,3.3,7.1,Entertainment,4.27
+STU10960,22,Female,Economics,Instagram,4.5,5.8,8.3,Communication,4.59
+STU10961,23,Female,Mass Communication,WhatsApp,1.2,5.8,6.8,Business,3.34
+STU10962,28,Female,Engineering,TikTok,4.8,2.4,4.7,Communication,2.57
+STU10963,20,Male,Microbiology,Instagram,3.8,6.2,7.2,Entertainment,2.54
+STU10964,26,Female,Engineering,TikTok,4.5,3.3,7.8,Entertainment,2.17
+STU10965,20,Female,Political Science,Instagram,2.6,4.2,6.9,Entertainment,3.26
+STU10966,28,Male,Computer Science,Facebook,2.5,4.4,5.7,Entertainment,4.13
+STU10967,25,Male,Education,TikTok,0.5,2.4,8.4,Entertainment,2.79
+STU10968,26,Male,Education,X,4.3,4.4,6.1,News,1.9
+STU10969,19,Female,Microbiology,TikTok,4.5,2.0,8.3,Communication,3.04
+STU10970,20,Male,Accounting,TikTok,3.7,3.2,6.1,Entertainment,2.93
+STU10971,22,Female,Business Administration,WhatsApp,4.3,3.8,4.7,Communication,3.02
+STU10972,22,Female,Engineering,X,3.1,3.2,7.2,Entertainment,3.57
+STU10973,26,Female,Computer Science,WhatsApp,3.0,4.6,6.9,Communication,3.79
+STU10974,21,Female,Political Science,TikTok,4.8,3.3,5.0,Entertainment,2.05
+STU10975,20,Male,Education,Instagram,4.6,4.3,5.9,Entertainment,2.88
+STU10976,24,Female,Engineering,WhatsApp,6.4,2.6,7.0,News,1.86
+STU10977,23,Female,Mass Communication,WhatsApp,2.0,3.5,7.1,Entertainment,3.34
+STU10978,19,Female,Engineering,WhatsApp,1.2,4.7,6.3,Education,4.32
+STU10979,26,Male,Computer Science,Instagram,1.9,2.5,6.7,Education,3.1
+STU10980,22,Female,Education,TikTok,4.8,5.1,5.9,Communication,2.63
+STU10981,25,Female,Computer Science,TikTok,9.0,3.1,6.6,Entertainment,2.74
+STU10982,24,Male,Mass Communication,Instagram,3.1,1.7,7.9,News,2.32
+STU10983,20,Male,Computer Science,Facebook,8.1,2.5,6.9,Communication,3.47
+STU10984,25,Female,Economics,Facebook,5.3,3.5,5.9,Entertainment,3.29
+STU10985,25,Male,Engineering,TikTok,3.4,3.7,7.8,Communication,3.23
+STU10986,25,Male,Political Science,WhatsApp,5.6,4.3,5.8,News,1.91
+STU10987,22,Male,Mass Communication,TikTok,4.8,2.0,5.9,Communication,2.1
+STU10988,20,Male,Microbiology,Instagram,4.2,5.2,5.4,Entertainment,3.66
+STU10989,19,Male,Biochemistry,TikTok,2.1,3.9,5.9,Education,3.29
+STU10990,21,Male,Biochemistry,Instagram,5.3,2.9,7.3,Education,2.02
+STU10991,26,Male,Business Administration,Instagram,9.0,5.2,6.9,News,2.83
+STU10992,27,Female,Engineering,WhatsApp,2.1,4.5,6.1,Communication,3.9
+STU10993,20,Male,Mass Communication,Instagram,4.9,4.8,7.5,Entertainment,4.33
+STU10994,22,Male,Computer Science,TikTok,4.9,5.4,8.3,Communication,3.99
+STU10995,23,Male,Economics,TikTok,2.9,4.6,7.4,Communication,4.56
+STU10996,19,Female,Business Administration,WhatsApp,4.7,2.7,6.3,Entertainment,2.59
+STU10997,23,Male,Biochemistry,Facebook,4.3,4.1,6.6,Communication,3.66
+STU10998,19,Female,Education,X,3.0,3.3,6.6,Communication,3.64
+STU10999,19,Female,Biochemistry,WhatsApp,1.4,5.0,6.7,Communication,3.88
+STU11000,27,Female,Education,Instagram,3.8,5.0,5.6,Entertainment,3.26
+STU11001,23,Female,Business Administration,TikTok,2.8,4.0,8.3,Entertainment,1.99
+STU11002,23,Male,Political Science,X,2.4,4.3,6.6,Communication,2.99
+STU11003,24,Male,Mass Communication,Instagram,3.5,4.1,5.7,Entertainment,3.4
+STU11004,20,Female,Biochemistry,WhatsApp,4.0,2.6,5.6,Education,2.35
+STU11005,29,Female,Microbiology,X,1.4,4.3,6.5,Communication,3.28
+STU11006,22,Female,Mass Communication,WhatsApp,1.9,3.4,8.4,Communication,2.94
+STU11007,27,Female,Economics,WhatsApp,5.6,4.6,6.0,Communication,3.0
+STU11008,20,Female,Education,WhatsApp,3.8,3.9,6.0,Entertainment,3.41
+STU11009,20,Male,Computer Science,WhatsApp,4.8,2.8,5.8,Communication,2.04
+STU11010,22,Male,Biochemistry,TikTok,7.3,4.0,7.0,Entertainment,2.69
+STU11011,22,Female,Accounting,X,4.9,3.4,6.8,Entertainment,3.42
+STU11012,19,Female,Mass Communication,TikTok,5.8,4.3,5.3,Entertainment,2.88
+STU11013,23,Female,Microbiology,TikTok,2.5,3.1,7.1,Communication,2.43
+STU11014,21,Female,Computer Science,WhatsApp,0.9,3.5,7.1,Entertainment,3.23
+STU11015,23,Female,Microbiology,Instagram,7.4,3.6,6.7,News,1.94
+STU11016,20,Male,Business Administration,X,4.3,4.5,6.7,Entertainment,4.25
+STU11017,24,Female,Mass Communication,TikTok,2.6,4.7,7.5,Business,4.04
+STU11018,29,Male,Business Administration,Instagram,3.6,6.2,7.0,Communication,4.16
+STU11019,22,Female,Computer Science,TikTok,5.0,3.5,6.5,Communication,3.43
+STU11020,20,Female,Biochemistry,Instagram,4.9,5.7,6.8,News,4.49
+STU11021,21,Male,Computer Science,TikTok,2.7,2.0,8.6,Communication,3.07
+STU11022,24,Female,Economics,TikTok,3.6,4.9,6.7,News,4.52
+STU11023,27,Male,Biochemistry,Facebook,3.7,3.4,7.2,Communication,2.37
+STU11024,21,Female,Economics,Instagram,5.2,1.8,6.5,News,3.15
+STU11025,20,Female,Biochemistry,WhatsApp,3.7,2.8,6.1,Communication,2.64
+STU11026,22,Male,Computer Science,TikTok,3.0,5.5,8.7,Communication,3.74
+STU11027,21,Male,Microbiology,X,5.1,4.0,7.0,Communication,2.68
+STU11028,20,Male,Engineering,Instagram,3.4,2.9,7.0,Communication,3.05
+STU11029,27,Female,Political Science,X,6.3,4.5,7.6,Communication,2.52
+STU11030,21,Female,Biochemistry,TikTok,6.3,2.4,5.8,Communication,2.12
+STU11031,24,Male,Economics,TikTok,5.8,3.5,7.5,Entertainment,2.96
+STU11032,22,Female,Business Administration,Instagram,3.4,3.6,5.9,Education,3.13
+STU11033,20,Female,Education,WhatsApp,2.8,5.8,7.4,Entertainment,4.65
+STU11034,24,Female,Microbiology,Instagram,2.7,4.2,5.9,Communication,3.49
+STU11035,23,Male,Economics,TikTok,7.3,5.0,6.1,Entertainment,4.19
+STU11036,22,Female,Engineering,TikTok,2.3,3.5,7.3,Communication,2.52
+STU11037,19,Female,Political Science,WhatsApp,3.6,5.5,6.8,Entertainment,3.24
+STU11038,22,Female,Business Administration,TikTok,3.3,3.0,6.2,Communication,2.86
+STU11039,19,Female,Biochemistry,Instagram,5.4,2.6,5.8,Communication,2.93
+STU11040,30,Female,Accounting,TikTok,2.6,2.3,6.3,News,3.41
+STU11041,21,Male,Accounting,WhatsApp,4.3,3.2,5.8,Entertainment,2.79
+STU11042,23,Male,Computer Science,WhatsApp,1.7,6.7,6.1,Entertainment,3.98
+STU11043,24,Male,Computer Science,WhatsApp,5.8,4.5,6.5,Business,3.98
+STU11044,24,Male,Microbiology,WhatsApp,3.1,4.5,6.9,Entertainment,2.26
+STU11045,25,Female,Political Science,WhatsApp,4.3,3.5,7.4,Entertainment,3.21
+STU11046,25,Male,Engineering,WhatsApp,4.7,2.0,8.5,Entertainment,2.46
+STU11047,22,Male,Microbiology,Instagram,2.5,3.9,8.1,Communication,3.52
+STU11048,23,Female,Biochemistry,TikTok,4.4,1.6,7.2,News,3.55
+STU11049,24,Female,Economics,Instagram,2.7,5.0,7.3,Entertainment,3.03
+STU11050,23,Male,Economics,WhatsApp,2.6,4.4,7.2,Education,3.7
+STU11051,21,Male,Biochemistry,WhatsApp,5.2,1.6,4.5,Entertainment,2.68
+STU11052,23,Male,Biochemistry,WhatsApp,3.0,3.9,6.9,News,3.57
+STU11053,27,Male,Economics,TikTok,4.6,3.7,5.8,News,3.39
+STU11054,28,Female,Engineering,Instagram,3.7,2.0,6.5,Communication,1.43
+STU11055,25,Female,Education,Facebook,4.4,4.4,6.5,Communication,2.9
+STU11056,18,Male,Biochemistry,X,6.0,4.3,7.3,Communication,2.5
+STU11057,22,Female,Education,Instagram,6.1,3.7,6.2,Entertainment,3.04
+STU11058,24,Male,Political Science,TikTok,4.2,2.5,5.3,Communication,2.74
+STU11059,23,Male,Education,Facebook,5.4,3.9,6.0,Entertainment,3.27
+STU11060,23,Female,Engineering,TikTok,1.7,4.2,7.0,Entertainment,2.67
+STU11061,20,Male,Accounting,TikTok,6.2,3.6,7.8,Entertainment,1.88
+STU11062,22,Male,Economics,TikTok,1.9,2.2,7.9,Education,2.21
+STU11063,21,Male,Biochemistry,TikTok,7.3,4.7,5.4,Business,2.29
+STU11064,24,Male,Engineering,WhatsApp,3.5,3.2,7.6,Communication,3.17
+STU11065,25,Female,Accounting,Instagram,5.1,1.7,6.2,Entertainment,2.17
+STU11066,23,Male,Accounting,WhatsApp,4.3,4.2,6.2,Communication,3.18
+STU11067,20,Male,Biochemistry,Instagram,5.3,4.5,6.6,Communication,2.62
+STU11068,26,Female,Economics,WhatsApp,7.1,3.7,6.2,Entertainment,2.01
+STU11069,20,Male,Education,Instagram,4.1,6.4,6.3,Communication,4.51
+STU11070,24,Female,Microbiology,X,1.7,3.9,6.6,Entertainment,3.43
+STU11071,20,Male,Accounting,TikTok,4.1,5.2,7.0,Education,2.06
+STU11072,23,Male,Business Administration,WhatsApp,2.8,5.0,6.9,Education,3.11
+STU11073,18,Male,Economics,WhatsApp,6.9,1.9,8.5,Communication,2.19
+STU11074,25,Female,Education,WhatsApp,3.9,3.8,8.0,Communication,3.66
+STU11075,19,Female,Education,Instagram,5.1,3.2,6.5,Entertainment,3.27
+STU11076,22,Male,Biochemistry,Instagram,4.7,4.9,6.6,Entertainment,3.47
+STU11077,27,Female,Microbiology,TikTok,3.8,6.1,5.0,Entertainment,3.56
+STU11078,22,Male,Education,X,4.6,3.8,6.5,Business,3.36
+STU11079,25,Female,Education,TikTok,5.9,2.9,6.0,Entertainment,3.92
+STU11080,23,Male,Economics,WhatsApp,6.7,2.3,5.8,Communication,2.15
+STU11081,24,Male,Biochemistry,TikTok,4.1,2.0,6.4,Entertainment,1.87
+STU11082,28,Female,Education,Facebook,3.0,2.6,7.3,Communication,2.34
+STU11083,22,Female,Engineering,Instagram,3.8,4.7,7.3,Entertainment,3.27
+STU11084,26,Female,Computer Science,Facebook,4.6,3.0,7.1,Communication,1.68
+STU11085,23,Male,Biochemistry,Instagram,5.4,2.8,7.2,Entertainment,2.55
+STU11086,22,Female,Education,WhatsApp,3.5,3.3,6.9,Education,3.06
+STU11087,21,Male,Economics,TikTok,6.8,4.9,7.1,News,3.32
+STU11088,22,Female,Political Science,TikTok,5.6,4.4,7.6,News,3.35
+STU11089,29,Male,Mass Communication,WhatsApp,6.8,3.7,6.6,News,3.83
+STU11090,26,Female,Business Administration,Instagram,3.2,3.6,6.3,Entertainment,2.68
+STU11091,25,Male,Business Administration,Instagram,0.5,4.8,8.3,Entertainment,3.14
+STU11092,19,Male,Political Science,TikTok,5.2,1.8,7.4,Communication,2.36
+STU11093,23,Male,Political Science,WhatsApp,6.8,3.3,5.4,Entertainment,2.47
+STU11094,20,Female,Business Administration,X,6.3,2.4,6.1,Communication,2.13
+STU11095,21,Male,Computer Science,TikTok,1.1,2.1,8.5,Communication,3.16
+STU11096,18,Male,Economics,TikTok,2.7,5.0,6.7,Entertainment,3.96
+STU11097,22,Female,Biochemistry,TikTok,2.9,4.4,6.9,Education,2.15
+STU11098,27,Female,Mass Communication,Facebook,2.6,2.2,6.2,Communication,2.89
+STU11099,22,Male,Business Administration,WhatsApp,2.8,4.3,7.9,Communication,3.29
+STU11100,18,Male,Accounting,Instagram,6.1,4.6,8.5,News,3.49
+STU11101,24,Female,Education,WhatsApp,3.0,4.8,6.3,Entertainment,1.83
+STU11102,21,Female,Biochemistry,TikTok,4.3,3.1,7.0,News,3.17
+STU11103,24,Male,Biochemistry,TikTok,5.3,3.5,6.6,Communication,2.86
+STU11104,21,Female,Microbiology,Instagram,4.2,3.9,5.7,Entertainment,3.02
+STU11105,24,Female,Business Administration,Instagram,2.9,3.0,8.2,Entertainment,3.67
+STU11106,23,Female,Accounting,Instagram,3.9,2.8,5.4,Communication,2.3
+STU11107,19,Male,Engineering,Instagram,4.9,3.2,6.6,Communication,3.88
+STU11108,18,Male,Microbiology,TikTok,5.4,4.6,6.3,Communication,3.51
+STU11109,18,Male,Political Science,X,3.6,4.2,5.9,Business,2.39
+STU11110,25,Male,Engineering,Instagram,3.2,3.8,7.3,Entertainment,2.98
+STU11111,20,Male,Accounting,X,2.7,3.9,6.1,Entertainment,2.98
+STU11112,26,Male,Business Administration,TikTok,1.2,1.9,6.1,Communication,2.87
+STU11113,22,Male,Microbiology,X,1.9,6.7,8.4,Entertainment,4.23
+STU11114,20,Female,Mass Communication,Instagram,5.8,3.3,6.9,Communication,3.41
+STU11115,22,Female,Mass Communication,WhatsApp,6.9,2.5,8.4,Communication,2.85
+STU11116,23,Female,Biochemistry,TikTok,3.8,3.9,6.7,Communication,3.65
+STU11117,25,Female,Computer Science,X,9.0,3.1,4.8,Entertainment,2.61
+STU11118,19,Male,Biochemistry,TikTok,2.9,3.0,7.3,Entertainment,3.12
+STU11119,25,Male,Engineering,Facebook,2.7,4.3,7.7,Communication,3.54
+STU11120,24,Female,Education,Facebook,4.8,5.2,6.9,Communication,3.48
+STU11121,21,Female,Mass Communication,Instagram,6.1,3.5,6.8,Education,3.13
+STU11122,21,Male,Economics,WhatsApp,3.6,5.0,5.5,Education,4.45
+STU11123,21,Male,Engineering,Instagram,6.7,2.7,6.3,Communication,2.06
+STU11124,21,Female,Economics,Facebook,5.1,6.4,6.2,Education,3.82
+STU11125,27,Female,Political Science,Instagram,5.2,4.9,7.7,Education,3.25
+STU11126,22,Female,Microbiology,X,4.7,4.1,6.3,Entertainment,3.37
+STU11127,28,Female,Business Administration,TikTok,2.9,4.0,8.2,News,3.66
+STU11128,22,Male,Computer Science,TikTok,8.3,3.0,5.8,Entertainment,3.6
+STU11129,24,Male,Mass Communication,Facebook,4.5,4.6,5.9,Communication,3.28
+STU11130,28,Male,Engineering,TikTok,4.6,4.0,6.2,Communication,2.95
+STU11131,24,Female,Microbiology,TikTok,4.3,4.9,7.5,Education,3.05
+STU11132,23,Male,Computer Science,WhatsApp,4.8,5.4,7.7,Communication,3.74
+STU11133,24,Female,Education,TikTok,6.2,2.5,6.6,Education,2.26
+STU11134,29,Female,Microbiology,WhatsApp,3.4,3.7,6.4,Communication,2.29
+STU11135,21,Female,Education,WhatsApp,4.5,2.9,8.2,Communication,2.63
+STU11136,23,Female,Political Science,WhatsApp,1.8,4.8,7.2,Entertainment,3.47
+STU11137,23,Female,Business Administration,X,7.5,4.3,5.7,News,2.9
+STU11138,24,Male,Economics,Facebook,3.8,3.2,8.4,Communication,3.5
+STU11139,20,Male,Business Administration,X,5.2,3.2,6.1,Communication,3.27
+STU11140,26,Female,Engineering,WhatsApp,3.2,1.9,7.9,Entertainment,3.08
+STU11141,21,Female,Business Administration,WhatsApp,5.7,4.4,7.6,Entertainment,2.59
+STU11142,22,Female,Accounting,WhatsApp,2.5,4.6,7.6,Education,3.18
+STU11143,24,Male,Accounting,Instagram,5.7,3.2,7.7,Communication,3.23
+STU11144,22,Female,Education,TikTok,6.0,4.2,7.4,Communication,3.41
+STU11145,24,Female,Accounting,WhatsApp,2.1,3.9,6.9,Business,3.73
+STU11146,22,Male,Economics,WhatsApp,1.7,4.0,7.7,Entertainment,3.96
+STU11147,28,Female,Business Administration,Facebook,5.7,5.5,7.3,Business,3.27
+STU11148,25,Female,Engineering,Instagram,5.8,3.0,5.9,Entertainment,2.35
+STU11149,24,Male,Mass Communication,Facebook,2.3,4.2,6.8,Education,3.37
+STU11150,23,Female,Political Science,TikTok,3.8,5.4,7.7,Communication,4.05
+STU11151,19,Male,Mass Communication,WhatsApp,4.5,3.0,6.4,Communication,3.27
+STU11152,23,Male,Accounting,Instagram,3.2,3.7,7.0,Education,2.29
+STU11153,22,Male,Mass Communication,Facebook,4.2,3.6,7.8,Entertainment,2.9
+STU11154,24,Female,Biochemistry,Facebook,4.6,6.2,7.5,Communication,3.04
+STU11155,23,Male,Computer Science,WhatsApp,4.0,2.4,5.7,Communication,3.35
+STU11156,20,Female,Accounting,TikTok,3.6,3.0,6.9,Business,2.08
+STU11157,19,Male,Accounting,WhatsApp,2.7,2.5,7.3,Entertainment,3.06
+STU11158,20,Female,Mass Communication,WhatsApp,2.2,3.6,8.3,Entertainment,3.16
+STU11159,22,Female,Microbiology,TikTok,0.6,5.2,7.2,Entertainment,4.47
+STU11160,25,Female,Biochemistry,X,4.6,4.4,5.9,Entertainment,3.35
+STU11161,21,Female,Business Administration,Instagram,3.8,4.2,7.0,Education,3.94
+STU11162,22,Male,Mass Communication,TikTok,4.5,5.0,7.8,Education,3.81
+STU11163,21,Male,Biochemistry,WhatsApp,2.7,2.8,7.7,Entertainment,2.13
+STU11164,20,Female,Biochemistry,WhatsApp,3.9,2.2,6.5,Communication,2.85
+STU11165,24,Male,Economics,Instagram,4.2,4.2,7.1,Education,3.73
+STU11166,21,Male,Political Science,Facebook,7.5,4.2,6.7,News,2.17
+STU11167,24,Male,Microbiology,TikTok,1.9,6.5,7.6,Entertainment,3.72
+STU11168,21,Male,Economics,Facebook,4.6,2.0,7.1,Education,2.51
+STU11169,22,Female,Economics,WhatsApp,5.7,4.9,7.3,Entertainment,2.8
+STU11170,20,Female,Economics,WhatsApp,4.9,3.0,6.0,Entertainment,3.07
+STU11171,23,Female,Engineering,X,4.2,3.3,6.2,Entertainment,2.85
+STU11172,26,Male,Business Administration,WhatsApp,7.5,3.7,5.1,Entertainment,3.49
+STU11173,24,Female,Microbiology,TikTok,3.1,4.5,7.6,Business,3.49
+STU11174,20,Female,Engineering,TikTok,3.3,4.7,7.6,Entertainment,3.74
+STU11175,23,Female,Economics,WhatsApp,4.6,1.8,6.5,Entertainment,2.66
+STU11176,26,Male,Economics,WhatsApp,6.4,5.4,7.4,Entertainment,2.85
+STU11177,21,Female,Business Administration,WhatsApp,3.3,4.1,6.7,Entertainment,2.23
+STU11178,26,Male,Education,Instagram,5.1,4.4,6.2,News,3.34
+STU11179,26,Female,Political Science,Facebook,7.8,3.8,6.4,Entertainment,3.28
+STU11180,20,Male,Microbiology,X,2.9,3.5,6.7,Communication,1.82
+STU11181,23,Female,Engineering,Facebook,3.3,2.7,6.8,Communication,2.2
+STU11182,20,Female,Microbiology,WhatsApp,0.8,3.1,7.8,Communication,3.04
+STU11183,22,Male,Computer Science,Instagram,1.4,5.1,6.4,Communication,4.14
+STU11184,22,Female,Mass Communication,WhatsApp,3.8,4.0,7.1,News,3.94
+STU11185,24,Female,Engineering,TikTok,1.8,1.2,7.4,Business,2.09
+STU11186,19,Female,Business Administration,TikTok,2.2,3.0,8.1,Education,2.63
+STU11187,24,Male,Biochemistry,TikTok,7.6,2.2,6.3,Communication,2.3
+STU11188,23,Male,Engineering,TikTok,7.5,3.5,6.7,Education,2.77
+STU11189,25,Male,Education,WhatsApp,3.5,5.1,6.7,Communication,3.34
+STU11190,24,Female,Microbiology,WhatsApp,5.5,3.3,5.8,Education,3.88
+STU11191,23,Male,Accounting,Instagram,3.1,2.5,7.1,Communication,2.5
+STU11192,21,Female,Microbiology,Facebook,6.2,1.9,6.3,Communication,2.12
+STU11193,22,Female,Mass Communication,WhatsApp,3.1,4.6,6.5,Communication,2.89
+STU11194,20,Male,Political Science,X,3.5,4.9,8.1,Education,3.42
+STU11195,20,Female,Biochemistry,X,6.5,3.9,6.9,Communication,3.02
+STU11196,27,Female,Political Science,TikTok,1.8,5.0,6.4,Entertainment,4.48
+STU11197,24,Male,Biochemistry,TikTok,4.3,2.3,6.5,Communication,2.99
+STU11198,23,Female,Microbiology,WhatsApp,4.4,2.2,6.8,News,1.9
+STU11199,26,Male,Mass Communication,WhatsApp,7.0,3.4,6.9,Business,3.79
+STU11200,25,Female,Computer Science,TikTok,6.1,2.0,5.9,Entertainment,2.18
+STU11201,22,Male,Computer Science,WhatsApp,5.2,4.1,7.5,Communication,3.86
+STU11202,26,Male,Economics,Facebook,3.0,1.5,7.8,Entertainment,3.01
+STU11203,19,Male,Microbiology,WhatsApp,7.3,1.9,6.5,Entertainment,2.56
+STU11204,21,Male,Education,Instagram,0.8,6.2,6.4,Education,3.75
+STU11205,23,Female,Biochemistry,Facebook,4.0,2.8,8.0,News,2.55
+STU11206,29,Male,Mass Communication,WhatsApp,6.1,2.9,7.8,Entertainment,3.23
+STU11207,26,Male,Mass Communication,Instagram,7.0,3.0,5.9,Entertainment,2.7
+STU11208,27,Male,Computer Science,Instagram,6.0,3.3,7.0,Communication,3.11
+STU11209,22,Female,Engineering,Facebook,7.0,5.3,6.1,Communication,3.64
+STU11210,24,Male,Biochemistry,WhatsApp,6.8,2.6,7.1,Communication,3.23
+STU11211,23,Female,Accounting,WhatsApp,3.0,2.9,5.7,Business,2.98
+STU11212,26,Male,Microbiology,WhatsApp,4.7,4.0,6.7,Communication,3.55
+STU11213,18,Male,Political Science,TikTok,3.2,3.6,7.1,Communication,3.58
+STU11214,23,Female,Business Administration,WhatsApp,1.2,2.7,5.6,Education,3.2
+STU11215,21,Male,Political Science,WhatsApp,2.2,3.2,6.8,News,3.84
+STU11216,25,Male,Accounting,TikTok,4.3,4.5,7.3,News,3.49
+STU11217,20,Male,Business Administration,Instagram,3.8,4.7,6.8,Communication,3.25
+STU11218,21,Male,Mass Communication,X,2.7,1.9,6.8,Entertainment,3.07
+STU11219,19,Female,Computer Science,Instagram,5.0,2.7,6.9,Education,4.43
+STU11220,23,Male,Education,Facebook,3.2,3.0,6.9,Communication,1.92
+STU11221,25,Female,Computer Science,WhatsApp,3.7,6.0,6.1,Entertainment,2.77
+STU11222,21,Female,Biochemistry,Instagram,3.5,4.7,7.2,Communication,3.13
+STU11223,22,Male,Engineering,WhatsApp,0.5,6.6,6.1,Entertainment,3.42
+STU11224,23,Female,Economics,WhatsApp,3.0,4.2,7.0,Communication,2.66
+STU11225,24,Male,Accounting,WhatsApp,3.0,3.5,5.8,Education,3.49
+STU11226,26,Male,Education,WhatsApp,1.2,5.8,7.7,News,4.29
+STU11227,21,Male,Economics,TikTok,4.3,4.8,6.7,Education,3.18
+STU11228,25,Female,Political Science,WhatsApp,3.8,3.0,6.4,Education,2.95
+STU11229,25,Female,Microbiology,WhatsApp,4.6,4.7,5.2,Education,3.68
+STU11230,22,Male,Education,Facebook,4.2,2.7,5.3,Entertainment,3.38
+STU11231,22,Male,Business Administration,TikTok,4.6,5.1,6.5,Entertainment,3.18
+STU11232,18,Male,Computer Science,WhatsApp,2.5,4.0,6.4,Education,2.72
+STU11233,23,Female,Business Administration,WhatsApp,1.2,5.7,8.2,News,3.28
+STU11234,26,Female,Education,Instagram,5.7,4.1,7.0,Communication,2.88
+STU11235,23,Male,Political Science,Instagram,1.3,3.6,7.1,Communication,3.19
+STU11236,27,Male,Political Science,Facebook,3.1,4.0,6.0,Communication,3.3
+STU11237,25,Male,Business Administration,WhatsApp,6.9,2.8,7.8,Entertainment,3.0
+STU11238,27,Female,Computer Science,WhatsApp,5.3,2.7,7.2,Entertainment,2.16
+STU11239,20,Female,Engineering,WhatsApp,4.7,2.9,7.5,News,3.24
+STU11240,24,Male,Accounting,Instagram,6.2,3.3,7.6,Communication,3.13
+STU11241,19,Female,Computer Science,Instagram,1.6,3.7,7.6,Business,2.36
+STU11242,21,Male,Accounting,WhatsApp,3.5,3.9,7.3,Communication,3.52
+STU11243,24,Male,Engineering,TikTok,5.4,3.0,6.2,Entertainment,2.48
+STU11244,19,Female,Microbiology,Instagram,4.8,3.5,6.6,Education,2.55
+STU11245,18,Male,Engineering,TikTok,1.9,2.5,7.5,Communication,2.3
+STU11246,19,Male,Biochemistry,Instagram,5.4,2.2,7.3,Entertainment,2.93
+STU11247,20,Female,Mass Communication,Facebook,5.0,5.4,6.1,Entertainment,2.98
+STU11248,25,Female,Business Administration,WhatsApp,6.9,4.4,7.2,Communication,3.11
+STU11249,23,Male,Economics,TikTok,2.9,2.7,8.1,News,2.43
+STU11250,22,Female,Education,X,4.1,4.3,8.2,Entertainment,3.11
+STU11251,21,Male,Biochemistry,TikTok,1.3,3.1,5.9,Education,4.02
+STU11252,22,Male,Accounting,Instagram,5.7,3.2,6.3,Communication,3.0
+STU11253,22,Male,Accounting,TikTok,4.4,4.0,8.1,Entertainment,3.76
+STU11254,25,Female,Accounting,WhatsApp,2.1,4.9,6.7,Communication,3.01
+STU11255,26,Female,Biochemistry,WhatsApp,5.3,2.7,8.2,Entertainment,2.44
+STU11256,25,Male,Accounting,WhatsApp,3.8,2.1,6.8,Entertainment,1.89
+STU11257,26,Male,Biochemistry,TikTok,4.4,2.9,6.6,Entertainment,3.11
+STU11258,25,Female,Political Science,WhatsApp,4.2,4.4,7.5,Communication,3.31
+STU11259,18,Female,Economics,TikTok,3.3,2.8,7.6,Entertainment,3.44
+STU11260,20,Female,Business Administration,Instagram,4.4,4.5,7.7,Education,4.12
+STU11261,25,Female,Computer Science,Instagram,6.7,4.3,5.1,Entertainment,2.9
+STU11262,21,Male,Economics,Instagram,4.9,1.9,6.8,Education,2.24
+STU11263,23,Male,Biochemistry,WhatsApp,2.1,4.7,5.9,Education,3.99
+STU11264,21,Female,Microbiology,WhatsApp,5.1,3.5,6.3,Education,3.32
+STU11265,19,Male,Engineering,TikTok,3.9,4.4,7.1,Entertainment,3.72
+STU11266,20,Male,Political Science,Instagram,4.5,4.0,7.8,Communication,2.96
+STU11267,23,Male,Education,WhatsApp,4.6,3.7,7.2,Communication,2.27
+STU11268,25,Female,Microbiology,TikTok,4.8,4.3,5.8,News,2.77
+STU11269,19,Female,Microbiology,TikTok,1.4,5.9,7.2,News,2.95
+STU11270,24,Female,Education,TikTok,2.7,5.4,6.7,Entertainment,4.62
+STU11271,24,Male,Political Science,TikTok,6.2,4.2,8.2,News,3.04
+STU11272,20,Male,Microbiology,Facebook,2.9,5.4,6.7,News,3.74
+STU11273,22,Male,Microbiology,WhatsApp,1.4,5.5,6.8,Business,4.47
+STU11274,27,Male,Microbiology,WhatsApp,2.5,2.7,7.4,Entertainment,2.15
+STU11275,22,Male,Accounting,WhatsApp,5.2,3.3,7.1,Entertainment,3.37
+STU11276,22,Male,Education,X,4.0,2.1,6.1,Communication,2.5
+STU11277,26,Male,Business Administration,WhatsApp,4.7,2.8,8.0,Entertainment,2.64
+STU11278,26,Male,Mass Communication,Instagram,6.5,3.0,7.0,Entertainment,1.84
+STU11279,18,Male,Accounting,Instagram,6.6,1.8,8.9,News,2.86
+STU11280,24,Female,Microbiology,WhatsApp,2.1,1.2,6.7,Entertainment,2.01
+STU11281,20,Female,Business Administration,TikTok,2.4,3.3,7.6,Education,3.53
+STU11282,24,Male,Mass Communication,Instagram,2.1,3.8,6.4,Communication,4.59
+STU11283,27,Male,Biochemistry,TikTok,7.3,4.0,7.2,Business,3.24
+STU11284,21,Male,Microbiology,WhatsApp,3.6,2.3,8.2,News,1.58
+STU11285,21,Female,Accounting,WhatsApp,5.2,3.6,9.0,Education,3.58
+STU11286,23,Female,Education,WhatsApp,4.4,4.1,6.0,Communication,3.17
+STU11287,20,Female,Business Administration,Instagram,5.3,4.6,6.5,Entertainment,3.21
+STU11288,21,Female,Political Science,Instagram,5.2,3.0,8.0,Entertainment,2.16
+STU11289,26,Female,Biochemistry,TikTok,1.7,5.5,6.6,Entertainment,3.99
+STU11290,25,Male,Accounting,Facebook,3.4,4.0,7.2,Business,3.63
+STU11291,23,Female,Engineering,TikTok,3.7,3.4,7.6,Education,3.11
+STU11292,20,Female,Accounting,WhatsApp,4.8,1.7,6.9,Communication,2.03
+STU11293,19,Female,Economics,Facebook,5.7,3.8,5.7,Entertainment,3.5
+STU11294,22,Female,Biochemistry,X,4.2,2.5,6.8,Education,3.0
+STU11295,23,Male,Microbiology,Instagram,4.2,3.3,8.3,Entertainment,2.66
+STU11296,25,Male,Computer Science,WhatsApp,4.8,3.5,6.9,Business,2.65
+STU11297,26,Female,Political Science,X,5.9,3.3,6.9,Entertainment,3.8
+STU11298,21,Male,Education,Instagram,7.3,2.5,5.5,Communication,2.5
+STU11299,19,Female,Economics,TikTok,3.0,2.5,6.7,Communication,2.6
+STU11300,24,Male,Business Administration,WhatsApp,0.5,3.9,7.4,Communication,3.3
+STU11301,23,Male,Political Science,Instagram,7.4,5.2,7.9,Communication,2.19
+STU11302,23,Female,Computer Science,TikTok,3.8,4.5,7.1,News,3.97
+STU11303,28,Female,Business Administration,WhatsApp,4.5,2.6,5.9,Communication,2.4
+STU11304,23,Female,Business Administration,Instagram,5.9,5.3,6.3,Communication,3.39
+STU11305,22,Male,Economics,X,3.1,4.4,6.7,Education,2.34
+STU11306,19,Female,Mass Communication,WhatsApp,2.8,3.1,5.8,Entertainment,2.06
+STU11307,21,Female,Accounting,TikTok,2.8,3.1,8.7,Entertainment,3.45
+STU11308,26,Male,Political Science,WhatsApp,5.2,4.1,7.8,Business,3.92
+STU11309,29,Female,Political Science,TikTok,3.3,4.2,6.9,Entertainment,3.33
+STU11310,20,Female,Political Science,TikTok,2.2,5.2,7.1,Communication,3.26
+STU11311,26,Female,Mass Communication,Instagram,2.5,3.6,6.7,Entertainment,3.52
+STU11312,25,Female,Economics,WhatsApp,4.7,3.7,7.5,Education,3.61
+STU11313,24,Male,Education,TikTok,2.8,4.4,7.1,Entertainment,4.84
+STU11314,19,Male,Education,WhatsApp,2.9,3.7,7.3,News,3.59
+STU11315,23,Female,Education,WhatsApp,7.0,2.8,6.0,Entertainment,2.76
+STU11316,27,Male,Economics,Facebook,4.6,5.0,6.8,News,3.43
+STU11317,24,Female,Business Administration,Instagram,6.0,4.4,7.6,Education,3.92
+STU11318,28,Male,Accounting,Instagram,3.9,3.5,6.3,Entertainment,1.39
+STU11319,22,Female,Accounting,TikTok,0.8,6.2,7.0,Communication,4.96
+STU11320,21,Male,Accounting,Facebook,5.8,4.0,5.5,Entertainment,2.89
+STU11321,25,Female,Mass Communication,Instagram,5.8,4.4,5.0,News,3.75
+STU11322,22,Male,Education,WhatsApp,1.3,4.4,6.8,Education,3.94
+STU11323,27,Male,Biochemistry,Instagram,7.0,2.3,6.3,Entertainment,2.22
+STU11324,27,Male,Microbiology,Instagram,4.1,2.4,8.6,News,3.45
+STU11325,19,Female,Education,TikTok,2.8,5.0,6.1,Entertainment,4.59
+STU11326,26,Female,Computer Science,WhatsApp,3.6,5.0,7.0,Communication,3.18
+STU11327,22,Female,Business Administration,TikTok,5.2,4.2,6.5,Business,3.17
+STU11328,21,Female,Engineering,TikTok,4.4,5.9,7.0,Entertainment,2.96
+STU11329,24,Male,Business Administration,TikTok,4.8,2.8,6.7,Entertainment,3.24
+STU11330,19,Male,Economics,Facebook,7.0,3.7,5.1,Communication,2.92
+STU11331,19,Male,Economics,Facebook,3.9,3.0,7.3,Communication,2.59
+STU11332,18,Female,Microbiology,Facebook,5.3,2.1,7.5,News,3.33
+STU11333,21,Female,Business Administration,Instagram,4.2,5.5,8.2,Communication,3.04
+STU11334,21,Female,Biochemistry,Instagram,4.3,3.8,6.2,News,2.4
+STU11335,21,Male,Accounting,Instagram,3.4,3.5,6.7,Business,2.85
+STU11336,23,Male,Business Administration,Facebook,6.5,3.5,5.5,Entertainment,2.31
+STU11337,27,Male,Engineering,Instagram,2.6,2.8,8.6,Education,3.06
+STU11338,20,Male,Engineering,WhatsApp,3.1,3.6,7.8,News,3.86
+STU11339,21,Female,Political Science,WhatsApp,1.9,5.6,7.0,Communication,3.55
+STU11340,23,Female,Mass Communication,TikTok,6.8,2.3,7.3,Education,2.91
+STU11341,19,Female,Business Administration,WhatsApp,4.8,4.7,5.8,News,3.05
+STU11342,23,Male,Engineering,WhatsApp,3.5,3.5,7.0,Communication,3.71
+STU11343,26,Female,Accounting,TikTok,4.9,3.3,5.5,Business,2.04
+STU11344,22,Female,Accounting,Facebook,6.3,3.5,6.5,Communication,2.58
+STU11345,21,Female,Economics,X,4.6,2.9,6.7,Communication,4.69
+STU11346,23,Female,Mass Communication,WhatsApp,4.0,4.8,5.7,Communication,1.68
+STU11347,28,Male,Accounting,Facebook,5.5,4.4,7.0,News,3.64
+STU11348,25,Male,Computer Science,Instagram,4.6,3.9,6.7,Communication,3.2
+STU11349,28,Female,Engineering,WhatsApp,1.6,2.8,9.0,Entertainment,2.22
+STU11350,24,Male,Mass Communication,WhatsApp,1.7,3.7,5.5,News,3.14
+STU11351,24,Male,Microbiology,TikTok,3.0,4.2,7.7,News,3.85
+STU11352,20,Male,Biochemistry,Instagram,1.4,4.9,7.6,Communication,3.49
+STU11353,23,Female,Biochemistry,X,2.5,3.4,6.9,Education,3.93
+STU11354,23,Male,Engineering,WhatsApp,1.8,6.7,6.8,Communication,4.83
+STU11355,20,Male,Biochemistry,Instagram,1.8,3.6,7.2,Business,3.9
+STU11356,22,Female,Education,Facebook,3.8,3.9,8.3,Education,3.69
+STU11357,22,Male,Microbiology,Instagram,4.3,3.7,5.9,News,2.87
+STU11358,20,Male,Economics,TikTok,5.2,2.2,7.7,News,3.35
+STU11359,26,Male,Computer Science,TikTok,5.5,3.6,6.1,News,3.67
+STU11360,24,Female,Biochemistry,X,3.2,2.5,7.3,Communication,3.68
+STU11361,19,Female,Economics,Instagram,3.2,4.4,8.7,Entertainment,3.4
+STU11362,20,Male,Microbiology,TikTok,2.6,3.8,7.1,Communication,2.43
+STU11363,22,Female,Biochemistry,X,4.7,2.1,7.4,Entertainment,3.78
+STU11364,22,Male,Accounting,WhatsApp,5.0,2.1,6.5,Entertainment,3.37
+STU11365,23,Female,Biochemistry,TikTok,5.0,3.4,7.1,Education,3.65
+STU11366,26,Female,Economics,TikTok,2.2,3.1,6.2,Entertainment,3.0
+STU11367,19,Male,Business Administration,WhatsApp,3.8,3.2,6.5,Entertainment,3.42
+STU11368,21,Female,Business Administration,Facebook,3.5,2.8,6.7,Education,3.48
+STU11369,25,Female,Microbiology,Facebook,5.1,3.1,6.2,Communication,2.91
+STU11370,23,Male,Accounting,TikTok,4.4,4.0,7.0,News,2.19
+STU11371,25,Male,Computer Science,Instagram,5.0,2.8,7.0,Communication,2.03
+STU11372,26,Female,Accounting,WhatsApp,7.6,4.5,6.9,Education,3.09
+STU11373,22,Male,Accounting,TikTok,4.2,5.6,6.4,News,3.88
+STU11374,18,Male,Economics,Facebook,5.9,3.0,7.6,Entertainment,3.65
+STU11375,22,Male,Business Administration,TikTok,5.1,4.1,6.9,Education,2.7
+STU11376,24,Male,Engineering,TikTok,5.1,4.7,6.1,Communication,2.72
+STU11377,24,Female,Biochemistry,Instagram,6.3,1.2,8.5,Communication,2.49
+STU11378,22,Male,Political Science,Instagram,5.2,3.1,7.2,News,2.83
+STU11379,20,Male,Engineering,Facebook,7.8,3.3,7.2,Communication,3.04
+STU11380,29,Female,Education,WhatsApp,5.3,2.8,7.2,Communication,3.14
+STU11381,24,Male,Education,TikTok,6.7,5.0,6.3,Entertainment,3.06
+STU11382,18,Female,Education,Facebook,4.3,3.9,6.1,Communication,1.88
+STU11383,19,Female,Engineering,TikTok,2.1,3.1,5.3,Entertainment,3.96
+STU11384,19,Male,Mass Communication,TikTok,5.0,3.8,5.4,Communication,2.72
+STU11385,19,Male,Education,TikTok,5.0,1.5,7.6,Entertainment,2.44
+STU11386,25,Female,Education,X,3.8,4.7,6.3,Entertainment,2.34
+STU11387,25,Male,Mass Communication,WhatsApp,5.1,4.7,6.6,Education,2.26
+STU11388,22,Female,Mass Communication,WhatsApp,5.2,2.6,7.1,News,2.65
+STU11389,22,Female,Education,Instagram,7.3,2.2,6.1,News,2.57
+STU11390,19,Male,Biochemistry,WhatsApp,6.7,1.8,6.1,Communication,3.33
+STU11391,19,Male,Accounting,TikTok,5.0,1.0,7.3,Entertainment,1.68
+STU11392,26,Male,Economics,WhatsApp,4.4,1.6,6.1,Entertainment,1.91
+STU11393,23,Female,Accounting,X,1.8,1.9,6.6,Entertainment,2.7
+STU11394,19,Male,Economics,Instagram,1.7,6.0,6.2,Entertainment,3.59
+STU11395,22,Male,Computer Science,TikTok,4.0,4.3,7.1,Entertainment,3.48
+STU11396,21,Male,Education,WhatsApp,5.8,4.7,6.4,Entertainment,2.85
+STU11397,24,Male,Political Science,Facebook,2.4,2.6,7.1,Education,2.39
+STU11398,26,Male,Computer Science,Instagram,3.0,5.4,7.7,News,2.8
+STU11399,21,Female,Political Science,TikTok,2.9,3.6,6.6,Communication,1.89
+STU11400,23,Female,Mass Communication,Instagram,3.3,4.3,6.1,Entertainment,3.44
+STU11401,21,Female,Economics,WhatsApp,3.2,4.3,7.1,News,2.77
+STU11402,21,Female,Biochemistry,TikTok,7.5,1.0,6.7,Education,2.81
+STU11403,23,Female,Microbiology,WhatsApp,3.1,5.1,8.2,Entertainment,3.8
+STU11404,19,Male,Economics,X,6.0,2.6,6.6,News,3.21
+STU11405,23,Female,Business Administration,Instagram,1.1,4.8,7.4,Communication,3.73
+STU11406,22,Male,Economics,TikTok,6.0,3.1,7.0,Education,1.68
+STU11407,25,Male,Economics,WhatsApp,6.8,2.1,6.4,Business,2.98
+STU11408,24,Male,Microbiology,X,7.1,2.4,6.0,Entertainment,3.3
+STU11409,20,Male,Political Science,TikTok,4.7,2.9,6.8,Communication,2.95
+STU11410,22,Male,Microbiology,TikTok,5.0,3.6,6.2,Entertainment,2.31
+STU11411,25,Female,Engineering,WhatsApp,4.5,2.9,7.3,News,3.25
+STU11412,22,Female,Mass Communication,WhatsApp,4.7,4.5,7.2,Communication,3.59
+STU11413,22,Female,Computer Science,TikTok,4.1,2.9,7.3,Education,2.98
+STU11414,24,Male,Engineering,Instagram,4.9,3.6,5.9,Entertainment,3.69
+STU11415,20,Male,Accounting,Instagram,3.8,3.1,7.1,Education,2.92
+STU11416,22,Female,Business Administration,Instagram,5.4,2.6,7.4,Business,3.18
+STU11417,24,Male,Education,WhatsApp,4.6,3.0,7.3,Communication,2.72
+STU11418,20,Female,Computer Science,WhatsApp,3.2,3.9,6.7,Entertainment,3.9
+STU11419,22,Female,Political Science,TikTok,1.8,3.7,5.6,Education,4.06
+STU11420,19,Male,Political Science,WhatsApp,6.2,4.0,8.4,Entertainment,2.43
+STU11421,19,Male,Biochemistry,Instagram,4.6,4.8,8.5,Entertainment,2.66
+STU11422,20,Male,Mass Communication,TikTok,1.4,6.8,6.5,News,3.71
+STU11423,19,Male,Education,Facebook,3.0,3.4,6.8,Entertainment,3.22
+STU11424,22,Male,Education,WhatsApp,2.6,4.1,7.0,Entertainment,2.73
+STU11425,23,Male,Accounting,X,3.9,5.1,7.8,Communication,4.58
+STU11426,23,Male,Biochemistry,Facebook,4.0,2.5,8.0,Entertainment,3.86
+STU11427,19,Female,Mass Communication,WhatsApp,3.9,4.1,6.1,Entertainment,3.12
+STU11428,30,Female,Economics,X,2.7,3.2,6.3,News,3.78
+STU11429,25,Female,Computer Science,TikTok,6.2,3.3,6.6,Education,3.8
+STU11430,23,Female,Computer Science,X,5.2,3.7,5.2,Entertainment,2.83
+STU11431,21,Female,Business Administration,TikTok,3.0,5.2,6.6,Education,3.77
+STU11432,19,Female,Education,TikTok,7.6,2.5,6.3,Entertainment,2.71
+STU11433,21,Female,Accounting,Instagram,4.4,5.0,6.4,Entertainment,4.65
+STU11434,24,Female,Engineering,Facebook,6.1,3.5,7.1,Entertainment,3.46
+STU11435,21,Female,Mass Communication,Facebook,4.1,2.4,6.2,News,2.17
+STU11436,20,Male,Economics,TikTok,3.0,2.4,6.8,Entertainment,3.18
+STU11437,21,Male,Biochemistry,Instagram,4.6,3.9,6.5,Entertainment,3.15
+STU11438,20,Female,Microbiology,Facebook,3.3,3.1,6.4,Communication,3.14
+STU11439,20,Female,Biochemistry,WhatsApp,7.0,2.6,5.9,Communication,3.68
+STU11440,24,Female,Education,TikTok,4.3,4.2,7.9,News,2.98
+STU11441,20,Female,Biochemistry,Facebook,5.5,2.2,7.7,Business,2.21
+STU11442,23,Female,Economics,TikTok,3.0,3.4,7.1,Communication,3.99
+STU11443,23,Female,Economics,WhatsApp,5.9,2.2,7.6,Entertainment,2.16
+STU11444,22,Male,Education,WhatsApp,5.9,4.4,7.0,Communication,2.8
+STU11445,20,Male,Accounting,WhatsApp,6.6,3.2,6.9,Entertainment,3.05
+STU11446,20,Male,Computer Science,Facebook,1.4,4.1,5.7,Entertainment,2.61
+STU11447,26,Female,Economics,WhatsApp,1.6,5.4,7.3,Entertainment,4.12
+STU11448,19,Male,Education,TikTok,3.1,3.5,6.4,Business,3.38
+STU11449,25,Female,Accounting,TikTok,0.9,4.7,7.9,News,2.92
+STU11450,18,Male,Biochemistry,X,5.3,5.6,7.0,Education,4.18
+STU11451,27,Male,Engineering,WhatsApp,3.0,3.0,7.1,Entertainment,2.82
+STU11452,22,Female,Engineering,Facebook,1.6,2.2,7.4,Business,3.19
+STU11453,19,Female,Business Administration,TikTok,3.0,2.1,6.2,Entertainment,2.51
+STU11454,26,Male,Political Science,Instagram,3.1,6.1,7.4,Entertainment,2.62
+STU11455,20,Male,Engineering,Instagram,2.4,6.1,7.0,Entertainment,4.13
+STU11456,21,Male,Accounting,TikTok,4.0,3.7,6.4,News,3.19
+STU11457,22,Male,Business Administration,WhatsApp,3.4,3.4,6.9,News,3.02
+STU11458,22,Male,Economics,X,4.8,3.1,5.5,Entertainment,2.21
+STU11459,24,Female,Economics,X,5.1,4.0,7.0,Education,4.15
+STU11460,26,Male,Engineering,Instagram,1.4,4.6,6.2,News,3.52
+STU11461,23,Male,Biochemistry,TikTok,3.5,3.1,8.1,News,3.44
+STU11462,28,Male,Computer Science,TikTok,3.6,4.2,6.4,Communication,3.32
+STU11463,23,Female,Education,X,2.4,5.5,7.6,Education,3.82
+STU11464,22,Male,Business Administration,Instagram,2.3,6.1,7.7,Business,3.59
+STU11465,26,Male,Accounting,WhatsApp,8.6,3.3,5.7,Communication,2.97
+STU11466,21,Male,Microbiology,TikTok,1.7,3.8,8.5,Entertainment,3.83
+STU11467,25,Male,Education,WhatsApp,4.5,4.0,6.8,Entertainment,2.91
+STU11468,24,Female,Computer Science,WhatsApp,3.7,4.5,7.8,Entertainment,4.15
+STU11469,20,Male,Business Administration,WhatsApp,4.3,2.2,7.6,Entertainment,2.98
+STU11470,22,Female,Political Science,Facebook,4.8,3.8,7.5,Entertainment,3.68
+STU11471,22,Female,Political Science,WhatsApp,6.1,4.6,7.4,News,2.41
+STU11472,22,Male,Business Administration,TikTok,7.3,3.8,6.7,Entertainment,2.89
+STU11473,26,Male,Engineering,TikTok,4.7,4.0,6.6,Education,2.81
+STU11474,23,Male,Computer Science,TikTok,4.2,4.5,7.6,Communication,4.26
+STU11475,25,Female,Accounting,Facebook,3.8,3.9,5.9,News,2.93
+STU11476,24,Female,Engineering,Instagram,8.7,2.2,6.3,Entertainment,3.06
+STU11477,22,Female,Microbiology,X,0.5,4.5,6.6,Education,2.85
+STU11478,21,Male,Engineering,WhatsApp,6.2,4.0,7.3,Entertainment,3.08
+STU11479,24,Female,Mass Communication,WhatsApp,0.9,5.6,6.2,Communication,4.19
+STU11480,21,Male,Political Science,Instagram,6.1,4.8,6.6,Education,3.49
+STU11481,18,Female,Biochemistry,WhatsApp,4.7,4.1,6.3,Communication,3.63
+STU11482,20,Male,Education,WhatsApp,2.0,3.5,7.0,Entertainment,3.46
+STU11483,23,Female,Political Science,X,1.8,4.1,8.6,Entertainment,3.72
+STU11484,20,Female,Biochemistry,WhatsApp,2.8,2.1,6.5,Communication,2.94
+STU11485,26,Female,Political Science,X,5.4,3.7,6.9,Entertainment,3.26
+STU11486,21,Male,Economics,Facebook,3.8,5.2,7.3,News,4.0
+STU11487,22,Female,Computer Science,WhatsApp,7.0,4.2,7.8,Communication,2.93
+STU11488,23,Male,Business Administration,Instagram,3.1,5.2,7.0,Communication,3.04
+STU11489,19,Female,Education,TikTok,5.0,3.1,5.8,News,3.29
+STU11490,21,Male,Engineering,WhatsApp,7.9,2.9,8.1,Education,2.93
+STU11491,28,Female,Economics,Facebook,6.4,2.6,6.6,Entertainment,2.93
+STU11492,20,Female,Computer Science,TikTok,4.8,3.1,5.8,Education,4.16
+STU11493,21,Female,Mass Communication,TikTok,4.8,3.6,7.0,Communication,3.27
+STU11494,22,Female,Mass Communication,Facebook,3.5,3.9,6.6,Entertainment,3.84
+STU11495,20,Female,Accounting,WhatsApp,4.0,3.0,6.5,Entertainment,2.65
+STU11496,24,Male,Business Administration,Facebook,3.6,2.5,6.5,Business,2.89
+STU11497,26,Female,Computer Science,WhatsApp,0.6,4.4,8.5,Entertainment,3.31
+STU11498,26,Male,Accounting,Facebook,1.4,4.3,5.8,Entertainment,3.14
+STU11499,23,Male,Education,WhatsApp,5.9,3.9,8.3,Entertainment,2.81
+STU11500,19,Male,Mass Communication,Instagram,6.8,1.3,6.4,Education,2.64
+STU11501,25,Female,Computer Science,Facebook,4.9,2.4,7.7,News,2.3
+STU11502,22,Female,Engineering,Facebook,2.3,3.8,6.9,Entertainment,2.57
+STU11503,24,Male,Business Administration,WhatsApp,6.9,2.1,6.8,Communication,1.45
+STU11504,20,Male,Microbiology,WhatsApp,3.1,4.1,5.9,Business,2.9
+STU11505,18,Female,Microbiology,TikTok,1.3,3.6,7.9,Entertainment,2.92
+STU11506,18,Female,Accounting,WhatsApp,7.3,3.5,7.0,Communication,1.79
+STU11507,26,Female,Computer Science,Instagram,2.9,2.6,7.8,Communication,3.26
+STU11508,20,Male,Political Science,WhatsApp,5.1,3.3,6.8,Communication,3.8
+STU11509,25,Male,Biochemistry,TikTok,2.1,3.3,6.5,Business,2.95
+STU11510,24,Female,Accounting,WhatsApp,6.1,5.5,6.9,Entertainment,3.82
+STU11511,24,Male,Political Science,X,5.7,3.9,6.3,News,2.92
+STU11512,20,Male,Biochemistry,TikTok,4.0,4.8,8.6,Education,3.32
+STU11513,19,Male,Business Administration,TikTok,5.7,3.0,5.5,News,3.27
+STU11514,24,Male,Mass Communication,Instagram,6.2,1.9,6.8,Entertainment,2.22
+STU11515,26,Male,Engineering,Facebook,4.6,3.7,7.5,Entertainment,3.04
+STU11516,19,Male,Engineering,X,4.3,3.8,7.9,Entertainment,3.01
+STU11517,18,Female,Economics,TikTok,3.7,4.2,6.0,Entertainment,3.68
+STU11518,21,Male,Engineering,Instagram,4.6,2.6,7.9,Education,2.98
+STU11519,20,Male,Microbiology,WhatsApp,2.9,1.1,7.9,Entertainment,3.07
+STU11520,23,Female,Political Science,Instagram,4.8,3.0,6.7,Education,3.56
+STU11521,26,Female,Mass Communication,Instagram,6.7,2.6,6.0,Education,1.89
+STU11522,25,Female,Engineering,Facebook,3.6,4.1,6.5,Education,3.52
+STU11523,20,Male,Accounting,WhatsApp,3.5,3.6,6.6,Communication,2.75
+STU11524,21,Female,Microbiology,Instagram,3.1,3.1,7.9,News,2.85
+STU11525,22,Male,Business Administration,X,5.8,1.5,7.3,Communication,2.86
+STU11526,18,Female,Accounting,TikTok,5.0,2.2,6.9,Communication,3.38
+STU11527,24,Female,Engineering,Instagram,6.5,4.1,6.3,Education,3.12
+STU11528,20,Male,Computer Science,TikTok,2.3,6.6,8.4,News,4.89
+STU11529,21,Male,Biochemistry,TikTok,5.1,5.2,6.8,Communication,2.64
+STU11530,23,Female,Engineering,X,1.4,3.8,8.4,Communication,3.32
+STU11531,26,Female,Biochemistry,Instagram,4.6,4.4,7.1,Entertainment,2.61
+STU11532,23,Male,Biochemistry,WhatsApp,5.5,2.8,6.9,Entertainment,1.88
+STU11533,20,Female,Political Science,WhatsApp,5.5,3.9,6.6,Entertainment,4.08
+STU11534,18,Male,Engineering,Instagram,4.8,4.0,8.3,Education,4.11
+STU11535,21,Female,Biochemistry,Facebook,2.0,4.5,6.3,Entertainment,2.35
+STU11536,21,Female,Accounting,TikTok,4.0,1.9,7.3,Education,2.56
+STU11537,24,Female,Education,X,1.5,2.7,6.9,Entertainment,2.83
+STU11538,23,Female,Accounting,WhatsApp,7.1,2.6,7.4,News,2.43
+STU11539,22,Female,Accounting,WhatsApp,4.7,3.0,7.6,Business,2.97
+STU11540,23,Female,Business Administration,WhatsApp,3.6,5.2,6.0,News,3.18
+STU11541,21,Male,Political Science,WhatsApp,4.7,3.8,6.2,Education,2.85
+STU11542,18,Female,Microbiology,TikTok,1.9,3.5,8.0,Entertainment,2.61
+STU11543,19,Male,Microbiology,WhatsApp,5.2,3.2,6.7,Communication,3.93
+STU11544,23,Male,Microbiology,TikTok,6.8,3.9,6.7,Entertainment,3.49
+STU11545,21,Female,Mass Communication,Instagram,3.4,6.8,7.8,Education,3.81
+STU11546,22,Male,Political Science,TikTok,4.2,2.6,6.8,Entertainment,3.01
+STU11547,21,Female,Education,WhatsApp,3.0,3.0,7.1,Business,3.83
+STU11548,18,Male,Computer Science,TikTok,6.5,5.0,7.2,Communication,3.14
+STU11549,22,Male,Economics,WhatsApp,5.6,2.3,6.1,Entertainment,2.12
+STU11550,24,Male,Mass Communication,Instagram,4.6,2.4,8.1,Communication,2.29
+STU11551,21,Female,Engineering,TikTok,4.4,3.8,6.1,News,2.87
+STU11552,24,Female,Education,WhatsApp,3.1,5.4,7.3,Communication,3.82
+STU11553,20,Female,Accounting,WhatsApp,0.5,5.2,6.4,Entertainment,4.15
+STU11554,24,Male,Business Administration,WhatsApp,3.5,4.9,6.9,Education,3.45
+STU11555,20,Female,Business Administration,X,5.6,3.6,7.5,Business,3.05
+STU11556,26,Male,Biochemistry,TikTok,4.8,4.2,6.0,Entertainment,3.33
+STU11557,21,Female,Accounting,WhatsApp,2.1,5.2,6.6,Communication,4.01
+STU11558,20,Female,Computer Science,WhatsApp,4.3,3.5,7.2,Entertainment,3.18
+STU11559,23,Male,Biochemistry,WhatsApp,3.7,3.6,7.6,Education,3.94
+STU11560,22,Female,Biochemistry,X,4.4,4.6,8.3,Communication,3.02
+STU11561,21,Male,Computer Science,TikTok,5.3,4.2,7.2,Education,3.38
+STU11562,24,Male,Economics,Facebook,6.2,1.0,7.8,News,2.49
+STU11563,25,Male,Business Administration,TikTok,0.5,5.0,8.3,Entertainment,4.06
+STU11564,19,Male,Computer Science,TikTok,4.4,1.3,6.8,Entertainment,2.89
+STU11565,22,Female,Engineering,X,3.5,4.6,7.2,News,3.4
+STU11566,22,Female,Economics,TikTok,5.9,4.4,6.1,Education,2.93
+STU11567,24,Female,Economics,Instagram,4.5,4.3,7.0,Entertainment,3.49
+STU11568,21,Female,Engineering,TikTok,5.9,3.2,5.8,Communication,1.49
+STU11569,22,Female,Engineering,Instagram,1.7,4.5,6.9,News,2.83
+STU11570,24,Female,Biochemistry,Instagram,2.1,5.7,8.1,Education,2.16
+STU11571,27,Female,Business Administration,WhatsApp,2.1,3.9,6.4,News,3.9
+STU11572,19,Male,Computer Science,Facebook,4.1,5.0,6.6,Communication,3.9
+STU11573,24,Male,Mass Communication,Instagram,5.4,3.5,6.5,Education,4.51
+STU11574,20,Female,Mass Communication,X,3.7,4.8,7.6,Entertainment,4.05
+STU11575,22,Female,Biochemistry,Facebook,6.7,3.7,6.1,Communication,3.34
+STU11576,24,Female,Biochemistry,WhatsApp,6.5,4.2,8.8,Education,3.51
+STU11577,22,Male,Business Administration,Facebook,1.7,3.8,6.4,Communication,2.63
+STU11578,25,Male,Education,TikTok,5.4,3.3,6.1,News,2.28
+STU11579,24,Male,Mass Communication,Instagram,4.3,2.0,7.2,News,2.67
+STU11580,22,Female,Accounting,Instagram,2.8,3.1,6.4,News,2.67
+STU11581,24,Female,Political Science,TikTok,6.2,2.7,6.2,Entertainment,2.94
+STU11582,24,Female,Business Administration,TikTok,5.4,3.1,6.3,Communication,2.86
+STU11583,20,Male,Biochemistry,Facebook,2.8,3.3,8.6,Entertainment,2.81
+STU11584,24,Female,Business Administration,Facebook,2.0,5.9,7.5,News,4.47
+STU11585,27,Female,Mass Communication,WhatsApp,5.2,4.1,8.0,News,2.43
+STU11586,30,Female,Engineering,WhatsApp,5.1,3.8,6.5,Entertainment,2.99
+STU11587,20,Female,Accounting,Facebook,1.8,4.5,8.4,Entertainment,3.81
+STU11588,20,Female,Biochemistry,Facebook,3.0,3.8,6.4,Entertainment,4.52
+STU11589,21,Male,Accounting,TikTok,5.1,4.4,5.8,Business,2.75
+STU11590,20,Male,Accounting,Instagram,7.0,3.2,6.1,Entertainment,2.37
+STU11591,19,Male,Political Science,X,4.6,5.0,6.7,Business,3.87
+STU11592,19,Female,Microbiology,WhatsApp,4.0,4.6,6.1,Entertainment,2.99
+STU11593,23,Male,Accounting,X,2.1,5.4,7.2,Entertainment,4.14
+STU11594,22,Male,Economics,WhatsApp,7.0,1.9,7.6,News,3.13
+STU11595,22,Female,Biochemistry,Facebook,3.5,2.4,7.9,Entertainment,1.85
+STU11596,22,Male,Engineering,TikTok,6.5,4.7,6.4,News,2.89
+STU11597,24,Male,Biochemistry,TikTok,1.8,4.6,6.8,Business,3.71
+STU11598,25,Female,Accounting,TikTok,5.3,2.5,7.2,Communication,2.63
+STU11599,20,Female,Computer Science,Facebook,4.9,3.2,7.1,Business,3.37
+STU11600,21,Male,Computer Science,WhatsApp,1.0,3.5,6.2,Communication,2.87
+STU11601,24,Female,Business Administration,Instagram,5.2,4.2,7.4,Education,3.18
+STU11602,23,Female,Biochemistry,WhatsApp,4.2,3.7,5.3,Communication,2.91
+STU11603,21,Female,Biochemistry,WhatsApp,4.1,3.5,5.8,Communication,3.31
+STU11604,19,Female,Education,Facebook,6.9,3.8,6.7,Entertainment,2.85
+STU11605,21,Male,Economics,WhatsApp,1.9,4.5,6.3,Entertainment,3.54
+STU11606,20,Male,Engineering,TikTok,5.2,5.1,6.1,Communication,3.45
+STU11607,20,Female,Education,WhatsApp,4.8,4.0,6.6,Entertainment,2.91
+STU11608,22,Female,Engineering,TikTok,4.1,2.2,7.5,Communication,1.81
+STU11609,25,Male,Microbiology,WhatsApp,2.9,4.6,5.6,Business,2.56
+STU11610,22,Male,Engineering,Facebook,4.8,3.7,8.4,Communication,3.14
+STU11611,21,Male,Engineering,X,4.4,4.7,6.5,Business,3.07
+STU11612,27,Male,Political Science,TikTok,2.0,4.4,8.4,Entertainment,3.25
+STU11613,26,Male,Engineering,WhatsApp,3.1,2.7,8.4,News,3.04
+STU11614,24,Female,Accounting,TikTok,4.8,3.7,6.4,Business,3.51
+STU11615,22,Female,Mass Communication,Instagram,3.3,4.8,6.7,Education,3.36
+STU11616,21,Male,Political Science,Facebook,3.3,5.0,7.8,Education,4.04
+STU11617,18,Female,Biochemistry,TikTok,4.9,2.3,7.5,Entertainment,1.84
+STU11618,19,Male,Engineering,Instagram,4.5,3.2,7.0,News,3.1
+STU11619,25,Female,Computer Science,Facebook,2.3,4.8,7.2,News,4.14
+STU11620,23,Female,Education,TikTok,5.2,2.9,6.4,Communication,1.42
+STU11621,20,Female,Economics,TikTok,3.4,2.0,5.7,Entertainment,2.07
+STU11622,23,Male,Economics,WhatsApp,4.2,3.7,9.5,Business,2.48
+STU11623,30,Male,Computer Science,WhatsApp,3.9,3.2,6.3,Entertainment,3.34
+STU11624,23,Male,Education,WhatsApp,2.3,5.7,7.4,Communication,4.53
+STU11625,22,Female,Education,WhatsApp,4.6,2.4,5.9,Education,3.77
+STU11626,21,Female,Business Administration,TikTok,2.2,2.8,8.1,Communication,4.05
+STU11627,20,Male,Biochemistry,WhatsApp,3.0,4.3,6.5,Education,3.49
+STU11628,22,Female,Business Administration,X,4.2,4.9,6.6,Business,3.72
+STU11629,23,Male,Mass Communication,WhatsApp,4.1,5.3,7.4,Entertainment,2.97
+STU11630,19,Male,Computer Science,WhatsApp,2.8,4.7,7.2,Business,2.54
+STU11631,20,Male,Computer Science,TikTok,1.2,4.3,7.0,Education,4.75
+STU11632,25,Male,Accounting,WhatsApp,1.8,2.4,6.6,Communication,1.84
+STU11633,24,Male,Political Science,Instagram,4.7,3.3,7.7,Entertainment,2.46
+STU11634,25,Male,Biochemistry,Facebook,4.8,2.2,8.3,Communication,3.16
+STU11635,22,Male,Business Administration,WhatsApp,4.1,3.1,7.5,Entertainment,3.22
+STU11636,21,Male,Microbiology,WhatsApp,6.0,4.1,7.0,News,2.58
+STU11637,24,Male,Education,Instagram,7.0,1.8,6.4,Communication,1.89
+STU11638,25,Male,Education,Instagram,1.4,5.1,7.7,Entertainment,4.11
+STU11639,20,Male,Computer Science,WhatsApp,3.6,5.1,6.4,Entertainment,3.37
+STU11640,25,Male,Accounting,TikTok,1.7,4.6,7.8,Entertainment,2.03
+STU11641,18,Male,Accounting,Instagram,8.1,3.3,6.3,Education,2.29
+STU11642,19,Female,Microbiology,TikTok,4.4,4.2,6.8,Entertainment,3.73
+STU11643,18,Male,Computer Science,TikTok,4.1,2.0,6.1,News,2.75
+STU11644,19,Female,Political Science,Instagram,2.3,4.7,7.1,Entertainment,3.71
+STU11645,25,Female,Engineering,Instagram,4.6,4.5,5.4,Communication,4.42
+STU11646,26,Male,Computer Science,WhatsApp,3.2,1.7,6.1,Education,2.23
+STU11647,23,Male,Accounting,TikTok,8.3,1.7,6.5,Communication,2.22
+STU11648,24,Male,Political Science,WhatsApp,4.7,4.1,7.2,Communication,3.78
+STU11649,22,Male,Microbiology,Instagram,4.6,4.5,7.9,Communication,3.03
+STU11650,20,Female,Education,TikTok,6.7,1.7,5.1,Education,2.47
+STU11651,22,Male,Political Science,Facebook,4.4,6.2,7.3,Education,4.44
+STU11652,24,Female,Microbiology,WhatsApp,7.4,3.8,6.2,Communication,2.54
+STU11653,24,Female,Political Science,Instagram,5.0,5.3,5.8,Communication,4.33
+STU11654,20,Female,Computer Science,WhatsApp,3.8,3.1,6.2,Business,2.83
+STU11655,20,Female,Political Science,TikTok,6.1,3.5,4.5,Communication,3.15
+STU11656,22,Male,Engineering,WhatsApp,5.8,4.6,5.9,Communication,4.01
+STU11657,27,Female,Microbiology,WhatsApp,4.8,5.0,5.9,Entertainment,3.59
+STU11658,23,Male,Accounting,WhatsApp,2.4,4.5,7.6,Entertainment,3.65
+STU11659,27,Female,Economics,WhatsApp,5.3,2.5,6.9,Communication,2.55
+STU11660,23,Male,Education,Facebook,5.2,3.7,7.6,Education,2.17
+STU11661,25,Male,Mass Communication,Instagram,5.7,4.5,6.9,Communication,3.5
+STU11662,27,Male,Economics,Facebook,7.4,1.9,6.9,Education,2.82
+STU11663,26,Male,Business Administration,WhatsApp,1.4,4.8,7.2,Entertainment,3.86
+STU11664,18,Male,Microbiology,Instagram,2.9,3.1,8.3,Entertainment,2.82
+STU11665,26,Male,Business Administration,WhatsApp,0.5,6.0,6.7,Entertainment,4.2
+STU11666,23,Female,Education,Instagram,2.4,4.0,6.8,Education,3.16
+STU11667,22,Female,Education,X,7.2,4.1,5.5,Entertainment,2.88
+STU11668,26,Female,Biochemistry,TikTok,2.4,3.8,7.7,Communication,2.49
+STU11669,30,Male,Business Administration,WhatsApp,1.8,3.6,7.2,Entertainment,4.28
+STU11670,21,Female,Engineering,TikTok,2.9,3.5,7.8,News,3.77
+STU11671,18,Male,Education,TikTok,4.8,4.7,6.9,Business,2.85
+STU11672,23,Female,Engineering,TikTok,5.9,5.1,6.7,Communication,3.02
+STU11673,19,Male,Computer Science,Instagram,5.1,2.2,6.1,Communication,3.26
+STU11674,29,Female,Education,Instagram,4.8,3.9,6.8,Communication,3.15
+STU11675,22,Male,Economics,X,3.3,2.9,7.8,Communication,2.69
+STU11676,22,Female,Microbiology,WhatsApp,2.7,3.7,6.6,Communication,3.55
+STU11677,22,Male,Accounting,TikTok,3.1,3.2,4.7,Communication,2.13
+STU11678,23,Male,Economics,TikTok,3.4,4.2,6.8,Communication,3.61
+STU11679,24,Male,Economics,WhatsApp,4.2,4.5,5.9,Communication,2.93
+STU11680,23,Male,Microbiology,Instagram,3.6,3.3,6.8,Entertainment,3.36
+STU11681,21,Female,Mass Communication,WhatsApp,4.8,3.5,6.4,News,2.45
+STU11682,21,Female,Economics,TikTok,4.1,1.9,7.0,Entertainment,3.07
+STU11683,22,Female,Business Administration,X,1.8,5.6,7.3,Entertainment,3.05
+STU11684,18,Male,Economics,TikTok,2.5,5.3,6.6,Education,3.29
+STU11685,22,Male,Political Science,WhatsApp,3.2,4.4,7.5,Communication,3.0
+STU11686,21,Female,Engineering,TikTok,5.3,3.8,5.3,Business,3.25
+STU11687,24,Female,Mass Communication,Instagram,3.8,2.9,8.3,Communication,3.14
+STU11688,20,Male,Accounting,WhatsApp,2.8,5.2,7.4,Communication,3.54
+STU11689,22,Female,Engineering,TikTok,4.3,3.7,7.0,Entertainment,2.17
+STU11690,22,Male,Business Administration,X,5.0,4.1,7.1,Communication,3.03
+STU11691,21,Female,Mass Communication,TikTok,1.7,2.3,7.1,Business,3.19
+STU11692,30,Female,Political Science,TikTok,4.3,4.7,7.8,Entertainment,3.15
+STU11693,23,Male,Computer Science,TikTok,5.1,5.2,8.4,Entertainment,2.85
+STU11694,23,Female,Computer Science,TikTok,5.6,3.6,6.4,Communication,2.77
+STU11695,23,Male,Computer Science,WhatsApp,3.6,3.7,6.7,News,3.37
+STU11696,22,Female,Political Science,Instagram,5.4,3.3,7.8,News,3.15
+STU11697,25,Female,Microbiology,TikTok,1.9,5.1,5.5,Entertainment,3.47
+STU11698,21,Male,Business Administration,TikTok,5.2,2.9,6.6,Education,3.6
+STU11699,26,Female,Computer Science,Instagram,5.0,3.5,6.4,Communication,4.02
+STU11700,19,Female,Political Science,TikTok,3.3,3.0,8.3,Entertainment,2.93
+STU11701,22,Male,Education,Facebook,5.4,3.7,6.4,Education,2.98
+STU11702,24,Female,Accounting,WhatsApp,7.8,1.5,7.0,Business,2.36
+STU11703,19,Female,Business Administration,Instagram,5.0,3.5,6.8,Education,3.25
+STU11704,22,Female,Microbiology,WhatsApp,2.5,2.0,7.5,Entertainment,2.85
+STU11705,20,Male,Mass Communication,TikTok,6.0,4.7,6.8,News,3.43
+STU11706,26,Male,Computer Science,X,4.6,2.6,6.1,Communication,4.16
+STU11707,25,Female,Computer Science,WhatsApp,4.0,3.7,6.7,Communication,4.12
+STU11708,23,Female,Political Science,X,5.2,2.7,5.9,Business,3.57
+STU11709,23,Female,Business Administration,WhatsApp,4.4,4.2,8.4,Entertainment,4.3
+STU11710,22,Male,Political Science,X,2.9,5.2,9.5,Entertainment,4.16
+STU11711,23,Male,Computer Science,Facebook,3.8,3.4,6.8,Education,1.28
+STU11712,20,Female,Political Science,X,7.5,2.6,8.4,Business,2.5
+STU11713,27,Male,Mass Communication,TikTok,4.3,4.6,6.1,Communication,3.53
+STU11714,24,Female,Accounting,Facebook,5.0,3.5,6.5,Entertainment,2.48
+STU11715,25,Male,Political Science,TikTok,5.8,2.9,6.3,Entertainment,2.05
+STU11716,22,Male,Political Science,Facebook,5.6,1.6,7.3,Communication,3.37
+STU11717,28,Female,Business Administration,WhatsApp,2.4,4.6,6.4,Communication,4.04
+STU11718,19,Male,Microbiology,WhatsApp,4.0,3.3,7.1,Communication,2.81
+STU11719,25,Male,Engineering,Instagram,4.3,4.1,6.6,Education,3.36
+STU11720,23,Male,Computer Science,X,5.2,3.2,7.6,Education,2.86
+STU11721,26,Male,Computer Science,WhatsApp,3.0,4.0,7.5,Entertainment,3.8
+STU11722,21,Female,Engineering,Facebook,3.8,3.9,7.5,News,2.86
+STU11723,21,Female,Economics,Facebook,5.5,2.5,7.5,Communication,2.19
+STU11724,21,Male,Biochemistry,TikTok,5.7,4.1,7.1,Communication,2.83
+STU11725,21,Male,Computer Science,TikTok,2.4,3.6,5.9,Business,3.58
+STU11726,21,Male,Economics,X,1.5,4.8,6.8,Entertainment,4.54
+STU11727,20,Male,Business Administration,X,4.2,4.3,6.5,News,4.19
+STU11728,18,Female,Engineering,TikTok,6.1,3.1,7.4,Entertainment,2.37
+STU11729,23,Male,Political Science,Instagram,3.1,4.3,6.9,Communication,3.7
+STU11730,18,Male,Microbiology,Instagram,5.4,3.6,5.9,Entertainment,2.91
+STU11731,20,Male,Business Administration,Instagram,5.9,5.3,6.6,Communication,2.98
+STU11732,21,Female,Business Administration,WhatsApp,3.3,2.9,7.0,Entertainment,3.48
+STU11733,22,Male,Computer Science,Facebook,2.3,4.4,6.1,Communication,4.26
+STU11734,23,Male,Mass Communication,WhatsApp,5.5,5.1,6.3,Communication,2.63
+STU11735,20,Female,Economics,Instagram,3.8,4.9,5.2,Entertainment,3.82
+STU11736,21,Male,Microbiology,WhatsApp,4.5,6.1,6.2,Entertainment,4.59
+STU11737,19,Female,Computer Science,TikTok,5.0,3.6,6.8,Education,3.13
+STU11738,26,Male,Computer Science,Facebook,6.2,3.8,5.6,News,2.05
+STU11739,24,Male,Biochemistry,WhatsApp,3.5,5.1,7.2,Communication,4.19
+STU11740,21,Female,Business Administration,TikTok,2.9,4.2,7.0,News,3.07
+STU11741,21,Female,Accounting,Facebook,5.1,2.6,7.2,Communication,2.37
+STU11742,27,Female,Engineering,TikTok,2.3,1.7,7.0,Entertainment,3.27
+STU11743,26,Male,Education,TikTok,3.4,3.3,7.4,Entertainment,3.49
+STU11744,24,Female,Engineering,WhatsApp,6.3,1.6,7.2,Communication,1.36
+STU11745,20,Female,Engineering,Instagram,1.7,3.7,7.6,Entertainment,3.49
+STU11746,22,Female,Engineering,TikTok,7.0,4.9,7.3,Education,3.27
+STU11747,27,Female,Computer Science,Instagram,4.7,4.2,6.9,Communication,2.49
+STU11748,25,Female,Microbiology,Facebook,5.1,5.1,8.0,Communication,3.86
+STU11749,26,Male,Business Administration,Instagram,3.0,4.6,5.3,Communication,4.02
+STU11750,28,Male,Political Science,WhatsApp,1.0,4.7,7.3,Communication,4.25
+STU11751,25,Male,Business Administration,TikTok,5.9,3.8,5.4,Communication,3.47
+STU11752,21,Female,Political Science,Instagram,3.5,4.1,6.5,Entertainment,3.12
+STU11753,28,Male,Mass Communication,Instagram,4.7,3.2,6.9,Education,2.92
+STU11754,21,Male,Computer Science,WhatsApp,7.0,2.7,8.0,News,3.41
+STU11755,23,Male,Education,Instagram,6.9,2.5,6.5,Communication,2.39
+STU11756,18,Female,Education,TikTok,6.2,4.2,7.1,News,3.48
+STU11757,27,Female,Education,WhatsApp,5.5,3.5,8.2,Entertainment,2.37
+STU11758,20,Male,Mass Communication,WhatsApp,4.4,3.3,6.6,Communication,2.66
+STU11759,20,Male,Accounting,TikTok,5.6,4.7,7.2,Entertainment,3.54
+STU11760,19,Female,Microbiology,WhatsApp,7.1,2.5,6.9,Business,3.0
+STU11761,19,Female,Accounting,WhatsApp,4.7,3.2,7.3,Communication,2.94
+STU11762,22,Male,Computer Science,Facebook,4.3,4.0,6.4,Business,2.73
+STU11763,19,Female,Engineering,Instagram,4.2,4.2,6.5,Business,2.8
+STU11764,25,Female,Accounting,X,4.2,3.5,7.2,Communication,2.74
+STU11765,19,Male,Economics,Instagram,7.0,2.2,6.1,News,3.98
+STU11766,23,Female,Economics,Instagram,5.0,2.0,7.1,Entertainment,1.78
+STU11767,23,Female,Microbiology,WhatsApp,4.3,3.2,6.9,Entertainment,3.9
+STU11768,22,Male,Biochemistry,WhatsApp,6.3,5.8,8.3,Communication,3.68
+STU11769,25,Female,Business Administration,X,4.9,3.7,6.4,Business,2.75
+STU11770,20,Male,Mass Communication,Instagram,5.5,3.1,5.6,Communication,2.15
+STU11771,21,Female,Engineering,WhatsApp,3.6,2.6,6.1,Communication,4.02
+STU11772,23,Female,Education,Instagram,3.2,1.3,6.3,News,2.07
+STU11773,21,Female,Microbiology,Facebook,3.2,3.6,6.1,Communication,3.58
+STU11774,19,Female,Mass Communication,WhatsApp,7.0,6.1,6.0,News,4.08
+STU11775,22,Female,Business Administration,WhatsApp,5.6,4.9,6.7,Communication,3.94
+STU11776,20,Female,Microbiology,Instagram,3.7,4.4,7.6,Entertainment,3.53
+STU11777,20,Male,Education,WhatsApp,5.6,3.0,6.9,Business,1.93
+STU11778,25,Male,Political Science,WhatsApp,6.8,3.6,8.1,Entertainment,3.02
+STU11779,24,Female,Biochemistry,WhatsApp,2.9,2.8,7.1,Communication,2.96
+STU11780,18,Female,Mass Communication,X,2.1,5.1,7.0,Entertainment,2.72
+STU11781,19,Female,Computer Science,Instagram,4.1,5.3,5.0,Communication,4.45
+STU11782,20,Female,Education,TikTok,3.7,5.5,7.3,Entertainment,3.94
+STU11783,23,Female,Accounting,Instagram,3.7,3.9,7.2,Entertainment,2.56
+STU11784,22,Male,Microbiology,WhatsApp,1.1,4.6,7.6,Entertainment,4.28
+STU11785,23,Female,Computer Science,Instagram,3.1,2.3,6.7,Entertainment,2.79
+STU11786,21,Female,Business Administration,TikTok,4.9,2.7,6.8,Entertainment,2.14
+STU11787,18,Female,Microbiology,WhatsApp,2.3,3.3,7.9,Entertainment,3.51
+STU11788,22,Female,Mass Communication,TikTok,1.6,2.2,7.6,Education,3.24
+STU11789,22,Female,Economics,WhatsApp,4.3,2.7,7.7,Entertainment,2.64
+STU11790,20,Male,Engineering,TikTok,7.0,4.3,6.4,Entertainment,2.85
+STU11791,24,Male,Economics,Instagram,4.8,3.6,5.3,Communication,2.49
+STU11792,20,Female,Political Science,Facebook,5.2,4.7,7.1,Entertainment,3.94
+STU11793,25,Male,Accounting,Instagram,3.7,1.6,6.6,Communication,2.31
+STU11794,25,Female,Mass Communication,Instagram,2.3,3.4,7.2,Entertainment,3.19
+STU11795,30,Female,Accounting,Instagram,1.1,3.7,7.4,Education,3.49
+STU11796,22,Female,Political Science,TikTok,3.6,5.5,5.5,Entertainment,4.04
+STU11797,21,Male,Computer Science,Facebook,4.1,5.8,7.6,Education,4.18
+STU11798,27,Female,Business Administration,WhatsApp,3.3,4.6,6.4,News,3.27
+STU11799,19,Male,Biochemistry,TikTok,0.8,2.6,7.0,Business,2.82
+STU11800,21,Female,Business Administration,WhatsApp,2.7,2.9,7.6,Entertainment,3.17
+STU11801,20,Female,Biochemistry,TikTok,2.1,3.8,8.0,Entertainment,3.01
+STU11802,21,Male,Political Science,Instagram,6.7,5.1,6.6,Entertainment,4.56
+STU11803,23,Male,Education,Facebook,3.9,4.6,7.0,Entertainment,3.32
+STU11804,21,Male,Mass Communication,Instagram,4.1,5.1,6.7,Entertainment,3.46
+STU11805,24,Male,Business Administration,TikTok,2.9,5.6,7.6,Education,4.39
+STU11806,20,Female,Engineering,X,5.4,2.9,6.2,Business,2.86
+STU11807,19,Male,Engineering,X,5.2,2.3,7.2,Business,3.84
+STU11808,24,Male,Economics,TikTok,3.4,5.1,7.5,Business,4.34
+STU11809,24,Male,Computer Science,WhatsApp,4.8,3.1,5.8,Communication,3.41
+STU11810,22,Female,Accounting,WhatsApp,5.9,2.6,7.8,Entertainment,3.12
+STU11811,26,Male,Business Administration,WhatsApp,4.2,3.7,5.5,News,2.98
+STU11812,23,Male,Business Administration,TikTok,3.7,3.1,7.5,Communication,2.08
+STU11813,18,Male,Microbiology,Facebook,1.0,4.5,7.5,Entertainment,3.04
+STU11814,25,Male,Political Science,TikTok,7.8,5.8,7.2,Communication,2.74
+STU11815,21,Female,Microbiology,WhatsApp,3.3,2.8,8.3,Business,2.34
+STU11816,29,Female,Political Science,Facebook,4.8,2.7,7.3,News,3.2
+STU11817,22,Male,Microbiology,X,5.9,2.7,8.1,Communication,2.88
+STU11818,19,Male,Biochemistry,WhatsApp,4.3,3.7,6.7,Education,3.01
+STU11819,19,Male,Economics,Facebook,3.9,6.6,7.5,News,4.33
+STU11820,19,Male,Computer Science,X,3.7,4.8,8.0,Entertainment,2.83
+STU11821,24,Female,Accounting,Instagram,0.5,3.2,7.2,Education,2.86
+STU11822,26,Male,Economics,WhatsApp,7.1,3.0,6.3,Entertainment,2.79
+STU11823,22,Female,Economics,TikTok,6.3,3.1,7.4,News,3.21
+STU11824,23,Male,Education,WhatsApp,4.3,3.2,7.6,Business,2.3
+STU11825,24,Female,Political Science,X,3.6,2.2,5.9,Communication,2.43
+STU11826,22,Male,Mass Communication,WhatsApp,1.9,3.8,8.7,Education,3.45
+STU11827,19,Female,Biochemistry,X,2.6,1.7,6.8,Communication,2.33
+STU11828,21,Female,Computer Science,WhatsApp,2.4,4.6,6.8,Education,3.06
+STU11829,30,Male,Accounting,Instagram,7.4,2.1,6.4,Education,2.91
+STU11830,25,Male,Mass Communication,Instagram,7.3,2.5,7.7,Communication,2.85
+STU11831,24,Female,Microbiology,WhatsApp,4.1,2.4,6.3,Communication,2.4
+STU11832,21,Female,Political Science,WhatsApp,7.1,2.9,6.1,Business,2.71
+STU11833,23,Male,Biochemistry,TikTok,2.5,3.1,7.4,Education,2.17
+STU11834,22,Male,Political Science,TikTok,7.4,2.0,5.7,Education,1.8
+STU11835,18,Male,Computer Science,X,5.7,3.4,6.8,Communication,2.6
+STU11836,24,Female,Mass Communication,X,4.6,3.3,6.6,Entertainment,2.25
+STU11837,20,Female,Microbiology,TikTok,5.4,5.8,6.6,Education,3.91
+STU11838,20,Female,Education,Facebook,3.8,2.2,6.2,News,3.48
+STU11839,20,Female,Political Science,X,2.4,2.6,9.0,Entertainment,3.11
+STU11840,19,Female,Accounting,TikTok,7.5,4.4,8.0,Entertainment,3.13
+STU11841,24,Male,Economics,TikTok,3.2,4.4,6.9,Communication,3.55
+STU11842,26,Female,Economics,Instagram,6.1,2.6,7.5,News,3.13
+STU11843,24,Male,Education,Instagram,2.4,5.2,5.9,Entertainment,4.73
+STU11844,23,Female,Business Administration,WhatsApp,3.6,3.6,6.0,Entertainment,2.42
+STU11845,26,Female,Biochemistry,X,8.2,3.3,7.1,Communication,3.17
+STU11846,21,Male,Mass Communication,Instagram,4.2,5.4,8.0,Business,4.13
+STU11847,21,Female,Education,TikTok,4.0,2.9,7.3,Business,3.23
+STU11848,24,Male,Biochemistry,Instagram,0.5,4.9,9.0,Education,4.1
+STU11849,20,Male,Microbiology,TikTok,3.7,4.4,7.2,Entertainment,2.72
+STU11850,21,Male,Political Science,Instagram,2.7,3.5,8.5,Entertainment,3.18
+STU11851,25,Female,Engineering,Facebook,7.9,4.8,8.3,Entertainment,3.6
+STU11852,24,Female,Education,WhatsApp,4.0,2.4,6.2,Entertainment,3.22
+STU11853,26,Male,Biochemistry,Instagram,4.0,5.5,6.3,Communication,3.62
+STU11854,26,Female,Biochemistry,Instagram,3.3,2.8,5.7,Entertainment,3.04
+STU11855,23,Female,Computer Science,Facebook,5.2,3.6,7.8,Education,3.15
+STU11856,22,Female,Political Science,WhatsApp,4.8,5.4,5.9,Communication,2.81
+STU11857,19,Male,Business Administration,TikTok,6.2,4.2,9.3,Entertainment,2.33
+STU11858,26,Male,Biochemistry,TikTok,5.2,3.1,6.0,Education,2.75
+STU11859,19,Female,Accounting,TikTok,4.6,3.4,5.7,Entertainment,2.91
+STU11860,19,Female,Computer Science,Facebook,6.0,3.9,5.9,Communication,3.31
+STU11861,18,Female,Mass Communication,Instagram,4.6,1.1,6.5,Education,1.51
+STU11862,23,Male,Mass Communication,TikTok,5.1,2.3,6.6,Communication,2.48
+STU11863,23,Male,Education,TikTok,0.7,3.9,6.3,Education,3.08
+STU11864,20,Male,Business Administration,TikTok,5.8,1.5,7.0,Entertainment,3.43
+STU11865,20,Female,Economics,Facebook,5.4,4.0,7.2,Communication,3.02
+STU11866,20,Female,Political Science,WhatsApp,4.5,2.4,6.5,Education,3.31
+STU11867,24,Male,Business Administration,X,1.1,4.5,5.8,News,3.8
+STU11868,23,Female,Accounting,Facebook,5.4,2.3,6.9,Communication,2.15
+STU11869,20,Female,Economics,WhatsApp,4.1,4.3,6.9,Entertainment,3.22
+STU11870,22,Male,Economics,Instagram,6.2,1.8,5.9,News,2.1
+STU11871,20,Male,Accounting,WhatsApp,1.6,4.4,6.6,Communication,3.65
+STU11872,24,Female,Business Administration,WhatsApp,1.4,2.4,7.9,Entertainment,2.47
+STU11873,26,Female,Microbiology,Instagram,2.9,6.3,6.3,Entertainment,4.3
+STU11874,19,Male,Political Science,TikTok,3.7,4.1,6.7,Entertainment,3.79
+STU11875,25,Female,Business Administration,WhatsApp,6.7,2.6,6.3,Communication,2.47
+STU11876,22,Female,Microbiology,Facebook,3.3,4.4,8.6,Communication,3.21
+STU11877,22,Male,Political Science,WhatsApp,4.3,1.3,6.0,Communication,1.5
+STU11878,21,Female,Accounting,Instagram,2.8,3.8,5.4,News,2.97
+STU11879,21,Male,Microbiology,Facebook,3.9,2.5,6.1,Entertainment,2.6
+STU11880,20,Male,Economics,WhatsApp,5.9,1.7,7.0,Communication,1.7
+STU11881,23,Female,Mass Communication,TikTok,4.1,3.9,6.8,Education,2.48
+STU11882,26,Male,Computer Science,WhatsApp,3.3,4.3,5.6,Communication,3.64
+STU11883,23,Male,Political Science,Facebook,3.7,6.4,6.4,News,2.86
+STU11884,22,Female,Microbiology,Facebook,6.4,3.6,5.3,Communication,3.28
+STU11885,19,Male,Biochemistry,Facebook,1.4,3.7,7.9,Communication,3.04
+STU11886,27,Female,Computer Science,TikTok,2.5,5.4,8.0,Entertainment,3.27
+STU11887,23,Male,Microbiology,X,5.9,2.0,7.3,Communication,1.79
+STU11888,19,Female,Biochemistry,TikTok,4.9,5.1,5.9,News,3.34
+STU11889,18,Male,Political Science,WhatsApp,2.6,3.7,6.6,Entertainment,3.91
+STU11890,23,Female,Political Science,Facebook,2.5,3.0,6.9,News,3.16
+STU11891,24,Female,Business Administration,WhatsApp,5.0,2.5,6.7,Entertainment,3.0
+STU11892,25,Female,Accounting,TikTok,3.4,3.6,7.1,Communication,3.03
+STU11893,23,Female,Microbiology,Instagram,2.6,3.1,8.7,Entertainment,4.14
+STU11894,24,Male,Accounting,WhatsApp,1.7,3.9,6.6,Entertainment,2.74
+STU11895,19,Female,Business Administration,X,5.2,2.9,8.7,Education,2.36
+STU11896,23,Male,Education,X,3.2,4.3,7.9,Business,2.85
+STU11897,23,Female,Engineering,TikTok,2.4,3.7,7.6,News,3.52
+STU11898,20,Male,Engineering,WhatsApp,4.8,3.5,6.4,Education,3.62
+STU11899,22,Male,Mass Communication,WhatsApp,6.9,4.3,6.7,Education,3.39
+STU11900,20,Female,Computer Science,X,3.8,3.5,6.2,Communication,4.07
+STU11901,25,Female,Education,Instagram,4.6,2.6,5.0,Communication,2.0
+STU11902,23,Female,Biochemistry,WhatsApp,5.0,2.8,7.1,News,3.55
+STU11903,28,Female,Business Administration,Facebook,4.1,3.9,7.2,News,2.47
+STU11904,23,Male,Biochemistry,WhatsApp,4.9,3.2,7.1,Education,2.12
+STU11905,20,Female,Mass Communication,TikTok,3.4,5.4,7.2,Communication,3.39
+STU11906,19,Male,Mass Communication,TikTok,3.1,2.6,6.2,Entertainment,2.41
+STU11907,20,Male,Business Administration,Instagram,2.9,4.1,6.7,Communication,3.09
+STU11908,19,Male,Accounting,WhatsApp,4.1,4.1,8.1,Entertainment,3.09
+STU11909,22,Female,Mass Communication,X,4.6,5.0,5.2,Entertainment,3.05
+STU11910,19,Male,Business Administration,WhatsApp,7.1,3.3,6.5,Communication,2.98
+STU11911,24,Male,Biochemistry,TikTok,4.1,2.7,6.8,News,2.57
+STU11912,22,Female,Computer Science,Facebook,7.5,3.6,6.7,News,3.1
+STU11913,26,Female,Education,Facebook,4.6,1.6,7.2,Communication,2.58
+STU11914,29,Female,Accounting,TikTok,4.3,2.8,7.4,Communication,2.47
+STU11915,25,Male,Computer Science,WhatsApp,4.6,1.6,7.3,Communication,2.68
+STU11916,22,Male,Accounting,WhatsApp,7.1,2.1,5.3,Communication,2.13
+STU11917,27,Male,Computer Science,Instagram,5.2,3.0,7.6,Entertainment,2.16
+STU11918,21,Female,Education,TikTok,2.9,5.2,6.9,Entertainment,4.9
+STU11919,20,Female,Engineering,WhatsApp,2.3,4.2,6.9,News,3.17
+STU11920,22,Male,Computer Science,Instagram,4.7,3.9,6.3,Communication,3.89
+STU11921,25,Male,Business Administration,Facebook,1.2,5.7,6.1,Communication,3.65
+STU11922,22,Female,Political Science,WhatsApp,5.2,1.5,5.5,Entertainment,2.85
+STU11923,28,Female,Economics,Instagram,3.3,1.3,5.5,Education,2.68
+STU11924,24,Female,Economics,WhatsApp,6.3,2.5,6.8,Entertainment,3.02
+STU11925,22,Male,Biochemistry,WhatsApp,4.2,4.9,9.0,Entertainment,2.88
+STU11926,21,Female,Education,Instagram,5.5,4.9,7.8,Communication,3.39
+STU11927,22,Male,Engineering,X,6.9,2.3,7.0,Communication,2.02
+STU11928,21,Female,Accounting,TikTok,5.3,5.5,6.1,Education,3.37
+STU11929,20,Male,Accounting,Facebook,4.2,5.5,6.5,Entertainment,4.12
+STU11930,25,Female,Mass Communication,WhatsApp,6.3,5.0,6.3,News,2.93
+STU11931,22,Female,Accounting,TikTok,5.5,3.4,7.1,Entertainment,3.97
+STU11932,19,Female,Computer Science,TikTok,3.9,2.7,7.9,News,2.97
+STU11933,21,Male,Microbiology,TikTok,5.4,3.9,7.4,Business,3.08
+STU11934,20,Male,Economics,WhatsApp,5.4,3.8,6.2,Communication,2.42
+STU11935,26,Female,Accounting,WhatsApp,4.4,4.3,6.8,Entertainment,3.42
+STU11936,22,Female,Computer Science,TikTok,4.8,3.5,6.5,Entertainment,3.25
+STU11937,21,Male,Economics,WhatsApp,1.8,4.6,8.1,Entertainment,3.53
+STU11938,24,Female,Mass Communication,WhatsApp,4.4,3.1,8.1,Communication,2.69
+STU11939,21,Female,Political Science,TikTok,2.5,3.1,7.6,Education,3.63
+STU11940,30,Female,Mass Communication,TikTok,5.2,2.5,6.7,Entertainment,2.5
+STU11941,22,Male,Microbiology,WhatsApp,6.5,3.6,7.3,News,3.1
+STU11942,27,Male,Microbiology,WhatsApp,4.2,5.4,7.3,News,4.43
+STU11943,20,Male,Biochemistry,TikTok,6.9,4.0,6.3,Entertainment,2.25
+STU11944,20,Male,Education,Facebook,1.9,4.4,6.7,Communication,4.17
+STU11945,26,Female,Accounting,Instagram,3.0,3.1,6.4,Entertainment,2.24
+STU11946,20,Female,Accounting,WhatsApp,2.1,4.0,5.8,Business,2.62
+STU11947,26,Male,Microbiology,Facebook,3.4,4.3,7.4,Communication,3.31
+STU11948,19,Female,Biochemistry,Instagram,2.3,3.9,8.1,News,1.88
+STU11949,20,Female,Accounting,Facebook,2.6,2.1,7.1,Entertainment,2.28
+STU11950,24,Male,Political Science,TikTok,5.1,5.0,7.6,Communication,3.74
+STU11951,19,Female,Education,WhatsApp,3.6,4.1,6.9,Communication,3.26
+STU11952,24,Female,Political Science,X,5.0,2.3,7.0,Entertainment,2.41
+STU11953,18,Female,Computer Science,TikTok,2.2,3.6,7.1,Entertainment,2.91
+STU11954,18,Male,Engineering,WhatsApp,3.5,3.9,5.5,News,2.76
+STU11955,27,Female,Computer Science,Instagram,2.1,3.3,7.0,Entertainment,3.6
+STU11956,22,Female,Engineering,TikTok,3.3,2.1,6.6,Education,2.21
+STU11957,20,Male,Business Administration,X,2.2,4.4,7.7,News,4.09
+STU11958,18,Male,Political Science,WhatsApp,6.3,4.2,7.1,News,2.52
+STU11959,26,Male,Biochemistry,Facebook,4.6,3.9,6.7,Entertainment,3.04
+STU11960,22,Male,Business Administration,WhatsApp,2.7,3.6,5.9,Entertainment,3.39
+STU11961,24,Female,Biochemistry,Facebook,4.3,2.4,7.1,Entertainment,2.17
+STU11962,22,Female,Business Administration,WhatsApp,3.8,3.2,7.1,Entertainment,2.34
+STU11963,25,Female,Computer Science,X,5.2,3.6,7.5,Business,3.8
+STU11964,23,Female,Engineering,TikTok,7.6,4.7,6.8,Entertainment,2.91
+STU11965,23,Male,Computer Science,X,4.5,1.4,5.6,Entertainment,2.96
+STU11966,22,Male,Business Administration,Instagram,6.0,2.4,5.7,Business,2.22
+STU11967,20,Male,Mass Communication,WhatsApp,3.1,3.2,7.9,Entertainment,3.5
+STU11968,25,Female,Education,Instagram,4.7,4.7,6.0,News,3.93
+STU11969,19,Male,Political Science,Instagram,6.1,5.0,6.0,Entertainment,3.61
+STU11970,25,Male,Political Science,TikTok,4.7,3.1,6.9,Communication,2.25
+STU11971,24,Male,Computer Science,Facebook,4.5,3.7,5.8,Entertainment,2.88
+STU11972,25,Female,Accounting,WhatsApp,5.6,2.5,6.4,Entertainment,2.78
+STU11973,20,Female,Biochemistry,Facebook,6.6,3.9,7.2,Entertainment,2.65
+STU11974,27,Female,Education,Instagram,1.7,4.3,7.1,Education,4.09
+STU11975,24,Female,Biochemistry,Instagram,5.6,2.4,5.5,Entertainment,2.81
+STU11976,26,Female,Political Science,Facebook,0.5,5.8,7.8,Education,4.44
+STU11977,19,Female,Business Administration,TikTok,5.5,2.0,5.3,Entertainment,2.11
+STU11978,23,Male,Microbiology,WhatsApp,2.1,4.3,6.9,Business,4.16
+STU11979,20,Male,Business Administration,Instagram,5.3,3.8,7.1,News,3.33
+STU11980,25,Male,Accounting,Instagram,3.1,6.7,5.2,Communication,4.08
+STU11981,23,Female,Business Administration,TikTok,2.7,2.9,7.7,Communication,2.76
+STU11982,22,Female,Business Administration,WhatsApp,1.4,6.4,6.3,Entertainment,3.94
+STU11983,23,Male,Mass Communication,Facebook,0.5,5.9,6.4,Entertainment,3.69
+STU11984,18,Female,Political Science,TikTok,4.8,5.1,6.1,Communication,3.24
+STU11985,20,Male,Political Science,WhatsApp,5.3,4.1,6.4,Entertainment,3.92
+STU11986,23,Male,Political Science,Facebook,6.0,2.1,7.0,Communication,3.4
+STU11987,22,Female,Economics,WhatsApp,5.2,1.0,7.2,News,2.01
+STU11988,20,Female,Mass Communication,Facebook,5.9,4.8,7.7,Communication,2.48
+STU11989,24,Male,Political Science,Facebook,5.1,3.2,6.9,Entertainment,3.41
+STU11990,27,Male,Accounting,TikTok,8.2,3.7,5.8,Education,3.24
+STU11991,27,Male,Biochemistry,TikTok,0.8,3.4,8.7,Communication,3.26
+STU11992,22,Female,Business Administration,Facebook,6.1,1.8,8.1,Communication,2.07
+STU11993,29,Male,Political Science,Facebook,4.2,3.9,7.0,Entertainment,3.47
+STU11994,19,Female,Education,X,5.2,3.5,6.6,Communication,3.6
+STU11995,22,Male,Microbiology,WhatsApp,5.0,3.4,7.4,Entertainment,2.38
+STU11996,24,Female,Economics,TikTok,3.1,6.5,6.3,Education,4.1
+STU11997,23,Female,Biochemistry,Instagram,4.8,3.8,7.2,Entertainment,2.95
+STU11998,21,Female,Microbiology,Instagram,5.0,1.7,6.3,Education,2.84
+STU11999,23,Female,Business Administration,WhatsApp,4.1,3.5,7.0,News,3.87
+STU12000,21,Male,Computer Science,WhatsApp,2.1,4.5,8.2,Education,2.93

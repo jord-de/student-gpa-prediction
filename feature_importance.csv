@@ -1,0 +1,27 @@
+Feature,Importance
+num__Study Hours Per Day,0.2741694606032414
+cat__Department_Accounting,0.08790204152053595
+cat__Department_Computer Science,0.08280339978812108
+num__Daily Social Media Hours,0.0769724990944155
+cat__Department_Economics,0.05831360131879644
+cat__Social Media Purpose_Business,0.05128845587638123
+cat__Department_Biochemistry,0.0436099070258772
+cat__Department_Education,0.03980610031231151
+cat__Social Media Platform_Instagram,0.037029879966654924
+cat__Department_Political Science,0.032087990299235016
+cat__Department_Engineering,0.029438540217568986
+cat__Social Media Platform_WhatsApp,0.028347167201493394
+cat__Department_Microbiology,0.02523815963608031
+cat__Social Media Purpose_Communication,0.025078720536023842
+cat__Social Media Purpose_Entertainment,0.016806701691086574
+cat__Department_Mass Communication,0.016491704673760776
+cat__Department_Business Administration,0.01040438154484396
+num__Sleep Hours Per Day,0.006632630981787501
+cat__Social Media Platform_TikTok,0.006282797591736278
+cat__Social Media Purpose_News,0.005165792566425822
+cat__Gender_Female,0.004575214261066307
+cat__Gender_Male,0.004575214261066272
+cat__Social Media Purpose_Education,0.0042372410828449645
+cat__Social Media Platform_Facebook,0.0016359320417688196
+cat__Social Media Platform_X,0.0007639831316564056
+num__Age,0.0006807102731829343
