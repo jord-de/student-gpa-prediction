@@ -18,8 +18,8 @@ st.set_page_config(
 # LOAD MODEL AND DATASET
 # --------------------------------
 
-MODEL_PATH = "model/best_student_performance_model.pkl"
-DATA_PATH = "dataset/student_social_media.csv"
+MODEL_PATH = "Model/best_student_performance_model.pkl"
+DATA_PATH = "Dataset/student_social_media.csv"
 
 @st.cache_resource
 def load_model():
